@@ -1,0 +1,13 @@
+# Side Nav
+# List links that should appear in the site sidebar here
+- text: "Home"
+  url: /
+- text: "Getting Started"
+  url: /getting-started/
+  sub_nav:
+  - text: "Application"
+    url: /getting-started/team/
+  - text: "Requirements"
+    url: /getting-started/requirements/
+- text: "About"
+  url: /about/

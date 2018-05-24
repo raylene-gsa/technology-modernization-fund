@@ -1,0 +1,42 @@
+# markdown
+markdown: kramdown
+kramdown:
+  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
+highlighter: rouge
+
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+
+include: ["_pages"]
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Technology Modernization Fund"
+description: "Welcome to the party."
+baseurl: ""
+
+# Google Analytics
+# google_analytics: UA—110413123-1
+
+# Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
+# baseurl: /software
+
+# GitHub information
+org_name: gsa
+repo_name: technology-modernization-fund
+branch: master
