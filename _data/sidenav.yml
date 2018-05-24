@@ -9,5 +9,12 @@
     url: /getting-started/team/
   - text: "Requirements"
     url: /getting-started/requirements/
+- text: "Latest Updates"
+  url: /updates/
+- text: "Press"
+  url: /press/
 - text: "About"
   url: /about/
+  sub_nav:
+  - text: "Team"
+    url: /about/team/

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Mission
-permalink: /mission/
+title: About
+permalink: /about/
 description: ""
 deck: 'Big text that talks about the mission goes here.'
 
