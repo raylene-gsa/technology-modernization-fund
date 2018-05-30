@@ -6,6 +6,6 @@ layout: page
 ---
 
 
-Hello! :balloon:
+Hello! :balloon: :balloon:
 
 This is the homepage.
