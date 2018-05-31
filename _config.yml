@@ -27,7 +27,7 @@ exclude:
 
 # Site metadata
 name: "Technology Modernization Fund"
-description: "Welcome to the party."
+description: "A new funding model for Federal technology modernization projects."
 baseurl: ""
 
 # Google Analytics

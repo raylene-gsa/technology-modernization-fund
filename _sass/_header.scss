@@ -2,18 +2,18 @@
 
 // Controls the height and color of the navbar
 .usa-header{
-  background: #212346;
-  border: none;
+  background: #293340;
+  border-bottom: 3px solid #a98860;
   .usa-navbar{
     height: auto;
 
     .usa-logo{
       img{
-        width: 60px;
+        width: 90px;
         float:left;
       }
       .title{
-        margin-top: 3px;
+        margin-top: 17px;
         margin-left: 15px;
         float:left;
         width: 600px;
