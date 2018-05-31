@@ -18,3 +18,14 @@
   url: /projects/
 - text: "Submit a Proposal"
   url: /submit/
+  sub_nav:
+  - text: "Submission Form"
+    url: /submit/form/
+  - text: "Selection Criteria"
+    url: /submit/criteria/
+  - text: "Common Questions"
+    url: /questions/
+  - text: "Documents & Templates"
+    url: /templates/
+  - text: "Get Help Preparing Your Submission"
+    url: /get-help/
