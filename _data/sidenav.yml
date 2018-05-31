@@ -1,20 +1,20 @@
 # Side Nav
 # List links that should appear in the site sidebar here
+
 - text: "Home"
   url: /
-- text: "Getting Started"
-  url: /getting-started/
+- text: "Overview"
+  url: /overview/
   sub_nav:
-  - text: "Application"
-    url: /getting-started/team/
-  - text: "Requirements"
-    url: /getting-started/requirements/
-- text: "Latest Updates"
-  url: /updates/
-- text: "Press"
-  url: /press/
-- text: "About"
-  url: /about/
-  sub_nav:
-  - text: "Team"
-    url: /about/team/
+  - text: "Process"
+    url: /overview/process/
+  - text: "Why use the TMF?"
+    url: /overview/why-tmf/
+  - text: "Mission & Guiding Principles"
+    url: /overview/mission/
+- text: "Meet the Board"
+  url: /board/
+- text: "See the Projects"
+  url: /projects/
+- text: "Submit a Proposal"
+  url: /submit/
