@@ -7,4 +7,4 @@ deck: ''
 
 ---
 
-text goes here...
+[Will we have an online submission form or just an email address?]
