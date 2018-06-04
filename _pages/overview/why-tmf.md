@@ -6,9 +6,12 @@ description: ""
 
 ---
 
-[INTRO HERE]
+Agencies have a number of reasons to consider the TMF as the funding source for their proposed soltution:
 
-- **Strong Incentives.** Rigorous project submissions and competition before the Board incentivizes agencies to develop comprehensive, executable modernization proposals.
-- **TMF Board.** An interdisciplinary executive-level Board of experts will only recommend a project for funding after rigorous evaluation.
-- **Technical Expertise.** Approved funding is paired with technical experts in design, engineering, acquisition, and cybersecurity to help projects execute quickly and successfully.
-- **Incremental Funding.** Iterative funding, tied to delivery of milestones, will allocate money as needed over time, and only when a project is able to actually produce results - transfers may be reimbursed to the TMF over a period of up to five years.
+-	**Strong Incentives.** The TMF reimagines how IT modernization projects are funded and executed. The five year repayment window provides agencies with flexibility to invest in new IT modernization projects.
+
+-	**The Technology Modernization Board.** The interdisciplinary executive-level Board ensures projects are rigorously evaluated, best positioned for success, and take advantage of common solutions across the Federal Government.
+
+-	**Technical Expertise.** Approved projects can leverage technical experts in design, engineering, acquisition, and cybersecurity to enhance project teams.
+
+-	**Incremental Funding.** Iterative funding, tied to delivery of milestones, enables more agile and dynamic IT modernization funding and ensures taxpayers dollars are maximized.
