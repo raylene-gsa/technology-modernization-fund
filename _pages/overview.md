@@ -20,6 +20,6 @@ In FY 2018, the TMF received $100 million to fund modernization projects. The TM
 
 Agencies submit technology modernization proposals through a two-phased approval process: 
 
-1. Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review.
+1. **Agencies submit Initial Project Proposals (IPPs),** which act as a low burden pre-screen to maximize the number of unique projects the Board can review.
 
-2. If the Board approves the IPP, project teams present their proposal to the Board in-person. Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years. 
+2. **If the Board approves the IPP, project teams present their proposal to the Board in-person.** Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years. 
