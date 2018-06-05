@@ -3,6 +3,21 @@ Welcome to the party!
 
 ---
 
+## Links
+
+Need to link to another site? Here is how links are formatted within markdown — `[]()`:
+
+```
+[text to be linked](https://digital.gov)
+```
+
+Need to link to another page within the site?
+Add the link shortcode and the path to the file: `{% link _pages/submit.md %}`
+
+```
+Fill our our [submission guidelines]({% link _pages/submit.md %})
+```
+
 ## Images
 
 Images can be uploaded into the `/images/` folder:
