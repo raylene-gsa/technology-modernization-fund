@@ -22,7 +22,7 @@ The TMF Board is made up of 7 members:
 
 **Suzette Kent, Federal Chief Information Officer, Office of Management and Budget**
 
-Suzette Kent is an industry leader in large-scale business transformation using technology for the world’s most complex organizations. Although technology change has been at the core of her professional career, retooling the workforce and creating new opportunities for people have been essential elements of her work. Ms. Kent has served as an enterprise leader for organizational learning, diversity and inclusiveness, and career development throughout her career. She is a frequent speaker in global industry forums, has published thought leadership pieces, and holds patents in banking processes.
+{% include image.html path="headshots/kent.jpg" alt-text="Suzette Kent" %} Suzette Kent is an industry leader in large-scale business transformation using technology for the world’s most complex organizations. Although technology change has been at the core of her professional career, retooling the workforce and creating new opportunities for people have been essential elements of her work. Ms. Kent has served as an enterprise leader for organizational learning, diversity and inclusiveness, and career development throughout her career. She is a frequent speaker in global industry forums, has published thought leadership pieces, and holds patents in banking processes.
 
 ### Senior Tech Official from GSA - Permanent Member
 
