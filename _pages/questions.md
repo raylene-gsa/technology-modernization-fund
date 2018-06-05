@@ -10,12 +10,12 @@ deck: ''
 ## Common Questions
 
 ### What is the purpose of the TMF and how is it established?
-Per the [Modernizing Government Technology (MGT) Act](resources/mgt-act.md), the purpose of the TMF is to fund projects “for technology-related activities to improve information technology, and to enhance cybersecurity across the Federal Government.”
+Per the [Modernizing Government Technology (MGT) Act](documents/#m-18-12), the purpose of the TMF is to fund projects “for technology-related activities to improve information technology, and to enhance cybersecurity across the Federal Government.”
 
 The TMF is authorized up to $500M by the MGT Act as part of the National Defense Authorization Act for Fiscal Year 2018. The fund will be overseen by a technical oversight board which will provide funds and technical expertise to agency modernization projects and common solutions.
 
 ### What is required from my agency?
-[M-18-12](resources/m-18-12.md) allows agencies to begin submitting project proposals immediately for TMF funding consideration. The guidance does not require agencies to submit a minimum number of projects to the TMF by a certain date, however, all agencies are strongly encouraged to submit project proposals if the vision, mission, and use of TMF makes sense for agency IT modernization efforts. Proposals will be considered by the Board as they are submitted. For more information, please see M-18-12: Implementation of the Modernizing Government Technology Act. Please also see Funding Guidelines and Additional Considerations, which can be found on policy.cio.gov.
+[M-18-12](documents/#m-18-12) allows agencies to begin submitting project proposals immediately for TMF funding consideration. The guidance does not require agencies to submit a minimum number of projects to the TMF by a certain date, however, all agencies are strongly encouraged to submit project proposals if the vision, mission, and use of TMF makes sense for agency IT modernization efforts. Proposals will be considered by the Board as they are submitted. For more information, please see M-18-12: Implementation of the Modernizing Government Technology Act. Please also see Funding Guidelines and Additional Considerations, which can be found on policy.cio.gov.
 
 ### Will the Technology Modernization Board consider projects from small agencies?
 The TMF will consider technology-related projects from all federal agencies. Agencies are encouraged to review the Additional Considerations document on policy.cio.gov and the Initial Project Proposal Template, a copy of which can be downloaded from policy.cio.gov before submitting proposals to the Board.
