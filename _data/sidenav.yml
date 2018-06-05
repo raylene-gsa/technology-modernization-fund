@@ -4,18 +4,18 @@
 - text: "Overview"
   url: /
   sub_nav:
-  - text: "Process"
-    url: /process/
-  - text: "Why use the TMF?"
-    url: /why-tmf/
   - text: "Mission & Guiding Principles"
     url: /mission/
-- text: "Meet the Board"
-  url: /board/
-- text: "See the Projects"
-  url: /projects/
+  - text: "Why use the TMF?"
+    url: /why-tmf/
+  - text: "Process"
+    url: /process/
 - text: "Submit a Proposal"
   url: /submit/
+- text: "See the Projects"
+  url: /projects/
+- text: "Meet the Board"
+  url: /board/
   sub_nav:
   - text: "Selection Criteria"
     url: /submit/criteria/
