@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Selection Criteria
-permalink: /submit/criteria/
+permalink: /criteria/
 description: ""
 
 ---
