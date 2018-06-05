@@ -5,11 +5,11 @@
   url: /
   sub_nav:
   - text: "Process"
-    url: /overview/process/
+    url: /process/
   - text: "Why use the TMF?"
-    url: /overview/why-tmf/
+    url: /why-tmf/
   - text: "Mission & Guiding Principles"
-    url: /overview/mission/
+    url: /mission/
 - text: "Meet the Board"
   url: /board/
 - text: "See the Projects"
