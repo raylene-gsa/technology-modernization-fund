@@ -57,14 +57,19 @@ body{
   }
 }
 
-.usa-footer-secondary_section{
-  padding: 0;
-  border-bottom: 3px #000 solid;
+
+.usa-footer-primary-section{
+  background: #293340;
+  border-top: 3px solid #a98860;
+  color: #fff;
 }
-.usa-footer-secondary_section p{
-  margin: 0;
-  padding: 10px 0;
+.usa-footer-primary-section a{
+  color: #fff;
 }
+.usa-footer .usa-footer-primary-link{
+  color: #fff;
+}
+
 
 // expanding the text column
 .usa-content .usa-layout-docs-main_content p{
