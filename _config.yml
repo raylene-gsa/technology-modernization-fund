@@ -26,8 +26,8 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "Technology Modernization Fund"
-description: "A new funding model for Federal technology modernization projects."
+name: "The Technology Modernization Fund"
+description: "A new funding model for Federal technology modernization projects"
 baseurl: ""
 
 # Google Analytics
