@@ -1,21 +1,24 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Overview
+title: The Technology Modernization Fund
+description: ""
+deck: 'A new funding model for Federal technology modernization solutions.'
+
 ---
+
+## Overview
 
 ### The Technology Modernization Fund
 
-Established by the Modernizing Government Technology (MGT) Act enacted on December 12, 2017, the Technology Modernization Fund (TMF) has established a new funding model for Federal technology modernization projects.
+The TMF establishes a new funding model for Federal technology modernization solutions. This model allows agencies to deliver services to American public faster, better secure sensitive systems and data, and use taxpayer dollars more efficiently. Approved projects receive incremental funding and technical expertise to ensure project success. 
 
-The TMF allows agencies to borrow money to fund modern technology solutions that will improve service delivery to the public, secure sensitive systems and data, and save taxpayer dollars. Approved projects will then receive funds in an incremental manner when they successfully meet specific project milestones throughout the modernization effort.
-
-Agencies have the opportunity to submit technology modernization proposals through a two phased approval process. The Board will approve proposals that make the best case for delivering on agency mission objectives and demonstrate the greatest likelihood of success.
 
 ## How the TMF works
 
-The Technology Modernization Board identifies opportunities to improve or operationalize legacy IT projects, accelerate modernization efforts, and put commercial technology solutions into practice. They rigorously review agency modernization proposals and recommend select projects for funding.
+In FY 2018, the TMF received $100 million to fund modernization projects. The TMF is overseen by the Technology Modernization Board comprised of an elite group of Government IT leaders that review and recommend projects for funding. 
 
-The TMF provides upfront funding for modernization investments, which agencies will repay over a period of five years. Funding for all projects will be incremental and tied to the completion of agreed-upon milestones. In FY 2018, the TMF received $100 million to support modernization projects.
+Agencies submit technology modernization proposals through a two-phased approval process: 
+
+1. **Agencies submit Initial Project Proposals (IPPs),** which act as a low burden pre-screen to maximize the number of unique projects the Board can review.
+
+2. **If the Board approves the IPP, project teams present their proposal to the Board in-person.** Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years. 
