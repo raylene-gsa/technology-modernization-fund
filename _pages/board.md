@@ -6,8 +6,6 @@ description: "Roles and biographies for the TMF Board members"
 
 ---
 
-## The Technology Modernization Board
-
 The role of the Technology Modernization Board is to evaluate project proposals submitted for funding in accordance with the Modernizing Government Technology (MGT) Act.  Members serve to provide funding recommendations and monitor progress and performance of approved modernization projects.
 
 The TMF Board is made up of 7 members:
