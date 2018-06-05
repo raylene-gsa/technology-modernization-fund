@@ -3,7 +3,7 @@
 // Controls the height and color of the navbar
 .usa-header{
   background: #293340;
-  border-bottom: 3px solid #a98860;
+  border-bottom: 3px solid #9f0000;
 
   .usa-navbar{
     height: auto;
@@ -11,29 +11,30 @@
     .usa-logo{
       margin: 0;
       float: none;
+
       .eagle-box{
         height: 100px;
         width: 225px;
         float: left;
         .gold-arrow{
-          width: 225px;
+          width: 200px;
           display: block;
           position: relative;
           z-index: 999;
-          top:-12px;
-          left: 0;
+          top:-11px;
+          left: 12px;
 
         }
       }
 
       .title{
         margin-top: 0;
-        margin-left: 15px;
-        padding: 15px 0;
+        margin-left: 30px;
+        padding: 20px 0;
         float: left;
         h1{
           font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-          font-size: 3rem;
+          font-size: 2.5rem;
           a{
             color:#fff;
           }
