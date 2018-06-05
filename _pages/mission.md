@@ -3,10 +3,9 @@ layout: page
 title: 'Mission & Guiding Principles'
 permalink: /mission/
 description: ""
-deck: ''
----
+deck: 'The mission of the Technology Modernization Fund is to enable agencies to reimagine and transform the way they use technology to deliver their mission and services to the American public in an effective, efficient, and secure manner.'
 
-_The mission of the Technology Modernization Fund is to enable agencies to reimagine and transform the way they use technology to deliver their mission and services to the American public in an effective, efficient, and secure manner._
+---
 
 As voting members of the Technology Modernization Board, we stand by the following guiding principles to achieve the mission of the TMF.
 
