@@ -6,11 +6,9 @@ deck: 'A new funding model for Federal technology modernization solutions.'
 
 ---
 
-## Overview
+## A new funding model for Federal technology modernization solutions.
 
-###The TMF establishes a new funding model for Federal technology modernization solutions.
-
-The TMF funding model allows agencies to deliver services to American public faster, better secure sensitive systems and data, and use taxpayer dollars more efficiently. Approved projects receive incremental funding and technical expertise to ensure project success. 
+The Technology Modernization Fund allows agencies to deliver services to American public faster, better secure sensitive systems and data, and use taxpayer dollars more efficiently. Approved projects receive incremental funding and technical expertise to ensure project success. 
 
 
 ## How the TMF works

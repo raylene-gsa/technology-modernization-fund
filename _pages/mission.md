@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Mission & Guiding Principles'
-permalink: /overview/mission/
+permalink: /mission/
 description: ""
 deck: 'Enable agencies to reimagine and transform the way they use technology to deliver their mission and services to the American public in an effective, efficient, and secure manner'
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Why use the TMF?'
-permalink: /overview/why-tmf/
+permalink: /why-tmf/
 description: "A list of reasons agencies should consider the TMF to fund their project."
 
 ---

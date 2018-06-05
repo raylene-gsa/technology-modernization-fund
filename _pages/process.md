@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Process
-permalink: /overview/process/
+permalink: /process/
 description: "The full process used to determine which solutions are funded by the TMF."
 
 ---
