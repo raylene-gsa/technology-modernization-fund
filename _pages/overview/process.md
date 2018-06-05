@@ -2,9 +2,11 @@
 layout: page
 title: The Process
 permalink: /overview/process/
-description: ""
+description: "The full process used to determine which solutions are funded by the TMF."
 
 ---
+
+## The Process
 
 The full process used to determine which solutions are funded by the TMF is as follows:
 
