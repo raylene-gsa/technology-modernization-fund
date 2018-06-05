@@ -57,6 +57,15 @@ body{
   }
 }
 
+.usa-footer-secondary_section{
+  padding: 0;
+  border-bottom: 3px #000 solid;
+}
+.usa-footer-secondary_section p{
+  margin: 0;
+  padding: 10px 0;
+}
+
 // expanding the text column
 .usa-content .usa-layout-docs-main_content p{
   max-width: none;
