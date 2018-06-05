@@ -51,7 +51,7 @@ Before submitting an Initial Project Proposal (IPP), agencies are encouraged to 
 - **Sinking market value.** Would this project upgrade or replace a system that currently does not reflect market price reductions?
 - **Time critical.** How would this project significantly benefit from being executed now instead of a year from now?
 - **Market flexibility.** How does this project reduce vendor lock-in (including services and tools)?
-- **Government-wide added value. How does the project help move technology from a smaller more expensive market to a larger less expensive market?
+- **Government-wide added value.** How does the project help move technology from a smaller more expensive market to a larger less expensive market?
 - **Business process changes.** What business process changes are needed?  Are those changes planned out?  What happens if process changes are not implemented and what is the risk?
 - **Change management.** What is the agency change management strategy, particularly if the proposed project affects a large number of customers (internal and external), and how they currently conduct business?
 
