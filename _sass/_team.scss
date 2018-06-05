@@ -1,21 +1,19 @@
-.team-members{
-  padding: 50px 0 0 0;
-  .person{
-    margin-bottom: 40px;
-    margin-right: 30px;
-    display: inline-block;
-    text-align: center;
-    img{
-      width:135px;
-      height:135px;
-      border-radius: 75px;
-      object-fit: cover;
-      border:3px #c79a26 solid;
-    }
-    p{
-      margin: 0;
-      font-size: 16px;
-      font-weight: bold;
-    }
+.person{
+  margin-bottom: 40px;
+  margin-right: 0;
+  display: inline-block;
+  text-align: center;
+  width:160px;
+  img{
+    width:160px;
+    height:160px;
+    border-radius: 80px;
+    object-fit: cover;
+    border:3px #c79a26 solid;
+  }
+  p{
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
   }
 }
