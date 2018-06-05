@@ -25,8 +25,8 @@ As voting members of the Technology Modernization Board, we stand by the followi
 
 ### Develop an agile project implementation process that supports the mission of the Fund
 - Implement a multi-step application process to guarantee a variety of projects are considered and the Board has all information needed to make informed funding recommendations
-  - Step 1: Intake Initial Project Proposals based on Board-approved template
-  - Step 2: Work with agency sponsors who have a project that meets the acceptable threshold of evidentiary support established by the Board in order to develop a strong business case and have project leadership present their vision and execution strategy to the Board for funding recommendations
+  - _Step 1:_ Intake Initial Project Proposals based on Board-approved template
+  - _Step 2:_ Work with agency sponsors who have a project that meets the acceptable threshold of evidentiary support established by the Board in order to develop a strong business case and have project leadership present their vision and execution strategy to the Board for funding recommendations
 - Ensure, to the extent practicable, that technical expertise, sound project management leadership, and other necessary resources are available to project teams
 
 ### Promote the health, sustainability, and utility of the Fund
