@@ -52,7 +52,7 @@ The TMF Board is made up of 7 members:
 
 **Charles Worthington, Chief Technology Officer, Department of Veterans Affairs**
 
-{% include image.html path="headshots/worthington.jpg" alt-text="Charles Worthington" %} Charles Worthington is a software developer and product designer who has been helping the government adopt modern digital service delivery best practices since 2013. In his current role, he works to improve the experience Veterans have when interacting with the Department of Veterans Affairs (VA) online. Prior to joining VA in May 2017, Mr. Worthington helped create the U.S. Digital Service, where he co-authored the Digital Services Playbook and executed digital service engagements at several agencies. Before his federal service, Mr. Worthington built products for private sector clients and was a strategy consultant in the tech & telecom sectors.
+{% include image.html path="headshots/cw.jpg" alt-text="Charles Worthington" %} Charles Worthington is a software developer and product designer who has been helping the government adopt modern digital service delivery best practices since 2013. In his current role, he works to improve the experience Veterans have when interacting with the Department of Veterans Affairs (VA) online. Prior to joining VA in May 2017, Mr. Worthington helped create the U.S. Digital Service, where he co-authored the Digital Services Playbook and executed digital service engagements at several agencies. Before his federal service, Mr. Worthington built products for private sector clients and was a strategy consultant in the tech & telecom sectors.
 
 ## Alternate Board Members
 
