@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Technology Modernization Fund
+permalink: /
 description: "A new funding model for Federal technology modernization projects"
 
 ---
