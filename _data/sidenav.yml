@@ -12,10 +12,6 @@
     url: /process/
 - text: "Submit a Proposal"
   url: /submit/
-- text: "See the Projects"
-  url: /projects/
-- text: "Meet the Board"
-  url: /board/
   sub_nav:
   - text: "Selection Criteria"
     url: /criteria/
@@ -25,3 +21,7 @@
     url: /documents/
   - text: "Get Help Preparing Your Submission"
     url: /get-help/
+- text: "See the Projects"
+  url: /projects/
+- text: "Meet the Board"
+  url: /board/
