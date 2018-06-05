@@ -18,7 +18,7 @@
   url: /board/
   sub_nav:
   - text: "Selection Criteria"
-    url: /submit/criteria/
+    url: /criteria/
   - text: "Common Questions"
     url: /questions/
   - text: "Documents & Templates"

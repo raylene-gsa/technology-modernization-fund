@@ -1,11 +1,10 @@
 ---
-layout: home
+layout: page
 title: The Technology Modernization Fund
-description: ""
+permalink: /
+description: "A new funding model for Federal technology modernization projects"
 
 ---
-
-## A new funding model for Federal technology modernization projects
 
 The Technology Modernization Fund allows agencies to deliver services to American public faster, better secure sensitive systems and data, and use taxpayer dollars more efficiently. Approved projects receive incremental funding and technical expertise to ensure project success.
 
