@@ -6,8 +6,6 @@ description: "A new funding model for Federal technology modernization projects"
 
 ---
 
-## A new funding model for Federal technology modernization projects
-
 The Technology Modernization Fund allows agencies to deliver services to American public faster, better secure sensitive systems and data, and use taxpayer dollars more efficiently. Approved projects receive incremental funding and technical expertise to ensure project success. 
 
 In Fiscal Year 2018, the TMF received $100 million to fund modernization projects.
