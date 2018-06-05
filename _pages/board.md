@@ -8,11 +8,11 @@ description: "Roles and biographies for the TMF Board members"
 
 ## The Technology Modernization Board
 
-The role of the Technology Modernization Board is to evaluate project proposals submitted for funding In accordance with the MGT Act.  Members serve to provide funding recommendations and monitor progress and performance of approved modernization projects.
+The role of the Technology Modernization Board is to evaluate project proposals submitted for funding in accordance with the Modernizing Government Technology (MGT) Act.  Members serve to provide funding recommendations and monitor progress and performance of approved modernization projects.
 
 The TMF Board is made up of 7 members:
-- The Administrator of the Office of E-Government (Federal CIO)
-- A senior official from GSA with technical expertise in information technology development
+- The Administrator of the Office of E-Government (Federal Chief Information Officer)
+- A senior official from the U.S. General Services Administration (GSA) with technical expertise in information technology development
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
