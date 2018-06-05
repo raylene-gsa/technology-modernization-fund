@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The TMF Board
+title: The Technology Modernization Board
 permalink: /board/
 description: "Roles and biographies for the TMF Board members"
 
