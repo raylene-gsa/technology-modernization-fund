@@ -4,22 +4,36 @@
 .usa-header{
   background: #293340;
   border-bottom: 3px solid #a98860;
+
   .usa-navbar{
     height: auto;
 
     .usa-logo{
-      img{
-        width: 90px;
-        float:left;
+      margin: 0;
+      float: none;
+      .eagle-box{
+        height: 100px;
+        width: 225px;
+        float: left;
+        .gold-arrow{
+          width: 225px;
+          display: block;
+          position: relative;
+          z-index: 999;
+          top:-12px;
+          left: 0;
+
+        }
       }
+
       .title{
-        margin-top: 17px;
+        margin-top: 0;
         margin-left: 15px;
-        float:left;
-        width: 600px;
+        padding: 15px 0;
+        float: left;
         h1{
           font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-          font-size: 2.5rem;
+          font-size: 3rem;
           a{
             color:#fff;
           }
