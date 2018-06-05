@@ -1,11 +1,12 @@
 ---
 layout: page
-title: The Board
+title: The TMF Board
 permalink: /board/
-description: ""
-deck: ''
+description: "Roles and biographies for the TMF Board members"
 
 ---
+
+## The Technology Modernization Board
 
 The role of the Technology Modernization Board is to evaluate project proposals submitted for funding In accordance with the MGT Act.  Members serve to provide funding recommendations and monitor progress and performance of approved modernization projects.
 
