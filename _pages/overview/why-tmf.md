@@ -2,11 +2,13 @@
 layout: page
 title: 'Why use the TMF?'
 permalink: /overview/why-tmf/
-description: ""
+description: "A list of reasons agencies should consider the TMF to fund their project."
 
 ---
 
-Agencies have a number of reasons to consider the TMF as the funding source for their proposed soltution:
+## Why use the TMF?
+
+Agencies have a number of reasons to consider the TMF as the funding source for their proposed solution:
 
 -	**Strong Incentives.** The TMF reimagines how IT modernization projects are funded and executed. The five year repayment window provides agencies with flexibility to invest in new IT modernization projects.
 
