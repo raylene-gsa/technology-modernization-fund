@@ -6,8 +6,6 @@ description: ""
 
 ---
 
-## Selection Criteria
-
 Before submitting an Initial Project Proposal (IPP), agencies are encouraged to review the subject areas below to become familiar with the types of questions and concerns the Board is most likely to raise. 
 
 ### User Impact

@@ -6,8 +6,6 @@ description: "The full process used to determine which solutions are funded by t
 
 ---
 
-## The Process
-
 The full process used to determine which solutions are funded by the TMF is as follows:
 
 - **Agencies submit Initial Project Proposals (IPPs) using the IPP Template**, which are reviewed by the Technology Modernization Board.

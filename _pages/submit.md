@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Submit
+title: Submit a Proposal
 permalink: /submit/
-description: ""
+description: "Submit a proposal to the TMF."
 deck: ''
 
 ---
-
-## Selection Criteria
 
 Guidance posted by the Office of Management and Budget (OMB) allows agencies to submit proposals at any time. We encourage ALL federal agencies to submit project proposals if the vision, mission, and use of TMF makes sense for agency IT modernization efforts. Proposals will be considered by the Board as they are submitted.
 

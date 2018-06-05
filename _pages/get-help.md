@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Get Help
+title: Get Help Preparing Your Submission
 permalink: /get-help/
 description: ""
 deck: ''
 
 ---
-
-## Get Help with Your TMF Application
 
 [GSA’s TMF Program Management Office](mailto:tmf@gsa.gov) (PMO) is here to support your team through the entire TMF application and review process. Our goal is to help smoothly transition project proposals from phase to phase and provide assistance wherever necessary. Our team works with agencies to build strong business cases from both a modernization and financial standpoint.
 
