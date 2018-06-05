@@ -12,10 +12,10 @@ Need to link to another site? Here is how links are formatted within markdown â€
 ```
 
 Need to link to another page within the site?
-Add the link shortcode and the path to the file: `{% link _pages/submit.md %}`
+Add the link shortcode and the path to the file: `{{ site.baseurl }}{% link _pages/submit.md %}`
 
 ```
-Fill our our [submission guidelines]({% link _pages/submit.md %})
+Fill our our [submission guidelines]({{ site.baseurl }}{% link _pages/submit.md %})
 ```
 
 ## Images
