@@ -2,18 +2,11 @@
 layout: default
 ---
 
-<div class="usa-width-one-whole usa-layout-docs-main_content">
-  <div class="big-quote">We'll write a big inspirational quote that is not too long. That's what we aim to do.</div>
-
-  {% include nav.html %}
-</div>
-
-
+{% include sidenav.html %}
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
 
-  {% include quotes.html %}
-
+  <h1 class="post-title hidden">{{ page.title | escape }}</h1>
   <div class="post-content">
     {{ content }}
   </div>
