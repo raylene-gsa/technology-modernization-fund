@@ -1,6 +1,10 @@
 # Nav
 # List links that should appear in the Footer
-- text: "Quarterly Reports"
+- text: "Home"
+  url: /
+  - text: "Projects"
+  url: /projects/
+  - text: "Reports"
   url: /reports/
-- text: "Contact Us"
+- text: "Contact"
   url: /contact/
