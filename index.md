@@ -2,7 +2,7 @@
 layout: page
 title: The Technology Modernization Fund
 description: ""
-deck: 'A new funding model for Federal technology modernization solutions.'
+deck: ''
 
 ---
 
