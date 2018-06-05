@@ -22,17 +22,23 @@ The TMF Board is made up of 7 members:
 
 {% include board-member.html path="headshots/kent.jpg" alt-text="Suzette Kent" %} Suzette Kent is an industry leader in large-scale business transformation using technology for the world’s most complex organizations. Although technology change has been at the core of her professional career, retooling the workforce and creating new opportunities for people have been essential elements of her work. Ms. Kent has served as an enterprise leader for organizational learning, diversity and inclusiveness, and career development throughout her career. She is a frequent speaker in global industry forums, has published thought leadership pieces, and holds patents in banking processes.
 
+---
+
 ### Senior Tech Official from GSA - Permanent Member
 
 **Alan Thomas, Commissioner of the Federal Acquisition Service, U.S. General Services Administration**
 
 {% include board-member.html path="headshots/thomas.jpg" alt-text="Alan Thomas" %} Sworn in as Commissioner for the U.S. General Services Administration’s Federal Acquisition Service on June 26, 2017, Alan Thomas oversees the delivery of more than $50 billion of products, services and solutions that save taxpayer dollars and enable federal agencies to accomplish their missions as efficiently as possible. Mr. Thomas brings more than 20 years of experience in both industry and government. He most recently served as a vice president with Artlin Consulting where he worked to build the processes and infrastructure to deliver large federal programs through government-wide contract vehicles.
 
+---
+
 ### Cybersecurity Official from DHS - Permanent Member
 
 **Mark Kneidinger, Director of Federal Network Resilience, Department of Homeland Security National Programs and Protection Directorate**
 
 {% include board-member.html path="headshots/mk.jpg" alt-text="Mark Kneidinger" %} Mark Kneidinger leads Federal Network Resilience in representing the Department of Homeland Security’s (DHS) cybersecurity programs to all 125 Executive Branch Departments & Agencies, driving change in cybersecurity risk management across the federal government. Prior to joining DHS, Mr. Kneidinger held IT Executive leadership positions in the commercial sector of Fortune 100 Corporations, including roles as CTO, Vice President and Managing Partner.
+
+---
 
 ### Term Board Members
 
@@ -51,6 +57,8 @@ The TMF Board is made up of 7 members:
 **Charles Worthington, Chief Technology Officer, Department of Veterans Affairs**
 
 {% include board-member.html path="headshots/worthington.jpg" alt-text="Charles Worthington" %} Charles Worthington is a software developer and product designer who has been helping the government adopt modern digital service delivery best practices since 2013. In his current role, he works to improve the experience Veterans have when interacting with the Department of Veterans Affairs (VA) online. Prior to joining VA in May 2017, Mr. Worthington helped create the U.S. Digital Service, where he co-authored the Digital Services Playbook and executed digital service engagements at several agencies. Before his federal service, Mr. Worthington built products for private sector clients and was a strategy consultant in the tech & telecom sectors.
+
+---
 
 ## Alternate Board Members
 
