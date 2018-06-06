@@ -12,8 +12,10 @@ Approved projects receive incremental funding and technical expertise to ensure 
 
 Agencies submit technology modernization proposals through a two-phased [approval process]({{ site.baseurl }}{% link _pages/process.md %}):
 
-1. **Agencies submit Initial Project Proposals (IPPs),** which act as a low burden pre-screen to maximize the number of unique projects the Board can review. An IPP template can be found [here]({{ site.baseurl }}{% link _pages/documents.md %}).
+### Phase One: Initial Project Proposal (IPP)
+Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. An IPP template can be found [here]({{ site.baseurl }}{% link _pages/documents.md %}).
 
-2. **If the Board approves the IPP, project teams present their proposal to the Board in-person.** Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
+### Phase Two: Full Project Proposal (FPP).
+If the Board approves the IPP, project teams present their proposal to the Board in-person. Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
 
 The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}) comprised of an elite group of Government IT leaders that review and recommend projects for funding.
