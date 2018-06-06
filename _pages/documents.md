@@ -21,15 +21,17 @@ The Modernizing Government Technology Act ([PDF]({{ site.baseurl }}{% link _page
 
 ### Templates for Phase One, Initial Project Proposal (IPP)
 
-Use this template to prepare your initial proposal. _Do not_ complete any of the other project proposal templates until the Board has approved your Initial Project Proposal.
+Use this template to prepare your initial proposal. _Do not complete any of the other project proposal templates until the Board has approved your Initial Project Proposal._
 
 * IPP Template (Word) (Google Doc) (PDF) 
 
 ### Templates for Phase Two, Full Project Proposal (FPP)
 
+Once the Board has approved your IPP, use the templates below to complete your Full Project Proposal (FPP). _Do not complete any of the templates below until the Board has approved your Initial Project Proposal._
+
 * FPP Appendix A Template (Word) (Google Doc) (PDF) 
 * FPP Appendix B Template (Word) (Google Doc) (PDF) 
-* FPP Pitch Deck Template for Board Presentation (Powerpoint) (Google Slides) (PDF)
+* FPP Pitch Deck Template for Board Presentation (PowerPoint) (Google Slides) (PDF)
 
 
 
