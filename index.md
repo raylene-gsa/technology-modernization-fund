@@ -10,9 +10,9 @@ Approved projects receive incremental funding and technical expertise to ensure 
 
 ## How the TMF works
 
-The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}) comprised of an elite group of Government IT leaders that review and recommend projects for funding.
+The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of an elite group of Government IT leaders that review and recommend projects for funding.
 
-Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}).
+Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}):
 
 ### Phase One: Initial Project Proposal (IPP)
 Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. 
