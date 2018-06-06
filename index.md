@@ -22,6 +22,6 @@ If the Board approves an IPP, the project team team submits their Full Project P
 
 Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
 
-Proposal templates for both phases are available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) area of this site.
+Proposal templates for both phases are available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site.
 
 
