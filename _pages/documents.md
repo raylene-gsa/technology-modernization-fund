@@ -9,8 +9,6 @@ deck: ''
 
 ## Documents
 
-
-
 The Modernizing Government Technology Act ([PDF]({{ site.baseurl }}{% link _pages/documents/mgt-act.md %})) was passed December 12, 2017 as part of the 2018 National Defense Authorization Act. The following documentation is related to the Technology Modernization Fund.
 
 * [M-18-12: Implementation of the Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents/m-18-12.md %})
