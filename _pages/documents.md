@@ -7,6 +7,8 @@ deck: ''
 
 ---
 
+The most up-to-date documents and templates related to the TMF can be found below.
+
 ## Documents
 
 The Modernizing Government Technology Act ([PDF]({{ site.baseurl }}{% link _pages/documents/mgt-act.md %})) was passed December 12, 2017 as part of the 2018 National Defense Authorization Act. The following documentation is related to the Technology Modernization Fund.
