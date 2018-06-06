@@ -65,4 +65,4 @@ Before submitting an Initial Project Proposal (IPP), agencies are encouraged to 
 
 ## Need assistance? 
 
-Agencies may  also email the TMF Program Office for support in developing an IPP.
+Agencies can email the [TMF Program Office](mailto:tmf@gsa.gov) for support in developing an IPP.
