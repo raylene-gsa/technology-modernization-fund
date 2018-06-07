@@ -2,7 +2,7 @@
 layout: page
 title: Selection Criteria
 permalink: /criteria/
-description: ""
+description: "Selection criteria used for choosing TMF projects."
 
 ---
 

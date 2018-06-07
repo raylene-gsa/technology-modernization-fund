@@ -2,7 +2,7 @@
 layout: page
 title: 'Mission & Guiding Principles'
 permalink: /mission/
-description: ""
+description: "The mission and guiding principles of the Technology Modernization Fund."
 deck: 'The mission of the Technology Modernization Fund is to enable agencies to reimagine and transform the way they use technology to deliver their mission and services to the American public in an effective, efficient, and secure manner.'
 
 ---

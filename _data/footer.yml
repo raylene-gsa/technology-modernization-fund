@@ -4,7 +4,7 @@
   url: /
 - text: "Projects"
   url: /projects/
-- text: "Quarterly Reports"
-  url: /reports/
+- text: "Meeting Minutes"
+  url: /minutes/
 - text: "Contact"
   url: /contact/

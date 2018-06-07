@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Quarterly Reports
-permalink: /reports/
+title: Funding Guidelines
+permalink: /documents/funding-guidelines/
 description: "Quarterly reports on the TMF."
-deck: ''
 
 ---
 
