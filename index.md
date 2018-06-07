@@ -3,14 +3,14 @@ layout: home
 title: The Technology Modernization Fund
 permalink: /
 description: "A new funding model for Federal technology modernization projects"
-deck: 'The Technology Modernization Fund, created by the Modernizing Government Technology Act of 2017, creates a vehicle that gives agencies additional ways to deliver services to the American public faster, better secure sensitive systems and data, and use taxpayer dollars more efficiently.'
+deck: 'The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017. The TMF creates an innovative funding vehicle that gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.'
 ---
 
 Approved projects receive incremental funding and technical expertise to ensure project success. In Fiscal Year 2018, the TMF received $100 million to fund modernization projects.
 
 ## How the TMF works
 
-The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of a group of Government IT leaders representing deep skills in technology, transformation, and operations, who review and recommend projects for funding. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}):
+The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of Government IT leaders representing deep skills in technology, transformation, and operations, who review and recommend projects for funding. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}):
 
 ### Phase One: Initial Project Proposal (IPP)
 Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. 
