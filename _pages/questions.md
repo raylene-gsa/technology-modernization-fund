@@ -3,7 +3,6 @@ layout: page
 title: Common Questions
 permalink: /questions/
 description: "Answers to common questions about how the TMF operates."
-deck: ''
 
 ---
 

@@ -3,7 +3,6 @@ layout: page
 title: Quarterly Reports & Meeting Minutes
 permalink: /reports/
 description: "Quarterly reports and meeting minutes from the TMF."
-deck: ''
 
 ---
 

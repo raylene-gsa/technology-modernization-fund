@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Quarterly Reports
-permalink: /reports/
-description: "Quarterly reports on the TMF."
-deck: ''
+title: Additional Considerations
+permalink: /addl-considerations/
+description: ""
 
 ---
 

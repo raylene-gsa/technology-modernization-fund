@@ -3,7 +3,6 @@ layout: page
 title: Submit a Proposal
 permalink: /submit/
 description: "Submit a proposal to the TMF."
-deck: ''
 
 ---
 
