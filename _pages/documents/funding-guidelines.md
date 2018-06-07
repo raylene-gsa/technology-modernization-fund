@@ -71,11 +71,11 @@ All transfers between the Fund and receiving agencies shall be recorded as non-e
 
 The following examples illustrate how agencies can enable reimbursement of transferred TMF funding. Agencies are encouraged to establish and leverage IT Working Capital Funds (WCF) as authorized by the MGT Act, as well as any other existing centralized agency accounts, to take advantage of flexible payment mechanisms. Agencies are reminded that, pursuant to the MGT Act, all transfers to and reprogrammings in the IT Working Capital Funds are subject to any applicable reprogramming restrictions or transfer authorities in current law. In many cases, transfer authorities are limited and require specific Congressional notification prior to a transfer or reprogramming.
 
-### Default Reimbursement Mechanism
+### Default Reimbursement Mechanism:
 
 - Identify Offsets: Identify an offsetting reduction from the existing resource base (i.e. contract reductions, decommissioning of systems, deferred low priority maintenance). Formulate the planned reimbursement into out-year budget submissions.
 
-_If other planned reimbursement mechanisms do not materialize, reimbursement is made from existing agency resources and subject to the repayment terms in the written agreement_
+_If other planned reimbursement mechanisms do not materialize, reimbursement is made from existing agency resources and subject to the repayment terms in the written agreement._
 
 ### Other Enabling Mechanisms:
 
