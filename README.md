@@ -18,6 +18,14 @@ Add the link shortcode and the path to the file: `{{ site.baseurl }}{% link _pag
 Fill our our [submission guidelines]({{ site.baseurl }}{% link _pages/submit.md %})
 ```
 
+## PDFs
+
+Want to insert a PDF into the site?
+1. upload the PDF to `/_pages/documents/pdfs/`
+2. link to the PDF from your text in the same way you'd link to _pages ```[check out my PDF!]({{ site.baseurl }}{% link _pages/documents/pdfs/mgt-act-final.pdf %})```
+
+The PDF icon will appear next to any link that ends in a `.pdf`.
+
 ## Images
 
 Images can be uploaded into the `/images/` folder:
