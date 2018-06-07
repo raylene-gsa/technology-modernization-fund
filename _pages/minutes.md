@@ -1,18 +1,10 @@
 ---
 layout: page
-title: Quarterly Reports & Meeting Minutes
-permalink: /reports/
-description: "Quarterly reports and meeting minutes from the TMF."
+title: Meeting Minutes
+permalink: /minutes/
+description: "Quarterly reports and meeting minutes from the Technology Modernization Board."
 
 ---
-
-## Quarterly Reports
-
-Quarterly reports pertaining to the TMF, as required by the MGT ACT, are available below.
-
-### Fiscal Year 2018
-
-- Third Quarter, June 12, 2018 (PDF)
 
 ## Meeting Minutes
 
