@@ -8,7 +8,8 @@ deck: ''
 ---
 
 ### What is the purpose of the TMF and how is it established?
-Per the {% include pdf.html path="mgt-act-final.pdf" title="Modernizing Government Technology (MGT) Act" %}, the purpose of the TMF is to fund projects “for technology-related activities to improve information technology, and to enhance cybersecurity across the Federal Government.”
+
+Per the [Modernizing Government Technology (MGT) Act]({{ site.baseurl }}{% link _pages/documents/pdfs/mgt-act-final.pdf %}), the purpose of the TMF is to fund projects “for technology-related activities to improve information technology, and to enhance cybersecurity across the Federal Government.”
 
 The TMF is authorized up to $500M by the MGT Act as part of the National Defense Authorization Act for Fiscal Year 2018. The fund will be overseen by a technical oversight board which will provide funds and technical expertise to agency modernization projects and common solutions.
 
