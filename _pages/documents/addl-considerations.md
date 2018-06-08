@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Additional Considerations for Technology Modernization Fund Project Proposals<
+title: Additional Considerations for Technology Modernization Fund Project Proposals
 permalink: /addl-considerations/
 description: "Additional Considerations for Technology Modernization Fund Project Proposals."
 
