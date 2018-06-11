@@ -8,9 +8,9 @@
 
 - name        : "UNISYS Mainframe Migration"
   subhead     : "Housing and Urban Development (HUD)"
-  status      : "To be funded"
+  status      : "Board Approved – Pending Transfer of Funds"
   delay       : "No"
   cost        : "No"
-  investment  : "TBD"
-  payback     : "TBD"
+  totalaward  : "$20,000,000"
+  spendtodate : "$0"
   product     : "Yes"
