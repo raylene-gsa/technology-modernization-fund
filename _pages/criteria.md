@@ -11,7 +11,7 @@ Before submitting an Initial Project Proposal (IPP), agencies are encouraged to 
 ### User Impact
 - **Mission effectiveness.** How does this project enhance mission effectiveness and flexibility?
 - **Burden reduction.** How does this project reduce a time-consuming administration distraction to allow more time for mission goals?
-- **Public benefit.** How will this project improve quality of life for the American public?
+- **Public benefit.** How will this project improve quality of life for an American citizen or misson serving individual?
 - **User benefit.** How will this project improve usability of systems for government or non-government users?
 - **Public approval.** How does this project tackle an area of government delivery that has been under scrutiny and/or provide a new accountability tool to bolster trust in government?
 
