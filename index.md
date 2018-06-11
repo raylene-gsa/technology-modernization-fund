@@ -10,16 +10,16 @@ Approved projects receive incremental funding and technical expertise to ensure 
 
 ## How the TMF works
 
-The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of Government IT leaders representing deep skills in technology, transformation, and operations, who review and recommend projects for funding. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}):
+The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}):
 
 ### Phase One: Initial Project Proposal (IPP)
 Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. 
 
 ### Phase Two: Full Project Proposal (FPP)
-If the Board approves an IPP, the project team team submits their Full Project Proposal (FPP) to the Board. Teams are also expected to present to the Board in-person. 
+If the Board approves an IPP, the project team submits their Full Project Proposal (FPP) to the Board. The FPP entails a more comprehensive description of the proposal, discrete project milestones, and funding schedule. Team will prepare a pitch deck and presentation for the Board
 
-Projects selected by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
+Projects recommended for funding by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
 
-Proposal templates for both phases are available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site.
+Proposal templates for the IPP and FPP phases are available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site.
 
 
