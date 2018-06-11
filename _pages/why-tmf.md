@@ -14,4 +14,4 @@ Agencies have a number of reasons to consider the TMF as the funding source for 
 
 -	**Technical Expertise.** Approved projects can leverage technical experts in design, engineering, acquisition, and cybersecurity to enhance project teams.
 
--	**Incremental Funding.** Iterative funding, tied to delivery of milestones, enables more agile and dynamic IT modernization funding and ensures taxpayers dollars are maximized.
+-	**Incremental Funding.** Iterative funding, tied to delivery of milestones, enables more agile and dynamic IT modernization funding and ensures taxpayers dollars are used effectively and efficiently.
