@@ -44,7 +44,7 @@ body{
 }
 #site-meta{
   margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   font-size: 16px;
   .button-edit{
     margin-right: 15px;
@@ -58,12 +58,16 @@ body{
   .button-edit:hover{
     background: rgb(202, 222, 235);
   }
+  a{
+    text-decoration: none;
+    font-size: 14px;
+  }
 }
 
 
 .usa-footer-primary-section{
   background: #293340;
-  border-top: 3px solid #a98860;
+  border-top: 5px solid #ba0101;
   color: #fff;
 }
 .usa-footer-primary-section a{
