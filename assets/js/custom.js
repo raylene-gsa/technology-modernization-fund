@@ -62,11 +62,11 @@ function getCookie(key) {
         var icon = '<img class="pdf icon" src="'+baseurl+'/assets/img/icon-pdf.png" height="24" width="24" alt="View the PDF">';
         $(this).append(icon);
       }
-      if (file_type  === '.ppt') {
+      if (file_type  === '.pptx') {
         var icon = '<img class="ppt icon" src="'+baseurl+'/assets/img/icon-ppt.png" height="24" width="24" alt="View the PowerPoint">';
         $(this).append(icon);
       }
-      if (file_type  === '.doc') {
+      if (file_type  === '.docx') {
         var icon = '<img class="doc icon" src="'+baseurl+'/assets/img/icon-doc.png" height="24" width="24" alt="View the Doc">';
         $(this).append(icon);
       }
