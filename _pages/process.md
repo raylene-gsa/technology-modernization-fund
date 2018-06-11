@@ -19,7 +19,7 @@ The full process used to determine which solutions are funded by the TMF is as f
 - **If the Board approves an FPP for funding, the GSA program office and agency project team finalize a Written Agreement,** consistent with recommendations made by the Board. The Written Agreement acts as a contract between the agency and Board and lists specific requirements and milestones.
 - **Funds are distributed to project teams in an incremental manner,** tied to performance against targets and milestones established by the Written Agreement.
 
-## Once a Project Has Been Awarded
+## Once a Project Has Been Funded
 
 - **The Board reviews projects on a quarterly basis to ensure projects are on schedule and milestones are met.** The Board may request corrective action during quarterly reviews.  
 - **Technical experts provide hands-on support to project teams** to improve team capability, troubleshoot issues, and guarantee successful execution. Experts from GSA and entities such as the U.S. Digital Service may support project teams.
