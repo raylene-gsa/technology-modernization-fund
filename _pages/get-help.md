@@ -11,7 +11,7 @@ GSA’s [TMF Program Management Office](mailto:tmf@gsa.gov) (PMO) is here to sup
 We’re a full-service office, made up of financial, technical, and acquisition strategy experts, available to assist your team at any point with:
 
 - **Initial project selection and prioritization.** Multiple projects to choose from? We are here to help align your agency needs with Board goals.
-- **Strategic project planning.** With our expertise and knowledge of the Board’s priorities and decision making process, we can help agencies design and draft proposals that align to the goals of the TMF and support the agency’s mission.
+- **Strategic project planning.** With our expertise and knowledge of the Board’s priorities and decision making process, we can help you agency design and draft proposals that align to the goals of the TMF and support the agency’s mission.
 - **Initial Project Proposal (IPP) development and review.** Preparing to submit your project to the TMF Board? We are happy to provide feedback on how to build a strong proposal document.
 - **Full Project Proposal (FPP) development and review.** This includes Board pitch deck development, payback plan reviews, acquisition strategies, and practice presentations.
 - **Ongoing project support and oversight.** Whether you are rethinking your acquisition strategy, working on your repayment model, or seeking technical advice, our diverse team will work to support your agency’s projects from all angles to set you up for success!
