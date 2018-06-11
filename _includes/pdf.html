@@ -1,0 +1,4 @@
+{% if include.path %}
+{% assign pdf_path = "/documents/pdfs/" | append: include.path %}
+<a class="pdf" href="{{ pdf_path | absolute_url }}">{{ include.title }} <img class="icon" src="{{ '/assets/img/icon-pdf.png' | absolute_url }}" height="24" width="24" alt="View the PDF"></a>
+{% endif %}

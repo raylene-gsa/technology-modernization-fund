@@ -50,6 +50,19 @@ function getCookie(key) {
     });
     $('#quote-frame .paper').height(maxHeight);
 
+
+
+    // PDF Finder - - - - - - - - - - -
+    // Looks for all the links (hrefs) in .post-content that end with .pdf and appends the PDF icon to the end of the link
+    $('.post-content').find('a').each(function() {
+      var href = $(this).attr('href');
+      var file_type = href.substr(href.lastIndexOf('.')).toLowerCase();
+      if (file_type  === '.pdf') {
+        var icon = '<img class="pdf icon" src="/assets/img/icon-pdf.png" height="24" width="24" alt="View the PDF">';
+        $(this).append(icon);
+      }
+    });
+
   });
 
 })(jQuery);
