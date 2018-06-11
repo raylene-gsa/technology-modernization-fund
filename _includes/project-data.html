@@ -1,0 +1,20 @@
+<table style="width:100%">
+  <tr>
+    <th>Project Status</th>
+    <th>Schedule Delay</th>
+    <th>Cost Overruns</th>
+    <th>Total TMF Investment</th>
+    <th>Payback Period (Years)</th>
+    <th>Commercial Product</th>
+  </tr>
+  <tr>
+  {% for d in site.data.projects.[include.path] %}
+    <td>{{ d.status }}</td>
+    <td>{{ d.delay }}</td>
+    <td>{{ d.cost }}</td>
+    <td>{{ d.investment }}</td>
+    <td>{{ d.payback }}</td>
+    <td>{{ d.product }}</td>
+  {% endfor %}
+  </tr>
+</table>
