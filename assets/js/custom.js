@@ -57,8 +57,9 @@ function getCookie(key) {
     $('.post-content').find('a').each(function() {
       var href = $(this).attr('href');
       var file_type = href.substr(href.lastIndexOf('.')).toLowerCase();
+      console.log(baseurl);
       if (file_type  === '.pdf') {
-        var icon = '<img class="pdf icon" src="/assets/img/icon-pdf.png" height="24" width="24" alt="View the PDF">';
+        var icon = '<img class="pdf icon" src="'+baseurl+'/assets/img/icon-pdf.png" height="24" width="24" alt="View the PDF">';
         $(this).append(icon);
       }
     });
