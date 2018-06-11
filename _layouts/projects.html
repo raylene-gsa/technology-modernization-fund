@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% include sidenav.html %}
+
+yoyoyoyoyoyo
+{% for page in site.projects %}
+  {% if page.layout == 'team' %}
+    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+  {% endif %}
+{% endfor %}
+gogogogogogog

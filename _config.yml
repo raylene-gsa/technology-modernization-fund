@@ -30,6 +30,10 @@ name: "The Technology Modernization Fund"
 description: "A new funding model for Federal technology modernization projects"
 baseurl: ""
 
+
+collections:
+- projects
+
 # Google Analytics
 # google_analytics: UA—110413123-1
 
