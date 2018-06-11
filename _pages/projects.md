@@ -8,27 +8,6 @@ description: "A list of all projects that have been awarded TMF funding."
 
 The Technology Modernization Fund has awarded a total of three projects across three federal agencies:
 
-<table style="width:100%">
-  <tr><td colspan="2">Project Name</td><td colspan="4"><a href="#unisys-mainframe-migration">UNISYS Mainframe Migration</a></td></tr>
-  <tr><td colspan="2">Agency</td><td colspan="4">Housing and Urban Development (HUD)</td></tr>
-  <tr>
-    <td>Project Status</td>
-    <td>Schedule Delay</td>
-    <td>Cost Overruns</td>
-    <td>Total TMF Investment</td>
-    <td>Payback Period (Years)</td>
-    <td>Commercial Product</td>
-  </tr>
-  <tr>
-    <td>To be funded</td>
-    <td>No</td>
-    <td>No</td>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>Yes</td>
-  </tr>
-</table>
-
 ## UNISYS Mainframe Migration
 ### Housing and Urban Development (HUD)
 
