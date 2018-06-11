@@ -6,7 +6,7 @@ description: "Selection criteria used for choosing TMF projects."
 
 ---
 
-Before submitting an Initial Project Proposal (IPP), agencies are encouraged to review the subject areas below to become familiar with the types of questions and concerns the Board is most likely to raise. 
+Before submitting an Initial Project Proposal (IPP), agencies are encouraged to review the selection criteria listed below to become familiar with the types of questions and concerns the Board is most likely to raise. It is not essential that a project proposal address all the criteria areas listed below. Rather, teams should focus on the following areas most relavent to their individual projects.
 
 ### User Impact
 - **Mission effectiveness.** How does this project enhance mission effectiveness and flexibility?
