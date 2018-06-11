@@ -6,7 +6,7 @@ description: "A list of all projects that have been awarded TMF funding."
 
 ---
 
-To date, the Technology Modernization Fund has awarded a total of three projects across three federal agencies.
+The Technology Modernization Fund has awarded a total of three projects across three federal agencies.
 
 ## UNISYS Mainframe Migration
 ### Housing and Urban Development (HUD)
@@ -79,7 +79,7 @@ table, th, td {
 ## Farmers.gov Portal
 ### Department of Agriculture (USDA)
 
-Farmers.gov will deliver a better and more complete Citizen Experience for America’s farmers, ranchers, conservationists, and private foresters making good on Secretary Perdue’s promise to “build a website designed with our producers in mind...and provide seamless service across our agencies”. By establishing the Farmers.gov Citizen Experience Portal, useful and critical program information that was previously scattered across numerous agency-specific websites will now be unified through a standards-based customer experience integrating modern business capabilities to ensure an intuitive experience.
+Farmers.gov will deliver a better and more complete Citizen Experience for America’s farmers, ranchers, conservationists, and private foresters making good on Secretary Perdue’s promise to “build a website designed with our producers in mind...and provide seamless service across our agencies.” By establishing the Farmers.gov Citizen Experience Portal, useful and critical program information that was previously scattered across numerous agency-specific websites will now be unified through a standards-based customer experience integrating modern business capabilities to ensure an intuitive experience.
 
 In May 2017, Secretary Perdue reorganized USDA to improve efficiency, effectiveness, and customer focus by establishing the Farm Production and Conservation (FPAC) mission area focused on common customers to include the Farm Service Agency, (FSA), the Natural Resources Conservation Service (NRCS), and the Risk Management Agency (RMA). Both FSA and NRCS provide financial and technical assistance to farmers and ranchers through related conservation programs. While separately authorized and appropriated, the programs share common customers and also share interconnected systems. Through this project, USDA will have the opportunity to update and modernize the conservation financial assistance and payment operations across FSA and NRCS. This is an opportunity to update legacy systems and re-engineer processes and systems to reduce improper payments, address and resolve repeated financial audit findings, and properly connect these agency systems to the USDA common financial system.
 
