@@ -67,7 +67,11 @@ function getCookie(key) {
         $(this).append(icon);
       }
       if (file_type  === '.docx') {
-        var icon = '<img class="doc icon" src="'+baseurl+'/assets/img/icon-doc.png" height="24" width="24" alt="View the Doc">';
+        var icon = '<img class="doc icon" src="'+baseurl+'/assets/img/icon-word.png" height="24" width="24" alt="View the Doc">';
+        $(this).append(icon);
+      }
+      if (file_type  === '.xlsx') {
+        var icon = '<img class="xlsx icon" src="'+baseurl+'/assets/img/icon-xls.png" height="24" width="24" alt="View the Doc">';
         $(this).append(icon);
       }
     });
