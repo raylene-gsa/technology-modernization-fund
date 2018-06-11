@@ -6,62 +6,31 @@ description: "Selection criteria used for choosing TMF projects."
 
 ---
 
-Before submitting an Initial Project Proposal (IPP), agencies are encouraged to review the selection criteria listed below to become familiar with the types of questions and concerns the Board is most likely to raise. It is not essential that a project proposal address all the criteria areas listed below. Rather, teams should focus on the following areas most relavent to their individual projects.
+## Relevant Considerations in Preparing and Initial Project Proposal
 
-### User Impact
-- **Mission effectiveness.** How does this project enhance mission effectiveness and flexibility?
-- **Burden reduction.** How does this project reduce a time-consuming administration distraction to allow more time for mission goals?
-- **Public benefit.** How will this project improve quality of life for an American citizen or misson serving individual?
-- **User benefit.** How will this project improve usability of systems for government or non-government users?
-- **Public approval.** How does this project tackle an area of government delivery that has been under scrutiny and/or provide a new accountability tool to bolster trust in government?
+Before submitting an Initial Project Proposal (IPP), agencies are encouraged to review the selection criteria listed below to become familiar with the types of areas of concern the Board will consider. The following topics are neither exhaustive nor may be applicable to all agency projects, but serve to provide a framework to identify projects ripe for IT modernization.
 
-### Security and Risks
-- **Cyber risk.** How does this project reduce the agencies’ cyber risk?
-- **Past incidents.** Does the project have incident details that the agency can provide to show the need for modernization?
-- **Relative patch time.** How does this project improve the posture of unsupported and/or unpatchable hardware or software relative to similar systems?
-- **Tertiary risks.** How does the system related to this project currently rely on or have many technological dependencies that would affect the agency significantly if it failed?
-- **Breadth of risk.** Would the agency’s mission or other agencies’ missions be significantly impacted if the current system failed or was interrupted?
-- **Technological audits.** Does the project have third party audits or (non-scan) penetration tests that can highlight the need for modernization?
-- **Obsolescing skills.** Does the project upgrade or replace hardware or software that relies on workforce with skillsets that are becoming less common?
+Agencies submitting Initial Project Proposals are encouraged (though not required) to address these considerations, including citing or attaching evidence that their project meets any applicable considerations. Agency project sponsors should also be able to address these issues as part of the evaluation process, should a project merit additional examination by the Board.
 
-### Team Strength
-- **Demonstrated success.** Has this team demonstrated success in a similar modernization project in the past? Has a similar project been demonstrated to succeed in the past?
-- **Proximity to leadership.** Does this project have access to and approval by agency leadership? Will project leads and team members be full time on the project?
-- **Technical experts identified.** Have technical experts been identified to develop the project, including documentation that supports expertise: resumes, technical history, etc?
-- **Subject matter experts identified.** Have subject matter experts been identified to develop the project, including documentation that supports expertise: resumes, subject matter project history, etc?
-- **Users identified and available.** Have users been identified and are they readily available for iterative user testing in the development of this project?
-- **Maintainers identified.** Have technical experts and training been identified and included in this project scope to ensure the agency can use and continue to update the product as needed?
+### Impact on Agency Mission
 
+- **User Impact and Expected Outcomes:** Successfully executing this project will have a demonstrable and visible impact to the public, in alignment with the agency’s mission. The project will articulate a desired end state that clearly showcases how expected outcomes will enhance the delivery of services that reduces burden, improves performance, or has the potential to produce positive long term benefits.
 
-### Project Strategy Strength
-- **Overall readiness.** When are all of the identified team members and tools ready to start execution on the project plan?
-- **Product management approach.** How does this project support the agency’s overall product management approach?  Projects should demonstrate product orientation, including context of the project using an overall strategy and service design approach.
-- **Iterative project plan.** Is the project plan agile and iterative with short sprints and opportunities for adjusting priorities based on feedback and experience? If executing a procurement, has an experienced Contracting Officer and Contracting Officer Representatives been identified and is the appropriate acquisition strategy prepared?
-- **IT portfolio fit.** How does the project enhance or fit into the ongoing IT modernization strategies at the agency or agencies?
-- **Program governance.** Is program governance in place?  Are they prepared to support the project and make timely decisions?
+- **Improving Security:** The project will address an urgent problem (cybersecurity, financial, operational, or another significant risk the agency has identified that could have a material impact on project execution) that would otherwise not be solved. The project leverages commercial capabilities and industry best practices where applicable in order to manage risk during execution and throughout the life and maintenance of the project.
 
+### Feasibility
 
-### Opportunity
-- **Savings potential.** Will this project reduce operations and maintenance (O&M) costs due to efficiencies gained by moving to modern architectures and skill sets?
-- **Demonstrated savings.** Has an agency performed a similar project which resulted in cost savings?
-- **Savings accrual.** How long will it take for this IT modernization investment to return savings or realize other quantifiable value?
-- **Lasting financial impact.** Will this project produce long-term savings for the agency or agencies using it?
-- **Sinking market value.** Would this project upgrade or replace a system that currently does not reflect market price reductions?
-- **Time critical.** How would this project significantly benefit from being executed now instead of a year from now?
-- **Market flexibility.** How does this project reduce vendor lock-in (including services and tools)?
-- **Government-wide added value.** How does the project help move technology from a smaller more expensive market to a larger less expensive market?
-- **Business process changes.** What business process changes are needed?  Are those changes planned out?  What happens if process changes are not implemented and what is the risk?
-- **Change management.** What is the agency change management strategy, particularly if the proposed project affects a large number of customers (internal and external), and how they currently conduct business?
+- **Agency Sponsorship and Strength of Team:** The project has strong executive visibility and support, so that any issues that arise during execution can be addressed quickly and effectively. Agency leadership understands and champions the project success as essential to achieving agency priority goals.
 
+- **Project Execution Strategy and Measures of Success:** The project identifies key milestones for success and demonstrates how the use of funds will enable milestone achievement. A successful project also envisions an appropriate governance structure and operational model that will last beyond initial execution. The project will enhance and improve the existing agency IT modernization strategy, and the project will ultimately be executed according to a strong project management approach that aligns to industry best practices and incorporates, to the greatest extent practicable, commercial technology solutions
 
-### Common Solutions
-- **Technology choice.** Is the technology that is being upgraded or replaced widely used across government? Is there a code sharing or open source provision identified in the project plan?
-- **Cross-agency technology.** Will two or more agencies collaborate to create a shared solution for a common problem or cross agency mission area? How many agencies have interest or an equity in this solution? If this is a cross-agency project, has there been reconciliation of data (such as definitions, taxonomy)?
-- **Shared tools.** Will this project use, support, or enhance a current common technology solution between agencies?
+### Opportunity Enablement
 
-### Statute
-- **Issues with statute or policy.** Is project success dependent upon statutory or regulatory changes?
+- **Expected Cost Savings, Lasting Financial Impact, and Ability to Repay the TMF:** A successful project will provide detailed information on how the agency will save costs or dramatically improve service quality through modernization. The project will describe the importance of the investment to the agency (i.e., how impactful this project is to agency mission) and the expected long-term savings and operational efficiencies expected through successful project execution. Projects will highlight how business process or change management advances (including the repurposing of workforce as necessary) will be achieved as a result of successful project execution.
 
+### Common Solutions 
+
+- **Reduction of Outdated, Insecure Systems to Modern, Scalable Platforms:** A successful project will ensure that security is designed into execution from the outset and complements service delivery and mission objectives. Projects will leverage commercial products and services to the greatest extent practicable to boost security, decrease technical debt, and improve the ability of the project and the associated technology to adapt to a changing threat and operational environment. Where applicable, projects will demonstrate the ability of the agency to reduce outdated or duplicative systems (or to retired multiple systems) through modernization and deliver common solutions and reuse opportunities within an agency, or between the agency and external partners.
 
 ## Need assistance? 
 
