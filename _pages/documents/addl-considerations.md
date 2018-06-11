@@ -10,7 +10,7 @@ This document is intended to be a resource for agencies planning to submit Initi
 
 Questions regarding Additional Considerations should be directed to ofcio@omb.eop.gov.
 
-**Download as PDF**
+[**Download as PDF**]({{ site.baseurl }}{% link _pages/documents/pdfs/addl_considerations.pdf %})
 
 ## Additional Consideration:
 

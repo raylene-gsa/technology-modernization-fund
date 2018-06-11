@@ -11,7 +11,7 @@ description: "Funding Guidelines for Agencies Receiving Disbursements from the T
 This document is intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). 
 Questions regarding Repayment Guidelines should be directed to ofcio@omb.eop.gov.
 
-**Download the PDF**
+[**Download as PDF**]({{ site.baseurl }}{% link _pages/documents/pdfs/funding-guidelines.pdf %})
 
 ### Overview:
 
