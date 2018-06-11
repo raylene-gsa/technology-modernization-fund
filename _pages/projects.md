@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
 
