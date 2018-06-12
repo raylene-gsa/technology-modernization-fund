@@ -14,7 +14,7 @@ The TMF reimagines how IT modernization projects are funded and executed. The fi
 
 ## The Technology Modernization Board
 
-The interdisciplinary executive-level Board ensures projects are rigorously evaluated, best positioned for success, and take advantage of common solutions across the Federal Government.
+The interdisciplinary executive-level [Board]({{ site.baseurl }}{% link _pages/board.md %}) ensures projects are rigorously evaluated, best positioned for success, and take advantage of common solutions across the Federal Government.
 
 ## Technical Expertise
 
