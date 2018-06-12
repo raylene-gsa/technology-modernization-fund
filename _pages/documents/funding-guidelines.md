@@ -86,4 +86,4 @@ _If other planned reimbursement mechanisms do not materialize, reimbursement is 
 
 ## End Notes
 
-<a name="1"></a>_1_ Reimbursement subject to the availability of agency appropriations; for example, there may be particular circumstances (e.g., lapse in appropriations) where agency funds that otherwise would be available for reimbursement may not be for some period of time.
+<a name="1"></a>_1._ Reimbursement subject to the availability of agency appropriations; for example, there may be particular circumstances (e.g., lapse in appropriations) where agency funds that otherwise would be available for reimbursement may not be for some period of time.
