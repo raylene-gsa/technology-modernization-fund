@@ -1,4 +1,6 @@
 # Project data
+# - Project Name
+# - Agency
 # - Project Status
 # - Schedule Delay
 # - Cost Overruns
@@ -7,7 +9,7 @@
 # - Commercial Product
 
 - name        : "Farmers.gov Portal"
-  subhead     : "U.S. Department of Agriculture (USDA)"
+  agency      : "U.S. Department of Agriculture (USDA)"
   status      : "Board Approved – Pending Transfer of Funds"
   delay       : "No"
   cost        : "No"
