@@ -3,10 +3,8 @@ layout: page
 title: 'Why use the TMF?'
 permalink: /why-tmf/
 description: "A list of reasons agencies should consider the TMF to fund their project."
-
+deck: 'Agencies have a number of reasons to consider the TMF as the funding source for their proposed solution.'
 ---
-
-Agencies have a number of reasons to consider the TMF as the funding source for their proposed solution:
 
 ## Strong Incentives
 
