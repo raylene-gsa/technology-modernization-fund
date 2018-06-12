@@ -6,9 +6,9 @@ layout: default
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
 
-  {{ if page.deck }}
+  {% if page.deck %}
   <div class="deck">{{ page.deck | escape }}</div>
-  {{ end }}
+  {% endif %}
   <div class="post-content">
     {{ content }}
   </div>
