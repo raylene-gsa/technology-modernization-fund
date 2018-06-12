@@ -12,7 +12,7 @@ To submit a project to the Board for evaluation, a representative from your agen
 
 ## If You Have Questions or Need Assistance
 
-The [TMF Program Management Office (PMO)](mailto:tmf@gsa.gov), part of the General Services Administration (GSA), is here to support your team throughout the entire TMF application and submission process. We are available to help develop your initial IPP and also to review your IPP prior to submission.
+The TMF Program Management Office (PMO), part of the General Services Administration (GSA), is here to support your team throughout the entire TMF application and submission process. We are available to help develop your initial IPP, to review your IPP prior to submission. For more information about our full suite of services or to get in touch with us, please see the [Get Help Preparing Your Submission]({{ site.baseurl }}{% link _pages/get-help.md %}) section of this site.
 
 ## Once You are Ready to Submit 
 
