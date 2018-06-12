@@ -1,5 +1,6 @@
 <div class="project-details">
   {% for d in site.data.projects.[include.path] %}
+    <h6>{{ d.agency }}</h6>
     <p><strong>Project Status:</strong> {{ d.status }}</p>
     <p><strong>Schedule Delay:</strong> {{ d.delay }}</p>
     <p><strong>Cost Overruns:</strong> {{ d.cost }}</p>
