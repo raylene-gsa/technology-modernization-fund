@@ -13,6 +13,6 @@
   status      : "Board Approved – Pending Transfer of Funds"
   delay       : "No"
   cost        : "No"
-  investment  : "$10,000,000"
-  payback     : "$0"
+  totalaward  : "$10,000,000"
+  spendtodate     : "$0"
   product     : "Yes"
