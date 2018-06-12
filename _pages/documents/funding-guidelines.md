@@ -1,23 +1,21 @@
 ---
 layout: page
-title: Funding Guidelines
+title: Funding Guidelines for Agencies Receiving Disbursements from the Technology Modernization Fund
 permalink: /documents/funding-guidelines/
 description: "Funding Guidelines for Agencies Receiving Disbursements from the Technology Modernization Fund."
 
 ---
 				
-## Funding Guidelines for Agencies Receiving Disbursements from the Technology Modernization Fund
-
 This document is intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). 
 Questions regarding Repayment Guidelines should be directed to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 
 [**Download as PDF**]({{ site.baseurl }}{% link _pages/documents/pdfs/funding-guidelines.pdf %})
 
-### Overview:
+## Overview:
 
 Projects that are recommended by the Technology Modernization Board (Board) will receive an allocation to a specified dollar amount that will be dedicated to the project. Within the allocated level, incremental transfers may be made contingent upon the achievement of project milestones. All fund transfers from the TMF<sup><a href="#1">1</a></sup> must be reimbursed according to the repayment terms in the written agreement for the transfer of funds, which may not exceed five years unless otherwise approved by The Office of Management and Budget (OMB).  Generally, the funds will be transferred on an incremental basis, and tied to milestones documented in the written agreement
 
-### Written Agreements:
+## Written Agreements:
 
 In a format prescribed by The General Services Administration (GSA), in consultation with OMB, all TMF transfers require a written agreement between GSA and the receiving agency stipulating the purpose of the transfer and reimbursement terms.  Written agreements will constitute a legal obligation of the receiving agency to reimburse the TMF.  Reimbursement is not contingent upon the achievement of project-related savings.  Funds for reimbursement can be derived from any agency account supporting information technology activities pursuant to Section 1078 (b)(5)(A)(ii). 
 
@@ -77,7 +75,7 @@ The following examples illustrate how agencies can enable reimbursement of trans
 
 _If other planned reimbursement mechanisms do not materialize, reimbursement is made from existing agency resources and subject to the repayment terms in the written agreement._
 
-### Other Enabling Mechanisms:
+## Other Enabling Mechanisms:
 
 - Project-Related Savings: If project completion results in immediate project-related savings that can materialize in the first year, agencies may reallocate funding to TMF reimbursement, assuming savings are sufficient to cover the amount due each year. Agencies must formulate the planned reimbursement into out-year budget submissions.
 - Proportional Reimbursement: To the extent that an investment crosses organizations, an agency may identify multiple accounts or bureaus (i.e. the benefiting organizations) to pay a proportionate reimbursement amount to the TMF. Agencies must formulate the planned reimbursement into out-year budget submissions.
