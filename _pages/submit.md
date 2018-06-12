@@ -3,7 +3,7 @@ layout: page
 title: Submit a Proposal
 permalink: /submit/
 description: "Submit a proposal to the TMF."
-deck: 'We encourage _all_ federal agencies to submit project proposals if the vision, mission, and use of TMF makes sense for agency IT modernization efforts.'
+deck: 'We encourage all federal agencies to submit project proposals if the vision, mission, and use of TMF makes sense for agency IT modernization efforts.'
 
 ---
 
