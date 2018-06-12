@@ -18,7 +18,7 @@ The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{%
 Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review.
 
 ### Phase Two: Full Project Proposal (FPP)
-If the Board approves an IPP, the project team submits their Full Project Proposal (FPP) to the Board. The FPP entails a more comprehensive description of the proposal, discrete project milestones, and funding schedule. Team will prepare a pitch deck and presentation for the Board
+If the Board approves an IPP, the project team submits their Full Project Proposal (FPP) to the Board. The FPP entails a more comprehensive description of the proposal, discrete project milestones, and funding schedule. The team will also prepare a pitch deck and in-person presentation for the Board.
 
 Projects recommended for funding by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
 
