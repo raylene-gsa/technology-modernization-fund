@@ -7,6 +7,8 @@ deck: 'The mission of the Technology Modernization Fund is to enable agencies to
 
 ---
 
+## Guiding Principles
+
 The Board stands by the following guiding principles to achieve the mission of the TMF:
 
 ### Serve the best interest of the American public
