@@ -1,4 +1,6 @@
 # Project data
+# - Project Name
+# - Agency
 # - Project Status
 # - Schedule Delay
 # - Cost Overruns
@@ -7,7 +9,7 @@
 # - Commercial Product
 
 - name        : "UNISYS Mainframe Migration"
-  subhead     : "Housing and Urban Development (HUD)"
+  agency      : "Housing and Urban Development (HUD)"
   status      : "Board Approved – Pending Transfer of Funds"
   delay       : "No"
   cost        : "No"
