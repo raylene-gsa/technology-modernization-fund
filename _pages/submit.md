@@ -19,4 +19,4 @@ The TMF Program Management Office (PMO), part of the General Services Administra
 
 ## Once You are Ready to Submit 
 
-[Email your IPP](mailto:tmf@gsa.gov) to the TMF PMO.
+[Email your IPP](mailto:tmf@gsa.gov) to the TMF PMO. _Please include in the email the name and contact information for the primary program- or project-level Point-of-Contact (POC) for the project team._
