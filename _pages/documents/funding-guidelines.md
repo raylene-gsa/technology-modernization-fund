@@ -9,7 +9,7 @@ description: "Funding Guidelines for Agencies Receiving Disbursements from the T
 ## Funding Guidelines for Agencies Receiving Disbursements from the Technology Modernization Fund
 
 This document is intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). 
-Questions regarding Repayment Guidelines should be directed to ofcio@omb.eop.gov.
+Questions regarding Repayment Guidelines should be directed to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 
 [**Download as PDF**]({{ site.baseurl }}{% link _pages/documents/pdfs/funding-guidelines.pdf %})
 
@@ -23,13 +23,13 @@ In a format prescribed by The General Services Administration (GSA), in consulta
 
 A written agreement will include, at a minimum:
 
--The amount of the transfer that will be made to the agency by the TMF and the purpose for which the funds will be used by the agency;
--The anticipated schedule on which transfers will be made and expected reimbursement shall occur;
--A statement that funds shall be transferred only on an incremental basis, tied to metric based milestones achieved by the agency through the use of rapid, iterative, development processes;
--A reliable estimate of any project-related cost savings or avoidance relative to pre-modernization activities;
--Where applicable, the planned acquisition strategy, including use of full and open competition, and use of commercial products and services to the extent practicable;
--How the GSA Staff and the Board expect to perform oversight of the project; and
--Any other requirements GSA or the Board may deem necessary for project success, in order to execute a transfer.
+- The amount of the transfer that will be made to the agency by the TMF and the purpose for which the funds will be used by the agency;
+- The anticipated schedule on which transfers will be made and expected reimbursement shall occur;
+- A statement that funds shall be transferred only on an incremental basis, tied to metric based milestones achieved by the agency through the use of rapid, iterative, development processes;
+- A reliable estimate of any project-related cost savings or avoidance relative to pre-modernization activities;
+- Where applicable, the planned acquisition strategy, including use of full and open competition, and use of commercial products and services to the extent practicable;
+- How the GSA Staff and the Board expect to perform oversight of the project; and
+- Any other requirements GSA or the Board may deem necessary for project success, in order to execute a transfer.
 
 ## Reimbursement Schedule:
 
@@ -86,4 +86,4 @@ _If other planned reimbursement mechanisms do not materialize, reimbursement is 
 
 ## End Notes
 
-<a name="1">1</a> Reimbursement subject to the availability of agency appropriations; for example, there may be particular circumstances (e.g., lapse in appropriations) where agency funds that otherwise would be available for reimbursement may not be for some period of time.
+<a name="1"></a>_1_ Reimbursement subject to the availability of agency appropriations; for example, there may be particular circumstances (e.g., lapse in appropriations) where agency funds that otherwise would be available for reimbursement may not be for some period of time.
