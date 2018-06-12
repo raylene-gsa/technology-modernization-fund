@@ -15,7 +15,6 @@ deck: "The Technology Modernization Fund has awarded a total of three projects a
 ---
 
 ## UNISYS Mainframe Migration
-### Housing and Urban Development (HUD)
 
 {% include project-data.html path="hud_unisys" %}
 
@@ -28,7 +27,6 @@ Without this funding, the Department would likely not have the resources to purs
 ---
 
 ## Enterprise Cloud Email
-### Department of Energy (DOE)
 
 {% include project-data.html path="doe_email" %}
 
@@ -41,7 +39,6 @@ Without this funding, DOE would need to conduct the migration of the remaining s
 ---
 
 ## Farmers.gov Portal
-### Department of Agriculture (USDA)
 
 {% include project-data.html path="usda_portal" %}
 
