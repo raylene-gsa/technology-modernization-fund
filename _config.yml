@@ -31,7 +31,7 @@ description: "A new funding model for Federal technology modernization projects"
 baseurl: ""
 
 # Google Analytics
-# google_analytics: UA—110413123-1
+google_analytics: UA-120729807-1
 
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
