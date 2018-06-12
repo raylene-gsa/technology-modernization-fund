@@ -30,6 +30,6 @@ The following topics are neither exhaustive nor may be applicable to all agency 
 
 - **Reduction of Outdated, Insecure Systems to Modern, Scalable Platforms:** A successful project will ensure that security is designed into execution from the outset and complements service delivery and mission objectives. Projects will leverage commercial products and services to the greatest extent practicable to boost security, decrease technical debt, and improve the ability of the project and the associated technology to adapt to a changing threat and operational environment. Where applicable, projects will demonstrate the ability of the agency to reduce outdated or duplicative systems (or to retired multiple systems) through modernization and deliver common solutions and reuse opportunities within an agency, or between the agency and external partners.
 
-## Need assistance? 
+## If You Have Questions or Need Assistance
 
-Agencies can email the [TMF Program Office](mailto:tmf@gsa.gov) for support in developing an IPP.
+The TMF Program Management Office (PMO), part of the General Services Administration (GSA), is here to support your team throughout the entire TMF application and submission process. We are available to help develop your initial IPP and to review your IPP prior to submission. For more information about our full suite of services or to get in touch with us, please see the [Get Help Preparing Your Submission]({{ site.baseurl }}{% link _pages/get-help.md %}) section of this site.
