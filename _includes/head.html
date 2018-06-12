@@ -16,20 +16,24 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
   {% if page.title %}
-    <title>{{ page.title }}</title>
-    <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  <title>{{ page.title }} — {{ site.name }}</title>
+  <meta property="og:title" content="{{ page.title | xml_escape }}" />
+  <meta property="og:site_name" content="{{ site.name | xml_escape }}">
   {% else %}
-    <title>{{ site.title }}</title>
-    <meta property="og:title" content="{{ site.title | xml_escape }}" />
+  <title>{{ site.name }}</title>
+  <meta property="og:title" content="{{ site.name | xml_escape }}" />
+  <meta property="og:site_name" content="{{ site.name | xml_escape }}">
   {% endif %}
-
   {% if page.description %}
-    <meta name="description" content="{{ page.description | xml_escape }}">
-    <meta property="og:description" content="{{ page.description | xml_escape }}" />
+  <meta name="description" content="{{ page.description | xml_escape }}">
+  <meta property="og:description" content="{{ page.description | xml_escape }}" />
   {% else %}
-    <meta name="description" content="{{ site.description | xml_escape }}">
-    <meta property="og:description" content="{{ site.description | xml_escape }}" />
+  <meta name="description" content="{{ site.description | xml_escape }}">
+  <meta property="og:description" content="{{ site.description | xml_escape }}" />
   {% endif %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/tmf.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | xml_escape }}" />
 
   <script type="text/javascript">
     var baseurl = '{{ site.baseurl }}';
