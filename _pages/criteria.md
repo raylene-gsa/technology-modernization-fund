@@ -6,7 +6,7 @@ description: "Selection criteria used for choosing TMF projects."
 
 ---
 
-## Relevant Considerations in Preparing and Initial Project Proposal
+## Relevant Considerations in Preparing an Initial Project Proposal
 
 Before submitting an Initial Project Proposal (IPP), agencies are encouraged to review the selection criteria listed below to become familiar with the types of areas of concern the Board will consider. The following topics are neither exhaustive nor may be applicable to all agency projects, but serve to provide a framework to identify projects ripe for IT modernization.
 
