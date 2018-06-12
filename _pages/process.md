@@ -10,7 +10,7 @@ deck: 'The full process used to determine which solutions are funded by the TMF.
 ## Phase One: Initial Project Proposal (IPP)
 
 - **Agencies submit Initial Project Proposals (IPPs) using the IPP Template**, which are reviewed by the Technology Modernization Board.
-- **The Board assesses IPPs based on the Criteria established by the Board.** The Board will provide all agencies that submit IPPs a written memo highlighting the Board’s decision and possible requesting additional action. 
+- **The Board assesses IPPs based on the [criteria]({{ site.baseurl }}{% link _pages/criteria.md %}) established by the Board.** The Board will provide all agencies that submit IPPs a written memo highlighting the Board’s decision and possible requesting additional action. 
 
 The proposal template for the IPP is available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site.
 
