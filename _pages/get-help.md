@@ -8,7 +8,7 @@ description: "Get help preparing your submission to the TMF."
 
 The [TMF Program Management Office (PMO)](mailto:tmf@gsa.gov), part of the General Services Administration (GSA), is here to support your team through the entire TMF application and review process. Our goal is to help smoothly transition project proposals from phase to phase and provide assistance wherever necessary. Our team works with agencies to build strong business cases from both a modernization and financial standpoint.
 
-## Abour Out Services
+## Abour Our Services
 We’re a full-service office, made up of financial, technical, and acquisition strategy experts, available to assist your team at any point with:
 
 - **Initial project selection and prioritization.** Multiple projects to choose from? We are here to help align your agency needs with Board goals.
