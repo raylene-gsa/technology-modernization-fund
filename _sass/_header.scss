@@ -6,6 +6,7 @@
   border-bottom: 2px solid #ba0101;
 
   .usa-navbar{
+    border: none;
     height: auto;
 
     .usa-logo{
@@ -13,24 +14,25 @@
       float: none;
 
       .eagle-box{
+        margin: 0 0 0 25px;
         height: 100px;
-        width: 225px;
-        float: left;
+        width: 130px;
+        // background: pink;
         .gold-arrow{
-          width: 200px;
+          width: 130px;
           display: block;
           position: relative;
           z-index: 999;
           top:0px;
-          left: 12px;
+          left: 0;
         }
       }
 
       .title{
         margin-top: 0;
         margin-left: 25px;
-        padding: 25px 0;
-        float: left;
+        margin-bottom: 15px;
+        padding: 10px 0;
         h1{
           font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
           font-size: 3rem;
@@ -60,30 +62,63 @@
 }
 
 
-@media screen and (min-width: 600px) {
+
+@media screen and (min-width: 575px) {
   .usa-header{
     .usa-navbar{
-      // height: 8rem;
-    }
-  }
-}
-@media screen and (min-width: 951px) {
-  .usa-header{
-    .usa-navbar{
-      // height: 10rem;
-    }
-  }
-}
-@media screen and (min-width: 1201px) {
-  .usa-header{
-    .usa-navbar{
-      // height: 10rem;
-      .contribute{
-        top: 40px;
-        display: block;
+      .usa-logo{
+        .eagle-box{
+          width: 150px;
+          .gold-arrow{
+            width: 150px;
+            left: 0;
+          }
+        }
+        .title{
+          // float: left;
+          padding: 25px 0;
+        }
       }
     }
   }
+}
+@media screen and (min-width: 768px) {
+  .usa-header{
+    .usa-navbar{
+      .usa-logo{
+        .eagle-box{
+          margin: 0;
+          float: left;
+        }
+        .title{
+          float: left;
+        }
+      }
+    }
+  }
+}
+@media screen and (min-width: 992px) {
+  .usa-header{
+    .usa-navbar{
+      .usa-logo{
+        .eagle-box{
+          width: 225px;
+          .gold-arrow{
+            width: 200px;
+            left: 12px;
+          }
+          margin: 0;
+          float: left;
+        }
+        .title{
+          margin-bottom: 0;
+          float: left;
+        }
+      }
+    }
+  }
+}
+@media screen and (min-width: 1200px) {
 }
 
 
