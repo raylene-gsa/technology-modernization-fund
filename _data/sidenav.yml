@@ -15,10 +15,10 @@
   sub_nav:
   - text: "Selection Criteria"
     url: /criteria/
-  - text: "Common Questions"
-    url: /questions/
   - text: "Documents & Templates"
     url: /documents/
+  - text: "Common Questions"
+    url: /questions/
   - text: "Get Help Preparing Your Submission"
     url: /get-help/
 - text: "See the Projects"
