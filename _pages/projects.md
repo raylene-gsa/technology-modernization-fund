@@ -7,7 +7,7 @@ deck: "The Technology Modernization Fund has awarded a total of three projects a
 
 ---
 
-#### [The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current projects, including project-specific descriptions and the information necessary to meet statutory requirements: 
+[The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current projects, including project-specific descriptions and the information necessary to meet statutory requirements: 
 
 - [**UNISYS Mainframe Migration**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email**](#enterprise-cloud-email)
