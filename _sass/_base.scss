@@ -46,6 +46,13 @@ body{
   margin-top: 10px;
   margin-bottom: 25px;
   font-size: 14px;
+  p{
+    margin: 0;
+    float: left;
+  }
+  .git{
+    float: right;
+  }
   .button-edit{
     margin-right: 15px;
     padding: 3px 7px 5px 7px;
