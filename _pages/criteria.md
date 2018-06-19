@@ -20,7 +20,7 @@ The following topics are neither exhaustive nor may be applicable to all agency 
 
 - **Agency Sponsorship and Strength of Team:** The project has strong executive visibility and support, so that any issues that arise during execution can be addressed quickly and effectively. Agency leadership understands and champions the project success as essential to achieving agency priority goals.
 
-- **Project Execution Strategy and Measures of Success:** The project identifies key milestones for success and demonstrates how the use of funds will enable milestone achievement. A successful project also envisions an appropriate governance structure and operational model that will last beyond initial execution. The project will enhance and improve the existing agency IT modernization strategy, and the project will ultimately be executed according to a strong project management approach that aligns to industry best practices and incorporates, to the greatest extent practicable, commercial technology solutions
+- **Project Execution Strategy and Measures of Success:** The project identifies key milestones for success and demonstrates how the use of funds will enable milestone achievement. A successful project also envisions an appropriate governance structure and operational model that will last beyond initial execution. The project will enhance and improve the existing agency IT modernization strategy, and the project will ultimately be executed according to a strong project management approach that aligns to industry best practices and incorporates, to the greatest extent practicable, commercial technology solutions.
 
 ### Opportunity Enablement
 
