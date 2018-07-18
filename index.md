@@ -15,7 +15,7 @@ Approved projects receive incremental funding and technical expertise to ensure 
 The TMF is overseen by the [Technology Modernization Board]({{ site.baseurl }}{% link _pages/board.md %}), comprised of Government IT leaders representing proven expertise in technology, transformation, and operations. Agencies submit IT-related project proposals for the Board to review and consider. Agencies submit technology modernization proposals to the Board through a [two-phased approval process]({{ site.baseurl }}{% link _pages/process.md %}).
 
 ### Phase One: Initial Project Proposal (IPP)
-Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review.
+Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-screen to maximize the number of unique projects the Board can review. Agencies must also confirm that funding for this project has never explicitly been denied or restricted by Congress.
 
 ### Phase Two: Full Project Proposal (FPP)
 If the Board approves an IPP, the project team submits their Full Project Proposal (FPP) to the Board. The FPP entails a more comprehensive description of the proposal, discrete project milestones, and funding schedule. The team will also prepare a pitch deck and in-person presentation for the Board.
