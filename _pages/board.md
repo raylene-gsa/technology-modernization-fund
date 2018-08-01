@@ -71,7 +71,7 @@ Additionaly, four alternate board members with expertise in information technolo
 
 {% include board-member.html path="headshots/graves.jpg" alt-text="Margie Graves" %} In her role, Margie Graves works to protect Federal IT assets and information, develop the next generation IT workforce, and improve the way Government delivers results and technology services to the public. Previously, Ms. Graves served as the Deputy CIO at the U.S. Department of Homeland Security where she managed an IT portfolio of $5.4 billion in programs and directed operations in the functional areas of Applied Technology, Enterprise Architecture, Data Management, IT Security, Infrastructure Operations, IT Accessibility, Budget and Acquisition.
 
-**Grant Schneider, Acting Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council**
+**Grant Schneider, Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council**
 
 {% include board-member.html path="headshots/schneider.jpg" alt-text="Grant Schneider" %} In his roles, Grant Schneider leads teams of cybersecurity experts who develop and oversee implementation of crosscutting policies to enhance the Nation’s cybersecurity. Mr. Schneider played an instrumental role in the government-wide response to the OPM cybersecurity incidents in 2014 and 2015. Prior to joining the White House as Cybersecurity Advisor to the Federal Chief Information Officer in 2015, Mr. Schneider served for seven years as the Defense Intelligence Agency’s CIO.
 
