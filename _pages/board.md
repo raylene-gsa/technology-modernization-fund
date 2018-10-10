@@ -39,9 +39,9 @@ Additionaly, four alternate board members with expertise in information technolo
 
 ### Cybersecurity Official from DHS - Permanent Member
 
-**Mark Kneidinger, Director of Federal Network Resilience, Department of Homeland Security National Programs and Protection Directorate**
+**Matt Hartman, Acting Director of Federal Network Resilience, Department of Homeland Security National Programs and Protection Directorate**
 
-{% include board-member.html path="headshots/mk.jpg" alt-text="Mark Kneidinger" %} Mark Kneidinger leads Federal Network Resilience in representing the Department of Homeland Security’s (DHS) cybersecurity programs to all 125 Executive Branch Departments & Agencies, driving change in cybersecurity risk management across the federal government. Prior to joining DHS, Mr. Kneidinger held IT Executive leadership positions in the commercial sector of Fortune 100 Corporations, including roles as CTO, Vice President and Managing Partner.
+{% include board-member.html path="headshots/hartman.jpg" alt-text="Matt Hartman" %} Matt Hartman serves as the Acting Director of Federal Network Resilience (FNR) within the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD). In this role, Mr. Hartman leads DHS’ proactive administration of Federal Civilian Executive Branch cybersecurity and serves as the primary interface to Agency Chief Information Officers and the Office of the Federal Chief Information Officer (OFCIO). Previously, Mr. Hartman served as the Cybersecurity Counselor to the Secretary of Homeland Security, Senior Advisor to the Assistant Secretary of Cybersecurity and Communications, Director of Strategy Coordination and Management, and various leadership positions within the Continuous Diagnostics and Mitigation Program, including Acting Program Manager from May 2016 until January 2017.
 
 ---
 
