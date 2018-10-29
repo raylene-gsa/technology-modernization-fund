@@ -12,8 +12,11 @@ deck: "The Technology Modernization Fund has awarded a total of three projects a
 - [**UNISYS Mainframe Migration**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email**](#enterprise-cloud-email)
 - [**Farmers.gov Portal**](#farmersgov-portal)
+- [**Visa Application Transformation**](#visa-application-transformation)
+- [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
+- [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
 
-###### Last updated: 09/12/2018
+###### Last updated: 10/29/2018
 
 ---
 
@@ -50,3 +53,39 @@ Farmers.gov will deliver a better and more complete Citizen Experience for Ameri
 In May 2017, Secretary Perdue reorganized USDA to improve efficiency, effectiveness, and customer focus by establishing the Farm Production and Conservation (FPAC) mission area focused on common customers to include the Farm Service Agency, (FSA), the Natural Resources Conservation Service (NRCS), and the Risk Management Agency (RMA). Both FSA and NRCS provide financial and technical assistance to farmers and ranchers through related conservation programs. While separately authorized and appropriated, the programs share common customers and also share interconnected systems. Through this project, USDA will have the opportunity to update and modernize the conservation financial assistance and payment operations across FSA and NRCS. This is an opportunity to update legacy systems and re-engineer processes and systems to reduce improper payments, address and resolve repeated financial audit findings, and properly connect these agency systems to the USDA common financial system.
 
 Without this funding, USDA would need to delay integrating this part of the process into the consolidated Farmers.gov Citizen Experience Portal in a later year when funds became available. However, with support from the TMF the project can be conducted at the same time as other enhancements to the Portal, faster. By the end of this project USDA will have completed a business process reengineering effort and four quarterly development sprints in under two years.
+
+---
+
+## Visa Application Transformation
+
+{% include project-data.html path="dol_visa" %}
+
+The current solution is an outdated paper-based process that DOL uses to issue Labor Certifications to employer applicants for certain types of work visas. Currently, DOL has dedicated certification printing rooms equipped with specialized printers that use expensive blue security paper that is manually printed and mailed to employer applicants overnight. Then, the employer applicant or their representative must mail the
+
+Labor Certification along with other paperwork to the Department of Homeland Security U.S. Citizenship and Immigration Service (USCIS) as part of their visa application. The proposed project will eliminate the need for the Department of Labor to mail the Labor Certification to the employer applicant and will also eliminate the need for the employer applicant to mail the Labor Certification to USCIS. The system improvements will enable the Department of Labor to issue a Labor Certification securely and electronically to employer applicants through an “E-Certification” document, similar to the electronic boarding passes issued by airlines. In addition, this project will streamline and improve data accessibility and reporting capabilities by creating a data hub at the Department of Labor to securely transmit the Labor Certification and other necessary documentation to USCIS.
+
+Without this funding, the Department of Labor would need to maintain the use of the paper-based process until a future year. However, with support from the Technology Modernization Fund (TMF), the Department will have transitioned the Labor Certification process for all types of visas from the paper-based process in use today to a digital “E-Certification” process. DOL anticipates it will have a greater ability to serve its applicants more quickly because employer applicants will no longer need to receive their certifications through the mail and will not need to send their certifications to USCIS through the mail. The operational benefits of this project include cost savings, increased efficiency, and improved citizen-facing processes.
+
+---
+
+## Application Modernization Integrating Flexible Architectures
+
+{% include project-data.html path="gsa_appmod" %}
+
+Currently, GSA has 88 applications that are in need of modernization. The applications have cumbersome, outdated user interfaces and are difficult to connect to other systems. Through this project GSA will 1) conduct a pilot for full stack application modernizations and 2) to transform 10%-15% of GSA systems that are on legacy proprietary software to open source technologies. This transformation will simplify integrations with other systems; enable greater agility, resiliency, scalability, and performance; allow GSA greater flexibility in recruiting talent; and in the long term, lower the cost of operations and improve the quality of the applications.
+
+The current applications also have a high dependency on legacy proprietary technology, which is challenging to maintain and lacks the flexibility to allow users to easily and quickly obtain the actionable information that they need compared to more modern open-source technologies. It is also challenging for GSA to recruit talented resources to work on these legacy applications. Through this project, GSA will pursue full transformation of the planned applications, including the hardware, database layer, and application layers. GSA will use a cross-functional Solutions Team that has deep understanding of the current applications’ technical specifications and collaborated to create a set of standard target technologies to migrate towards.
+
+Without this funding, GSA would need to continue using these outdated applications in most instances and would only be able to pursue modernization to decouple legacy technology piecemeal as funding became available. However, with this funding, GSA will be able to pursue the modernization of a significant proportion of impacted systems as a coordinated project using best in class agile methodologies. By the end of this project, GSA will have modernized a meaningful percentage of its applications that are dependent on proprietary technology, and will have generated a playbook for such modernizations that can be put to work in future GSA efforts as well as at other government agencies. GSA anticipates it will have a greater ability to service its mission by making it easier to access actionable business information and through expanding the use of more flexible open-source technologies, which will benefit the American people. The operational benefits include increased efficiency and decreased operational risk.
+
+---
+
+## Infrastructure Optimization and Cloud Adoption
+
+{% include project-data.html path="usda_ck10" %}
+
+USDA has a critical mission that is currently hampered by the use of outdated technology. The current solution for this project is riddled with system performance issues, security challenges and decentralized IT infrastructure that is costly to maintain and upgrade. USDA worked with the GSA Cloud Centers of Excellence (CoE) to develop their approach and will focus on avoiding duplication of IT components by using a shared services cloud platform model. The infrastructure optimization and cloud adoption project represents the beginning of cloud-enablement across USDA, migrating existing applications to the cloud and consolidating cloud expertise so that it can be leveraged enterprise-wide. The project will migrate 10 applications selected for their mission impact and readiness. In addition, USDA selected applications that have some structural commonalities that will allow them to migrate to standardized commercial cloud “landing zones” that will become the foundation of USDA’s future cloud migration initiatives.
+
+Without this funding, USDA would not be able to pursue the modernization of these applications, and the outdated technologies would increasingly be unable to handle the increased variety, volume and velocity of data required to support mission critical programs. However, with the support of the TMF, USDA can complete the migration of 10 applications, improving functionality while also generating savings that can be used to pursue future modernization efforts. USDA anticipates it will have a greater ability to serve its mission more quickly across sites and capabilities, which will positively impact the American people. The operational benefits of this project include cost savings, increased efficiency, and decreased operational risk.
+
+
