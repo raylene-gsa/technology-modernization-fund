@@ -10,9 +10,9 @@
 
 - name        : "UNISYS Mainframe Migration"
   agency      : "Housing and Urban Development (HUD)"
-  status      : "First Incremental transfer of $5,000,000 Transferred, Agency in Acquisition Process"
+  status      : "First incremental transfer of $5,000,000.00 transferred. Agency has awarded initial contract action."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$20,000,000"
-  spendtodate : "$0"
+  totalaward  : "$20,000,000.00"
+  spendtodate : "$4,568,028.00"
   product     : "Yes"

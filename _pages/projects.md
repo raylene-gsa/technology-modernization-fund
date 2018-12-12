@@ -16,7 +16,7 @@ deck: "The Technology Modernization Fund has awarded a total of three projects a
 - [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
 
-###### Last updated: 10/29/2018
+###### Last updated: 12/12/2018
 
 ---
 
