@@ -15,7 +15,7 @@ deck: "The Technology Modernization Fund has awarded a total of three projects a
 - [**Visa Application Transformation**](#visa-application-transformation)
 - [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
-- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#payroll-and-work-schedule-and-leave-management-software-as-a-service)
+- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
 
 ###### Last updated: 02/11/2019
 
