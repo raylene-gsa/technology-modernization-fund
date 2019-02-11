@@ -8,11 +8,11 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "Visa Application Transformation"
-  agency      : "Department of Labor (DOL)"
+- name        : "NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service"
+  agency      : "General Services Administration (GSA)"
   status      : "Project awarded funds by TMF Board."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$3,500,000.00"
+  totalaward  : "$20,650,000.00"
   spendtodate : "$0.00"
   product     : "Yes"

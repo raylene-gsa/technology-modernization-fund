@@ -15,8 +15,9 @@ deck: "The Technology Modernization Fund has awarded a total of three projects a
 - [**Visa Application Transformation**](#visa-application-transformation)
 - [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
+- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#payroll-and-work-schedule-and-leave-management-software-as-a-service)
 
-###### Last updated: 12/12/2018
+###### Last updated: 02/11/2019
 
 ---
 
@@ -88,4 +89,14 @@ USDA has a critical mission that is currently hampered by the use of outdated te
 
 Without this funding, USDA would not be able to pursue the modernization of these applications, and the outdated technologies would increasingly be unable to handle the increased variety, volume and velocity of data required to support mission critical programs. However, with the support of the TMF, USDA can complete the migration of 10 applications, improving functionality while also generating savings that can be used to pursue future modernization efforts. USDA anticipates it will have a greater ability to serve its mission more quickly across sites and capabilities, which will positively impact the American people. The operational benefits of this project include cost savings, increased efficiency, and decreased operational risk.
 
+---
+
+## NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service
+
+{% include project-data.html path="gsa_newpay" %}
+
+Currently, most Federal payroll operations use decades-old legacy software, which is costly as well as difficult to maintain. GSA’s system is housed in a data center in Kansas City, MO. The system has not had a major update in many years and is in serious need of modernization. Funds from the Technology Modernization Fund (TMF) will enable GSA to complete the configuration of the Software-as-a-Service (SaaS) solution and related interfaces for both payroll and WSLM and will lay the foundation for an enterprise solution for human resource functions Government-Wide.
+
+Without this funding, GSA would need to delay establishing the cloud-enabled SaaS solution until a future year when dedicated upfront funding could be
+secured from the current user base or other sources instead of paying for the investment over a period of years. However, with the support from the TMF the project can be conducted in FY 2019 as a single effort to stand up the initial payroll and WSLM capabilities with current customers, with completion in two years. By the end of this project, GSA will be better positioned to serve as a Federal-wide shared service provider, will have migrated all of its 21,000 users to the NewPay payroll solution, and will have established a WSLM service integrated into the NewPay payroll solution. Because GSA is using a commercial cloud-enabled SaaS product, GSA will no longer need to house the system on its data centers. GSA anticipates it will have a greater ability to serve its mission by improving its shared service offerings, which will benefit the American people by transitioning Government back office operations to modern technology, reducing costs and risk, and leveraging commercial innovation. The operational benefits of this project include elimination of costly legacy customized technology, increased efficiency, improved cyber posture and decreased operational risk.
 
