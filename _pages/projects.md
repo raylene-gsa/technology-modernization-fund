@@ -3,7 +3,7 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of three projects across three federal agencies."
+deck: "The Technology Modernization Fund has awarded a total of seven projects across five federal agencies."
 
 ---
 
