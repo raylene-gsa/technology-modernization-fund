@@ -35,6 +35,7 @@ Technology Modernization Board meeting minutes are available below.
 - August 27, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-082718.pdf %}))
 - September 10, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-091018.pdf %}))
 - October 1, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-100118.pdf %}))
+- October 22, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-102218.pdf %}))
 - November 05, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-110518.pdf %}))
 - November 19, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-111918.pdf %}))
 - November 26, 2018 ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/minutes/minutes-112618.pdf %}))
