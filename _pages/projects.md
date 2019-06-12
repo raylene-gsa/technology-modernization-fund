@@ -17,7 +17,7 @@ deck: "The Technology Modernization Fund has awarded a total of seven projects a
 - [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
 - [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
 
-###### Last updated: 07/12/2019
+###### Last updated: 06/12/2019
 
 ---
 
