@@ -10,9 +10,9 @@
 
 - name        : "Enterprise Cloud Email"
   agency      : "Department of Energy (DOE)"
-  status      : "First Incremental transfer of $2,226,965.00 transferred. Agency is in acquisition process"
+  status      : "First incremental transfer of $2,226,965.00 transferred. Agency has awarded initial contract actions."
   delay       : "No"
   cost        : "No"
   totalaward  : "$15,217,096.00"
-  spendtodate : "$0.00"
+  spendtodate : "$2,226,965.00"
   product     : "Yes"

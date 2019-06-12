@@ -10,9 +10,9 @@
 
 - name        : "Visa Application Transformation"
   agency      : "Department of Labor (DOL)"
-  status      : "Project awarded funds by TMF Board."
+  status      : "First incremental transfer of $200,000.00 completed. Agency has completed initial contracting actions."
   delay       : "No"
   cost        : "No"
   totalaward  : "$3,500,000.00"
-  spendtodate : "$0.00"
+  spendtodate : "$200,000.00"
   product     : "Yes"
