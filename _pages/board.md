@@ -31,9 +31,9 @@ Additionaly, four alternate board members with expertise in information technolo
 
 ### Senior Tech Official from GSA - Permanent Member
 
-**Alan Thomas, Commissioner of the Federal Acquisition Service, U.S. General Services Administration**
+**Anil Cheriyan, Director Technology Transformation Services (TTS),  U.S. General Services Administration**
 
-{% include board-member.html path="headshots/thomas.jpg" alt-text="Alan Thomas" %} Sworn in as Commissioner for the U.S. General Services Administration’s Federal Acquisition Service on June 26, 2017, Alan Thomas oversees the delivery of more than $50 billion of products, services and solutions that save taxpayer dollars and enable federal agencies to accomplish their missions as efficiently as possible. Mr. Thomas brings more than 20 years of experience in both industry and government. He most recently served as a vice president with Artlin Consulting where he worked to build the processes and infrastructure to deliver large federal programs through government-wide contract vehicles.
+{% include board-member.html path="headshots/cheriyan.jpg" alt-text="Anil Cheriyan" %} Anil Cheriyan was appointed as the Director of the U.S. General Services Administration's Technology Transformation Services (TTS) in January 2019. TTS helps federal agencies build, buy, and share technology to achieve their digital transformation and modernization goals. Anil Cheriyan oversees the Presidential Innovation Fellows, 18F, IT Modernization Centers of Excellence, and TTS Solutions. Mr. Cheriyan brings more than 30 years of experience in industry. He most recently served as an Executive Vice President and Chief Information Officer at SunTrust Banks, where he led the transformation of the banks' digital, data, and operations.   
 
 ---
 
