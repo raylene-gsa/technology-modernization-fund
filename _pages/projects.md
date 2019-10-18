@@ -19,7 +19,7 @@ deck: "The Technology Modernization Fund has awarded a total of seven projects a
 - [**U.S. Equal Employment Opportunity Commission: Charge and Case Management System Modernization**](#eeoc-charge-case-management)
 - [**U.S. Department of Agriculture: Agricultural Marketing Service Specialty Crops System Modernization**](#USDA-spc)
 
-###### Last updated: 09/12/2019
+###### Last updated: 10/21/2019
 
 ---
 
