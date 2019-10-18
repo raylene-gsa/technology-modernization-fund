@@ -16,7 +16,7 @@ deck: "The Technology Modernization Fund has awarded a total of seven projects a
 - [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
 - [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
-- [**U.S. Equal Opportunity Commission: Charge and Case Management System Modernization**](#eeoc-charge-case-management)
+- [**U.S. Equal Employment Opportunity Commission: Charge and Case Management System Modernization**](#eeoc-charge-case-management)
 - [**U.S. Department of Agriculture: Agricultural Marketing Service Specialty Crops System Modernization**](#USDA-spc)
 
 ###### Last updated: 09/12/2019
@@ -109,7 +109,7 @@ Currently, most Federal payroll operations use decades-old legacy software, whic
 Without this funding, GSA would need to delay establishing the cloud-enabled SaaS solution until a future year when dedicated upfront funding could be
 secured from the current user base or other sources instead of paying for the investment over a period of years. However, with the support from the TMF the project can be conducted in FY 2019 as a single effort to stand up the initial payroll and WSLM capabilities with current customers, with completion in two years. By the end of this project, GSA will be better positioned to serve as a Federal-wide shared service provider, will have migrated all of its 21,000 users to the NewPay payroll solution, and will have established a WSLM service integrated into the NewPay payroll solution. Because GSA is using a commercial cloud-enabled SaaS product, GSA will no longer need to house the system on its data centers. GSA anticipates it will have a greater ability to serve its mission by improving its shared service offerings, which will benefit the American people by transitioning Government back office operations to modern technology, reducing costs and risk, and leveraging commercial innovation. The operational benefits of this project include elimination of costly legacy customized technology, increased efficiency, improved cyber posture and decreased operational risk.
 
-## U.S. Equal Opportunity Commission: Charge and Case Management System Modernization
+## U.S. Equal Employment Opportunity Commission: Charge and Case Management System Modernization
 
 {% include project-data.html path="eeoc_casemgmt" %}
 
