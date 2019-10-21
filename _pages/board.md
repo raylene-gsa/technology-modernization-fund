@@ -33,7 +33,7 @@ Additionaly, four alternate board members with expertise in information technolo
 
 **Anil Cheriyan, Director, Technology Transformation Services (TTS),  U.S. General Services Administration**
 
-{% include board-member.html path="headshots/cheriyan.jpg" alt-text="Anil Cheriyan" %} Anil Cheriyan was appointed as the Director of the U.S. General Services Administration's Technology Transformation Services (TTS) in January 2019. TTS helps federal agencies build, buy, and share technology to achieve their digital transformation and modernization goals. Anil oversees the Presidential Innovation Fellows, 18F, IT Modernization Centers of Excellence, and TTS Solutions. Mr. Cheriyan brings more than 30 years of experience in industry. He most recently served as an Executive Vice President and Chief Information Officer at SunTrust Banks, where he led the transformation of the banks' digital, data, and operations.   
+{% include board-member.html path="headshots/cheriyan.jpg" alt-text="Anil Cheriyan" %} Anil Cheriyan was appointed as the Director of the U.S. General Services Administration's Technology Transformation Services (TTS) in January 2019. TTS helps federal agencies build, buy, and share technology to achieve their digital transformation and modernization goals. Mr. Cheriyan oversees the Presidential Innovation Fellows, 18F, IT Modernization Centers of Excellence, and TTS Solutions. Mr. Cheriyan brings more than 30 years of experience in industry. He most recently served as an Executive Vice President and Chief Information Officer at SunTrust Banks, where he led the transformation of the banks' digital, data, and operations.   
 
 ---
 
