@@ -109,7 +109,7 @@ Currently, most Federal payroll operations use decades-old legacy software, whic
 Without this funding, GSA would need to delay establishing the cloud-enabled SaaS solution until a future year when dedicated upfront funding could be
 secured from the current user base or other sources instead of paying for the investment over a period of years. However, with the support from the TMF the project can be conducted in FY 2019 as a single effort to stand up the initial payroll and WSLM capabilities with current customers, with completion in two years. By the end of this project, GSA will be better positioned to serve as a Federal-wide shared service provider, will have migrated all of its 21,000 users to the NewPay payroll solution, and will have established a WSLM service integrated into the NewPay payroll solution. Because GSA is using a commercial cloud-enabled SaaS product, GSA will no longer need to house the system on its data centers. GSA anticipates it will have a greater ability to serve its mission by improving its shared service offerings, which will benefit the American people by transitioning Government back office operations to modern technology, reducing costs and risk, and leveraging commercial innovation. The operational benefits of this project include elimination of costly legacy customized technology, increased efficiency, improved cyber posture and decreased operational risk.
 
-## U.S. Equal Employment Opportunity Commission: Charge and Case Management System Modernization
+## Charge and Case Management System Modernization
 
 {% include project-data.html path="eeoc_casemgmt" %}
 
@@ -120,7 +120,7 @@ EEOC anticipates it will have a greater ability to serve its mission by improvin
 Without this funding, EEOC would need to complete this project over a period of five years. However, with the support from the TMF the project can be conducted in FY 2020 and FY 2021 as a single effort to replace the legacy system. By the end of this project, EEOC will have a modern, cloud-based core charge and case management system that will modernize both the underlying technology and achieve operational efficiencies that will decrease its current software licensing expenses and reduce other existing development and maintenance expenditures. The operational benefits of this project include increased efficiency, cost savings and improved citizen services.
 
 
-## U.S. Department of Agriculture: Agricultural Marketing Service Specialty Crops System Modernization
+## Agricultural Marketing Service Specialty Crops System Modernization
 
 {% include project-data.html path="usda_spc" %}
 
