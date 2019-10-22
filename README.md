@@ -9,7 +9,7 @@ Welcome to the party! :tada:
 
 ## Links
 
-Need to link to another site? Here is how links are formatted within markdown — `[]()`:
+Need to link to another site? Here is how links are formatted within markdown, markdown formatting can be used in the link label — `[]()`:
 
 ```
 [text to be linked](https://digital.gov)
@@ -22,7 +22,12 @@ Add the link shortcode and the path to the file: `{{ site.baseurl }}{% link _pag
 Fill our our [submission guidelines]({{ site.baseurl }}{% link _pages/submit.md %})
 ```
 Need to link to a section with the current page (AKA a reference link) ?
-Use the standard markdown link format and ensure the referenced text in the document is spelled identically with the text in the link specification `[Link Label](i-am-a-link-text)` clicking the link label will take the user to `'i am a link text'` later in the document.
+Use the standard markdown link format and ensure the referenced text in the document is spelled identically with the text in the link specification `[Link Label](i-am-a-link-text)` clicking the link label will take the user to `'i am a link text'` later in the document. 
+```
+[## Digital Gov](digital-gov-in-2020)
+
+## Digital Gov in 2020  is entering a new era ...
+```
 ## PDFs
 
 Want to insert a PDF into the site?
