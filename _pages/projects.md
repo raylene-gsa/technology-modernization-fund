@@ -16,7 +16,7 @@ deck: "The Technology Modernization Fund has awarded a total of seven projects a
 - [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
 - [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
-- [**Charge and Case Management System Modernization**](#charge-and-case-management-system)
+- [**Charge and Case Management System Modernization**](#charge-and-case-management-system-modernization)
 - [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
 
 ###### Last updated: 10/21/2019
