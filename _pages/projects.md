@@ -3,7 +3,7 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of seven projects across five federal agencies."
+deck: "The Technology Modernization Fund has awarded a total of nine projects across six federal agencies."
 
 ---
 
@@ -19,7 +19,7 @@ deck: "The Technology Modernization Fund has awarded a total of seven projects a
 - [**Charge and Case Management System Modernization**](#charge-and-case-management-system-modernization)
 - [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
 
-###### Last updated: 10/21/2019
+###### Last updated: 12/12/2019
 
 ---
 
