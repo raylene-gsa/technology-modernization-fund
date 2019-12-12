@@ -39,7 +39,7 @@ Additionaly, four alternate board members with expertise in information technolo
 
 ### Cybersecurity Official from DHS - Permanent Member
 
-**Matt Hartman, Acting Director of Federal Network Resilience, Department of Homeland Security National Programs and Protection Directorate**
+**Matthew Hartman, Associate Director, Cybersecurity Division, Department of Homeland Security Cybersecurity and Infrastructure Security Agency**
 
 {% include board-member.html path="headshots/hartman.jpg" alt-text="Matt Hartman" %} Matt Hartman serves as the Acting Director of Federal Network Resilience (FNR) within the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD). In this role, Mr. Hartman leads DHS’ proactive administration of Federal Civilian Executive Branch cybersecurity and serves as the primary interface to Agency Chief Information Officers and the Office of the Federal Chief Information Officer (OFCIO). Previously, Mr. Hartman served as the Cybersecurity Counselor to the Secretary of Homeland Security, Senior Advisor to the Assistant Secretary of Cybersecurity and Communications, Director of Strategy Coordination and Management, and various leadership positions within the Continuous Diagnostics and Mitigation Program, including Acting Program Manager from May 2016 until January 2017.
 
@@ -47,7 +47,7 @@ Additionaly, four alternate board members with expertise in information technolo
 
 ### Term Board Members
 
-**Matt Cutts, Acting Administrator, U.S. Digital Service, Office of Management and Budget**
+**Matt Cutts, Administrator, U.S. Digital Service, Office of Management and Budget**
 
 {% include board-member.html path="headshots/cutts.jpg" alt-text="Matt Cutts" %} The U.S. Digital Service (USDS) was established in 2014 to tackle the federal government’s most critical public-facing digital services, and is focused on improving how the American people interacts with their government online and transforming that experience to help build the public’s trust in government. Matt Cutts joined USDS in June 2016 and became Acting Administrator in January 2017. Before that, Mr. Cutts ran the Google’s webspam team for over a decade, and wrote the initial version of SafeSearch, Google’s family filter.
 
