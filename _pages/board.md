@@ -47,9 +47,9 @@ Additionaly, four alternate board members with expertise in information technolo
 
 ### Term Board Members
 
-**Matt Cutts, Administrator, U.S. Digital Service, Office of Management and Budget**
+**Alex Loehr, Deputy Chief Technology Officer, National-Geospatial Intelligence Agency**
 
-{% include board-member.html path="headshots/cutts.jpg" alt-text="Matt Cutts" %} The U.S. Digital Service (USDS) was established in 2014 to tackle the federal government’s most critical public-facing digital services, and is focused on improving how the American people interacts with their government online and transforming that experience to help build the public’s trust in government. Matt Cutts joined USDS in June 2016 and became Acting Administrator in January 2017. Before that, Mr. Cutts ran the Google’s webspam team for over a decade, and wrote the initial version of SafeSearch, Google’s family filter.
+{% include board-member.html path="headshots/loehr.jpg" alt-text="Alex Loehr" %} Alex Loehr has spent his career bringing modern digital practices into our government’s most important missions. Prior to his current role at National-Geospatial Intelligence Agency (NGA), Mr. Loehr served as Deputy CTO for the Department of Veterans Affairs (VA), where he helped launch an updated VA.gov to improve Veteran’s digital experience and led VA's API program. Mr. Loehr’s previous experience inside and outside government includes the U.S. Digital Service, In-Q-Tel, and the Army Geospatial Research Laboratory. 
 
 **Maria Roat, Chief Information Officer, Small Business Administration**
 
