@@ -49,7 +49,7 @@ Additionaly, four alternate board members with expertise in information technolo
 
 **Alex Loehr, Deputy Chief Technology Officer, National-Geospatial Intelligence Agency**
 
-{% include board-member.html path="headshots/loehr.jpg" alt-text="Alex Loehr" %} Alex Loehr has spent his career bringing modern digital practices into our government’s most important missions. Prior to his current role at National-Geospatial Intelligence Agency (NGA), Mr. Loehr served as Deputy CTO for the Department of Veterans Affairs (VA), where he helped launch an updated VA.gov to improve Veteran’s digital experience and led VA's API program. Mr. Loehr’s previous experience inside and outside government includes the U.S. Digital Service, In-Q-Tel, and the Army Geospatial Research Laboratory. 
+{% include board-member.html path="headshots/loehr.jpg" alt-text="Alex Loehr" %} Alex Loehr has spent his career bringing modern digital practices to our government’s most important missions. Prior to his current role at the National-Geospatial Intelligence Agency (NGA), Mr. Loehr served as Deputy CTO for the Department of Veterans Affairs (VA), where he helped launch an updated VA.gov to improve Veteran’s digital experience and led VA's API program. Mr. Loehr’s previous experience inside and outside government includes the U.S. Digital Service, In-Q-Tel, and the Army Geospatial Research Laboratory. 
 
 **Maria Roat, Chief Information Officer, Small Business Administration**
 
