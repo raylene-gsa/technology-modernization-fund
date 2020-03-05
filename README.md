@@ -15,7 +15,7 @@ Need to link to another site? Here is how links are formatted within markdown, m
 [text to be linked](https://digital.gov)
 ```
 
-Need to link to another page within the site?
+Need to link to another page within this site?
 Add the link shortcode and the path to the file: `{{ site.baseurl }}{% link _pages/submit.md %}`
 
 ```
