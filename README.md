@@ -60,7 +60,7 @@ You'll need to provide three things:
 
 ## Videos
 
-YouTube videos can be embedded in pages.
+YouTube videos may be embedded in pages.
 
 1. Copy the the `ID` of the youtube video URL
   1. Example — `https://www.youtube.com/watch?v=JcwG4iwN6Fk` the ID of this video is `JcwG4iwN6Fk`
