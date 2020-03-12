@@ -17,7 +17,7 @@ The TMF Board is made up of 7 voting members:
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionaly, four alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as voting board members. 
+Additionaly, three alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as voting board members. 
 
 ## Voting Board Members
 
@@ -66,10 +66,6 @@ Additionaly, four alternate board members with expertise in information technolo
 ---
 
 ## Alternate Board Members
-
-**Margie Graves, Deputy Federal Chief Information Officer, Office of Management and Budget**
-
-{% include board-member.html path="headshots/graves.jpg" alt-text="Margie Graves" %} In her role, Margie Graves works to protect Federal IT assets and information, develop the next generation IT workforce, and improve the way Government delivers results and technology services to the public. Previously, Ms. Graves served as the Deputy CIO at the U.S. Department of Homeland Security where she managed an IT portfolio of $5.4 billion in programs and directed operations in the functional areas of Applied Technology, Enterprise Architecture, Data Management, IT Security, Infrastructure Operations, IT Accessibility, Budget and Acquisition.
 
 **Grant Schneider, Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council**
 
