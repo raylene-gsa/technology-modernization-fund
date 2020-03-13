@@ -31,7 +31,10 @@ This project will modernize the code base and accelerate the migration of five o
 
 The new modern platform will be a Java cloud-based application suite that costs less to maintain and enables functional and technical enhancements to be completed more rapidly, at lower cost. The systems on the current on-premises physical hardware environment support 30,000 users for more than 100 HUD grant, subsidy, and loan programs that disburse $27 billion per year. According to HUD estimates, the code modernization and migration will save $8 million annually, enabling payback and generating working capital to transform additional legacy systems.
 
-Without this funding, the Department would likely not have the resources to pursue this project for several years due to funding limitations. However, with support from the Technology Modernization Fund the project is estimated to be completed in two years.
+The Department originally requested and was allocated $20,000,000 for this project. The Department’s decision to pursue TMF funding and the subsequent allocation of TMF funds demonstrated HUD Leadership’s strong commitment to completing this mainframe migration
+initiative, and served as a catalyst inside the Department to generate buy-in for this approach. Due to the strong support for this project at all levels of the organization, HUD leadership allocated additional internal funds identified following the TMF award to the project. 
+
+Without the support from the TMF, the Department would likely not have the resources to pursue this project for several years due to funding limitations. However, with support from the Technology Modernization Fund the project is estimated to be completed in two years. The identification of additional internal funds will allow HUD to complete this project with a lower allocation from the TMF. HUD will still achieve the full benefits of the original TMF proposal through the use of internal funds and the reduced TMF allocation, and the scope change makes available TMF resources that can be reallocated to additional project proposals.
 
 ---
 
