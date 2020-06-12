@@ -19,7 +19,7 @@ deck: "The Technology Modernization Fund has awarded a total of nine projects ac
 - [**Charge and Case Management System Modernization**](#charge-and-case-management-system-modernization)
 - [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
 
-###### Last updated: 3/12/2020
+###### Last updated: 6/12/2020
 
 ---
 

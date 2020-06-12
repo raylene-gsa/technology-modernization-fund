@@ -10,9 +10,9 @@
 
 - name        : "Visa Application Transformation"
   agency      : "Department of Labor (DOL)"
-  status      : "First incremental transfer of $200,000.00 completed and second incremental transfer of $2,500,000.00 completed, for a total of $2,700,000.00 transferred to the agency. Third transfer of $800,000.00 in process. Agency has completed initial contracting actions."
+  status      : "First incremental transfer of $200,000.00, second incremental transfer of $2,500,000.00, and third incremental transfer of $800,000.00 completed, for a total of $3,500,000.00 transferred to the agency. Agency has completed all contracting actions."
   delay       : "No"
   cost        : "No"
   totalaward  : "$3,500,000.00"
-  spendtodate :  "$2,700,000.00"
+  spendtodate : "$3,500,000.00"
   product     : "Yes"
