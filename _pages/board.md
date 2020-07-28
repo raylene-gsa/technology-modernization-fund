@@ -23,7 +23,7 @@ Additionally, one alternate board member with expertise in information technolog
 
 ### Acting Chair - Permanent Member
 
-**Maria Roat, Deputy Federal CIO**
+**Maria Roat, Federal CIO**
 
 {% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
 
@@ -31,9 +31,9 @@ Additionally, one alternate board member with expertise in information technolog
 
 ### Senior Tech Official from GSA - Permanent Member
 
-**Anil Cheriyan, Director, Technology Transformation Services (TTS),  U.S. General Services Administration**
+**Replacement Pending**
 
-{% include board-member.html path="headshots/cheriyan.jpg" alt-text="Anil Cheriyan" %} Anil Cheriyan was appointed as the Director of the U.S. General Services Administration's Technology Transformation Services (TTS) in January 2019. TTS helps federal agencies build, buy, and share technology to achieve their digital transformation and modernization goals. Mr. Cheriyan oversees the Presidential Innovation Fellows, 18F, IT Modernization Centers of Excellence, and TTS Solutions. Mr. Cheriyan brings more than 30 years of experience in industry. He most recently served as an Executive Vice President and Chief Information Officer at SunTrust Banks, where he led the transformation of the banks' digital, data, and operations.   
+   
 
 ---
 
