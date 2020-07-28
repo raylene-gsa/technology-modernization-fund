@@ -3,7 +3,7 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of nine projects across six federal agencies."
+deck: "The Technology Modernization Fund has awarded a total of ten projects across seven federal agencies."
 
 ---
 
@@ -18,8 +18,9 @@ deck: "The Technology Modernization Fund has awarded a total of nine projects ac
 - [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
 - [**Charge and Case Management System Modernization**](#charge-and-case-management-system-modernization)
 - [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
+- [**Automated Commercial Environment Collections Module**](#automated-commercial-environment-collections-module)
 
-###### Last updated: 6/12/2020
+###### Last updated: 7/28/2020
 
 ---
 
@@ -112,6 +113,8 @@ Currently, most Federal payroll operations use decades-old legacy software, whic
 Without this funding, GSA would need to delay establishing the cloud-enabled SaaS solution until a future year when dedicated upfront funding could be
 secured from the current user base or other sources instead of paying for the investment over a period of years. However, with the support from the TMF the project can be conducted in FY 2019 as a single effort to stand up the initial payroll and WSLM capabilities with current customers, with completion in two years. By the end of this project, GSA will be better positioned to serve as a Federal-wide shared service provider, will have migrated all of its 21,000 users to the NewPay payroll solution, and will have established a WSLM service integrated into the NewPay payroll solution. Because GSA is using a commercial cloud-enabled SaaS product, GSA will no longer need to house the system on its data centers. GSA anticipates it will have a greater ability to serve its mission by improving its shared service offerings, which will benefit the American people by transitioning Government back office operations to modern technology, reducing costs and risk, and leveraging commercial innovation. The operational benefits of this project include elimination of costly legacy customized technology, increased efficiency, improved cyber posture and decreased operational risk.
 
+---
+
 ## Charge and Case Management System Modernization
 
 {% include project-data.html path="eeoc_casemgmt" %}
@@ -122,6 +125,7 @@ EEOC anticipates it will have a greater ability to serve its mission by improvin
 
 Without this funding, EEOC would need to complete this project over a period of five years. However, with the support from the TMF the project can be conducted in FY 2020 and FY 2021 as a single effort to replace the legacy system. By the end of this project, EEOC will have a modern, cloud-based core charge and case management system that will modernize both the underlying technology and achieve operational efficiencies that will decrease its current software licensing expenses and reduce other existing development and maintenance expenditures. The operational benefits of this project include increased efficiency, cost savings and improved citizen services.
 
+---
 
 ## Agricultural Marketing Service Specialty Crops System Modernization
 
@@ -133,7 +137,17 @@ Currently, USDA AMS’s billing, inspection, and certificate generation and issu
 
 Without this funding, USDA would need to complete this project gradually over a period of five years. However, with the support from the TMF the project can be conducted as a single effort and be completed by FY 2022. By the end of this project, USDA will have a modern, holistic system for its billing, inspection, and certificate generation and issuance processes that will enable AMS Specialty Crops inspectors, front-line managers, and other users to comprehensively and securely gather and store field evaluation data, interface with internal and external business applications, and process customer order and billing information. This project will ensure that perishable agricultural items are more efficiently moved through the inspection process ensuring the end consumer enjoys the freshest commodities possible. The operational benefits of this project include increased efficiency and improved customer service.
 
+---
 
+## Automated Commercial Environment Collections Module
+
+{% include project-data.html path="cbp_ace" %}
+
+Currently, CBP’s 30-year-old collection tool, the Automated Commercial System (ACS), is housed on the agency’s last remaining mainframe solution that runs and uses 3.9 million lines of antiquated COBOL code. The current operational environment requires a modernized system to meet the demands of the CBP mission and provide the Agency with a flexible, secure platform to support the growing complexities of global trade facilitation and enforcement. An efficient and secure system will reinforce CBP’s mission to enhance legitimate trade and travel and will improve customs enforcement, revenue collections, trade protections, and access capabilities. 
+
+Through this project, CBP will modernize the outdated ACS platform through the development of the Automated Commercial Environment (ACE) Collections module. The development of the ACE Collections module will enable CBP to retire ACS, as well as decommission CBP’s last remaining mainframe solution, which supports the current tool. This project will help CBP improve customs enforcement, revenue collections, trade protections, and user experience through improved features and business capabilities, while in the long run reducing the operations and maintenance costs associated with the existing system. CBP has already begun work on this project using internal funding, and deployed the first module of the new tool, the ACE Collections Release Statements Automated Clearing House (ACH) Processing in 2019. 
+
+Without this funding, CBP would need to continue to rely on the outdated Collections system and pay the significant costs associated with the current mainframe solution. However, with support from the TMF, the project can be conducted over four years as a single effort to replace the legacy system. By the end of this project, CBP will have a cloud-based core Collections system that will modernize both the underlying technology and the code base. CBP will also achieve operational efficiencies that will decrease its current software expenses and reduce other existing development and maintenance expenditures. CBP anticipates it will have a greater ability to serve its mission by modernizing the basic functionality of its Collections system. This modernization will make CBP’s operations more efficient, resilient, and secure, while safeguarding the Nation’s global economic competitiveness through legitimate trade to benefit the U.S. businesses and partnering government agencies.
 
 
 \* *For agencies using an assisted acquisition strategy, reporting does not include funding obligated to the assisted acquisition provider but not yet awarded to a contract.*  
