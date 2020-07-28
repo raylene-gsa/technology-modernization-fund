@@ -12,20 +12,20 @@ deck: 'The role of the Technology Modernization Board is to evaluate project pro
 Members serve to provide funding recommendations and monitor progress and performance of approved modernization projects.
 
 The TMF Board is made up of 8 voting members:
-- The Administrator of the Office of E-Government (Federal Chief Information Officer)
+- The Administrator of the Office of E-Government (Deputy Federal Chief Information Officer)
 - A senior official from the U.S. General Services Administration (GSA) with technical expertise in information technology development
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Five employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionaly, two alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as voting board members. 
+Additionally, one alternate board member with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as voting board member. 
 
 ## Voting Board Members
 
-### Chair - Permanent Member
+### Acting Chair - Permanent Member
 
-**Suzette Kent, Federal Chief Information Officer, Office of Management and Budget**
+**Maria Roat, Deputy Federal CIO**
 
-{% include board-member.html path="headshots/kent.jpg" alt-text="Suzette Kent" %} Suzette Kent is an industry leader in large-scale business transformation using technology for the world’s most complex organizations. Although technology change has been at the core of her professional career, retooling the workforce and creating new opportunities for people have been essential elements of her work. Ms. Kent has served as an enterprise leader for organizational learning, diversity and inclusiveness, and career development throughout her career. She is a frequent speaker in global industry forums, has published thought leadership pieces, and holds patents in banking processes.
+{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
 
 ---
 
@@ -70,10 +70,6 @@ Additionaly, two alternate board members with expertise in information technolog
 ---
 
 ## Alternate Board Members
-
-**Maria Roat, Deputy Federal CIO**
-
-{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
 
 **Grant Schneider, Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council**
 
