@@ -31,10 +31,11 @@ Additionally, one alternate board member with expertise in information technolog
 
 ### Senior Tech Official from GSA - Permanent Member
 
-**Replacement Pending**
+**David A. Shive, Chief Information Officer, U.S. General Services Administration**
 
+{% include board-member.html path="headshots/shive.jpg" alt-text="David A. Shive" %} David A. Shive is the Chief Information Officer for the U.S. General
+Services Administration. Mr. Shive oversees the GSA IT organization, and is responsible for information technology operations and ensuring alignment with agency and administration strategic objectives and priorities. He joined the U.S. General Services Administration's Office of the Chief Information Officer in November 2012. Concurrent to his role as CIO, David served as the Acting Commissioner of the newly formed Technology Transformation Service from July - November 2016. Prior to being named CIO, he was the Director of the Office of Enterprise Infrastructure, responsible for the enterprise information technology infrastructure platforms and capability that support the GSA business enterprise. He was also the Acting Director of HR and FM Systems for the GSA CFO and CPO offices. Prior to joining GSA, he served in the District of Columbia government as a Chief Information Officer. In this role, Mr. Shive had executive responsibility for agency IT operations including financial systems, security and privacy programs, internal controls and compliance, strategic planning, enterprise architecture and performance management and measurement programs and directed the transformation of enterprise systems and processes, to public/private cloud hybrid.
    
-
 ---
 
 ### Cybersecurity Official from DHS - Permanent Member
@@ -71,6 +72,7 @@ Additionally, one alternate board member with expertise in information technolog
 
 ## Alternate Board Members
 
-**Grant Schneider, Federal Chief Information Security Officer, Office of Management and Budget and Senior Director for Cybersecurity Policy, National Security Council**
+**Hampden Smith, Co-Director of Enterprise Digitalization and Case Management, Internal Revenue Service**
 
-{% include board-member.html path="headshots/schneider.jpg" alt-text="Grant Schneider" %} In his roles, Grant Schneider leads teams of cybersecurity experts who develop and oversee implementation of crosscutting policies to enhance the Nation’s cybersecurity. Mr. Schneider played an instrumental role in the government-wide response to the OPM cybersecurity incidents in 2014 and 2015. Prior to joining the White House as Cybersecurity Advisor to the Federal Chief Information Officer in 2015, Mr. Schneider served for seven years as the Defense Intelligence Agency’s CIO.
+{% include board-member.html path="headshots/smith.jpg" alt-text="Hampden Smith" %} Harrison Smith is the Co-Director of Enterprise Digitalization and Case Management for the Internal Revenue Service (IRS).  In this role, he is responsible for addressing the challenges associated with ingesting large volumes of paper documents and unstructured data, and spearheading digitalization efforts across the Service.  Previously, Harrison was the Deputy Chief Procurement Officer within the IRS, and was responsible for supporting all acquisition programs and contractual commitments for equipment, supplies, and services for IRS and Treasury Departmental Offices. Prior to joining the IRS, Harrison served in several roles at the Department of Homeland Security (DHS), including Industry Liaison.  As the Industry Liaison, he was responsible for providing leadership and direction for DHS offices and outside officials for all aspects of the DHS industry engagement program. He also served as a principal advisor to the Chief Procurement Officer on matters relating to all aspects of procurement.
+Harrison has 20 years of operational procurement experience with various IRS, DHS Naval Sea Systems Command offices, including acting as the Contracting Officer for several multi-billion dollar IT procurements. As the Director of the Enterprise Acquisitions Division with DHS, he was responsible for a portfolio of 25 strategically-sourced contracts with a cumulative value of $68 billion. He has also worked in policy and strategic analysis positions on the Hill, and has supported the Special Assistant to the Secretary of the Navy for Business Initiatives and the Chief of Naval Operations Executive Panel under the auspices of the Presidential Management Fellows program.
