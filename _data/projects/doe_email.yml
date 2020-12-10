@@ -10,9 +10,9 @@
 
 - name        : "Enterprise Cloud Email"
   agency      : "Department of Energy (DOE)"
-  status      : "First incremental transfer of $2,226,965.00 and second incremental transfer of $1,079,626.00 completed, for a total of $3,306,591.00 transferred to the agency. Third transfer of $437,111.00 in process. The Agency has awarded initial contract actions."
+  status      : "First incremental transfer of $2,226,965.00, second incremental transfer of $1,079,626.00 and third transfer of $437,111.00 completed, for a total of $3,743,702.00 transferred to the agency. The Agency has awarded initial contract actions."
   delay       : "No"
   cost        : "No"
   totalaward  : "$3,743,702.00"
-  spendtodate : "$2,902,121.05"
+  spendtodate : "$2,633,791.00"
   product     : "Yes"
