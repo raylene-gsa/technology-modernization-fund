@@ -20,7 +20,7 @@ deck: "The Technology Modernization Fund has awarded a total of ten projects acr
 - [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
 - [**Automated Commercial Environment Collections Module**](#automated-commercial-environment-collections-module)
 
-###### Last updated: 12/11/2020
+###### Last updated: 12/12/2020
 
 ---
 
