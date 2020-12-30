@@ -36,6 +36,11 @@ google_analytics: UA-120729807-1
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
 
+# Searchmap needed for Search
+url: "https://tmf.cio.gov" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 # GitHub information
 org_name: gsa
 repo_name: technology-modernization-fund
