@@ -17,15 +17,15 @@ The TMF Board is made up of 8 voting members:
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Five employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionally, two alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
+Additionally, one alternate board member with expertise in information technology, cybersecurity, and acquisition provides added insight and can stand in as a voting board member. 
 
 ## Voting Board Members
 
-### Chair - Permanent Member
+### Acting Chair - Permanent Member
 
-**Basil Parker, Federal CIO**
+**Maria Roat, Acting Federal CIO, Office of Management and Budget**
 
-{% include board-member.html path="headshots/parker.png" alt-text="Basil Parker" %} Basil Parker is currently the Federal Chief Information Officer at the Office of Management and Budget (OMB) within the Executive Office of the President (EOP). In his role, Mr. Parker is responsible for overseeing government-wide Federal technology spending, Federal IT/cyber policy, and strategic planning of all Federal IT investments. Further, he chairs the CIO Council, and the Federal Acquisition Security Council. Formerly, as Chief of Staff at the Office of Personnel Management (OPM), he was responsible for providing advice and direction in the day-to-day operations for a 2,700+ FTE Federal agency with an over $2.8B budget. Previously, he served as Senior Advisor to the Director of OPM for Government-wide Information Technology and Cyber Workforce Development. In this role, Mr. Parker advised the Director on Federal workforce related matters in IT and Cybersecurity in accordance with Title V of the United States Code and in support of the President’s Management Agenda (PMA). Mr. Parker has over 25 years as a Cyber and IT industry leader and has held several executive leadership positions in the private sector. He was responsible for the profit and loss, growth and strategy and overall business operations at Washington Technology Top 100 companies such as Booz Allen Hamilton, where he was responsible for driving IT and Cyber solutions across the Defense and FedCiv markets and as a Vice President at Artic Slope Regional Corporation (ASRC) Federal, where he led and managed the Federal/Cyber markets.  Prior to leading business portfolios at large Federal service providers, he was Director of Operations for a commercial sector company as well as a Director of Security for Value Options, a large healthcare provider.  Mr. Parker began his career with the U.S. Government, serving as a Computer Scientist with the Defense Information Systems Agency (DISA). Mr. Parker is a Certified Information Systems Security Professional (CISSP) and Certified Information Security Manager (CISM) with a BA in Criminology from the University of Maryland and MA in Computer Resources and Information Management from Webster University. Mr. Parker is a veteran of the United States Marine Corps and currently resides in Ashburn with his wife and 3 children.
+{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
 
 ---
 
@@ -71,12 +71,6 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 ---
 
 ## Alternate Board Members
-
-**Maria Roat, Deputy Federal CIO, Office of Management and Budget**
-
-{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
-
----
 
 **Harrison Smith, Co-Director of Enterprise Digitalization and Case Management, Internal Revenue Service**
 
