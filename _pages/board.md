@@ -11,11 +11,11 @@ deck: 'The role of the Technology Modernization Board is to evaluate project pro
 
 Members serve to provide funding recommendations and monitor progress and performance of approved modernization projects.
 
-The TMF Board is made up of 8 voting members:
+The TMF Board is made up of 7 voting members:
 - The Administrator of the Office of E-Government (Federal Chief Information Officer)
 - A senior official from the U.S. General Services Administration (GSA) with technical expertise in information technology development
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
-- Five employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
+- Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
 Additionally, one alternate board member with expertise in information technology, cybersecurity, and acquisition provides added insight and can stand in as a voting board member. 
 
@@ -59,10 +59,6 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 **Alex Loehr, Deputy Chief Technology Officer, National-Geospatial Intelligence Agency**
 
 {% include board-member.html path="headshots/loehr.jpg" alt-text="Alex Loehr" %} Alex Loehr has spent his career bringing modern digital practices to our government’s most important missions. Prior to his current role at the National-Geospatial Intelligence Agency (NGA), Mr. Loehr served as Deputy CTO for the Department of Veterans Affairs (VA), where he helped launch an updated VA.gov to improve Veteran’s digital experience and led VA's API program. Mr. Loehr’s previous experience inside and outside government includes the U.S. Digital Service, In-Q-Tel, and the Army Geospatial Research Laboratory. 
-
-**Rajive Mathur, Chief Information Officer & Deputy Commissioner, Systems, Social Security Administration**
-
-{% include board-member.html path="headshots/mathur.jpg" alt-text="Rajive Mathur" %} Rajive Mathur serves as the Social Security Administration’s (SSA) Chief Information Officer and Deputy Commissioner for Systems where he leads all technology-related activities in support of SSA’s mission. Mr. Mathur brings expertise driving large-scale transformation in both the public and private sectors, where he has combined his passion for business with a focus on the customer and technology. He’s held senior positions at Fidelity Investments, AOL, eCompanies Evercore Ventures, as well as start-ups including Careers After Combat, a veteran-oriented training technology firm and Lycos, a web search pioneer.
 
 **Charles Worthington, Chief Technology Officer, Department of Veterans Affairs**
 
