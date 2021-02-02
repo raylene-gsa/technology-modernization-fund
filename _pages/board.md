@@ -17,7 +17,7 @@ The TMF Board is made up of 7 voting members:
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionally, one alternate board member with expertise in information technology, cybersecurity, and acquisition provides added insight and can stand in as a voting board member. 
+Additionally, two alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
 
 ## Voting Board Members
 
@@ -67,6 +67,10 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 ---
 
 ## Alternate Board Members
+
+**Chris DeRusha, Federal Chief Information Security Officer, Office of Management and Budget**
+
+{% include board-member.html path="headshots/derusha.jpg" alt-text="Chris DeRusha" %} Chris DeRusha was most recently the Chief Information Security Officer for the Biden-Harris campaign. Prior to joining the campaign in June 2020, he served as the Chief Security Officer for the State of Michigan. DeRusha has extensive experience managing cybersecurity and critical infrastructure programs and operations both in the public and private sectors. DeRusha led Ford Motor Company's Enterprise Vulnerability Management program and has over eight years of Federal Government experience working both at the Office of Management and Budget and the U.S. Department of Homeland Security.
 
 **Harrison Smith, Co-Director of Enterprise Digitalization and Case Management, Internal Revenue Service**
 
