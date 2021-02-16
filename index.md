@@ -8,7 +8,7 @@ deck: 'The TMF is an innovative funding vehicle that gives agencies additional w
 
 The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017.
 
-Approved projects receive incremental funding and technical expertise to ensure project success. In FY 2018, the TMF received $100 million to fund modernization projects. The fund has since received $25 million in FY 2019, FY 2020 and FY 2021.
+Approved projects receive incremental funding and technical expertise to ensure project success. The TMF has received $175 million to fund modernization projects.
 
 ## How the TMF works
 
