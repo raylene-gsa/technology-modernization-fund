@@ -3,7 +3,7 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of ten projects across seven federal agencies."
+deck: "The Technology Modernization Fund has awarded a total of eleven projects across seven federal agencies."
 
 ---
 
@@ -19,8 +19,9 @@ deck: "The Technology Modernization Fund has awarded a total of ten projects acr
 - [**Charge and Case Management System Modernization**](#charge-and-case-management-system-modernization)
 - [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
 - [**Automated Commercial Environment Collections Module**](#automated-commercial-environment-collections-module)
+- [**Data Modernization**](#data-modernization)
 
-###### Last updated: 12/12/2020
+###### Last updated: 03/12/2021
 
 ---
 
@@ -158,5 +159,17 @@ Through this project, CBP will modernize the outdated ACS platform through the d
 
 Without this funding, CBP would need to continue to rely on the outdated Collections system and pay the significant costs associated with the current mainframe solution. However, with support from the TMF, the project can be conducted over four years as a single effort to replace the legacy system. By the end of this project, CBP will have a cloud-based core Collections system that will modernize both the underlying technology and the code base. CBP will also achieve operational efficiencies that will decrease its current software expenses and reduce other existing development and maintenance expenditures. CBP anticipates it will have a greater ability to serve its mission by modernizing the basic functionality of its Collections system. This modernization will make CBP’s operations more efficient, resilient, and secure, while safeguarding the Nation’s global economic competitiveness through legitimate trade to benefit the U.S. businesses and partnering government agencies.
 
+---
+
+## Data Modernization
+
+{% include project-data.html path="data_modernization" %}
+
+This project will modernize DOL’s enterprise data management and analytics capabilities to help improve availability and accessibility of critical DOL data to all consumers of that data – developers, journalists, researchers, and other Federal agencies. 
+ 
+Currently, DOL faces data quality, consistency, and availability issues which limit the Department’s ability to use it to drive organizational performance improvements. The proposed DOL project will 1) incorporate enterprise-standard predictive analytics and reporting capabilities into the DOL IT Platform, 2) implement enterprise data management capabilities supporting the Agency’s Strategic Goal, Promote Safe Jobs and Fair Workplaces for All Americans, and 3) introduce a new application programming interface (API) and public-facing data portal to transform how the DOL shares data, both internally and with the public. This project will also support DOL’s mission areas and deploy resources in a manner which maximizes organizational performance. Furthermore, as part of this project, DOL will decommission five or more existing data services, along with the operations and maintenance and human capital expenses associated with maintaining them.
+ 
+Without this funding, DOL would need to continue to delay the development of an enterprise approach to improving data quality and expanding the number of data sets
+available internally and to the public. However, with the support from the TMF, the project can be conducted as an enterprise initiative over two years. By the end of this project, DOL will deliver a new Application Programming Interface (API), and a public-facing data portal powered by the API, which will fundamentally transform how DOL shares data, both internally and with the public. As part of this project, DOL will be able to make additional DOL data sets available internally and externally and can expand and improve compliance and enforcement activities, such as program payment integrity initiatives for Unemployment Insurance (UI) and grants. The operational benefits of this project include cost savings, increased efficiency, and improved citizen services.
 
 \* *For agencies using an assisted acquisition strategy, reporting does not include funding obligated to the assisted acquisition provider but not yet awarded to a contract.*  
