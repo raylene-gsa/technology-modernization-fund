@@ -163,7 +163,7 @@ Without this funding, CBP would need to continue to rely on the outdated Collect
 
 ## Data Modernization
 
-{% include project-data.html path="data_modernization" %}
+{% include project-data.html path="dol_dm" %}
 
 This project will modernize DOL’s enterprise data management and analytics capabilities to help improve availability and accessibility of critical DOL data to all consumers of that data – developers, journalists, researchers, and other Federal agencies. 
  
