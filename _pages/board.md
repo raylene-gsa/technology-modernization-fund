@@ -48,9 +48,9 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 
 ### Term Board Members
 
-**Darren Ash, Chief Information Officer, Farm Service Agency, U.S. Department of Agriculture**
+**Darren Ash, Assistant Chief Information Officer, Farm Production and Conservation Mission Area, U.S. Department of Agriculture**
 
-{% include board-member.html path="headshots/ash.jpg" alt-text="Darren Ash" %} Darren Ash leads the strategic direction for the Farm Service Agency’s Information Technology Services Division while working in partnership with numerous USDA agencies to provide information resources for policy and decision making. Prior to this position, Mr. Ash served nearly nine years as the Chief Information Officer for the U.S. Nuclear Regulatory Commission (NRC) where he co-chaired the senior-level IT Investment Board with the Chief Financial Officer.
+{% include board-member.html path="headshots/ash.jpg" alt-text="Darren Ash" %} Darren Ash leads the strategic direction for the Farm Production and Conservation Mission Area’s Information Solutions Division while working in partnership with other USDA offices to provide information resources enabling the mission and supporting America’s farmers, ranchers, producers, and forest landowners.  Prior to this position, Mr. Ash served as the Chief Information Officer of the Farm Service Agency, and before that as the Chief Information Officer for the U.S. Nuclear Regulatory Commission (NRC).
 
 **Dr. Erwin Gianchandani, Deputy Assistant Director for Computer and Information Science and Engineering, National Science Foundation**
 
