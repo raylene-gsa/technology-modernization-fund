@@ -17,15 +17,15 @@ The TMF Board is made up of 7 voting members:
 - A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionally, two alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
+Additionally, three alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
 
 ## Voting Board Members
 
-### Acting Chair - Permanent Member
+### Chair - Permanent Member
 
-**Maria Roat, Acting Federal CIO, Office of Management and Budget**
+**Clare Martorana, Federal Chief Information Officer, Office of Management and Budget**
 
-{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
+{% include board-member.html path="headshots/martorana.jpg" alt-text="Clare Martorana" %} Throughout her career, Clare Martorana worked to improve and simplify the digital experiences people have when interacting with businesses and government. Martorana most recently served as Chief Information Officer of the U.S. Office of Personnel Management, where for the past two years she stabilized and secured agency operations to deliver better digital-first services for the Federal workforce. Martorana began her public service career as a member of the U.S. Digital Service team at the U.S. Department of Veterans Affairs, establishing the agency’s enterprise-wide Digital Modernization effort to deliver for veterans the 21st-century digital experience they deserve. Prior to joining the government, Martorana was President at Everyday Health and Senior Vice President and General Manager and editor-at-large at WebMD.
 
 ---
 
@@ -48,9 +48,9 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 
 ### Term Board Members
 
-**Darren Ash, Chief Information Officer, Farm Service Agency, U.S. Department of Agriculture**
+**Darren Ash, Assistant Chief Information Officer, Farm Production and Conservation Mission Area, U.S. Department of Agriculture**
 
-{% include board-member.html path="headshots/ash.jpg" alt-text="Darren Ash" %} Darren Ash leads the strategic direction for the Farm Service Agency’s Information Technology Services Division while working in partnership with numerous USDA agencies to provide information resources for policy and decision making. Prior to this position, Mr. Ash served nearly nine years as the Chief Information Officer for the U.S. Nuclear Regulatory Commission (NRC) where he co-chaired the senior-level IT Investment Board with the Chief Financial Officer.
+{% include board-member.html path="headshots/ash.jpg" alt-text="Darren Ash" %} Darren Ash leads the strategic direction for the Farm Production and Conservation Mission Area’s Information Solutions Division while working in partnership with other USDA offices to provide information resources enabling the mission and supporting America’s farmers, ranchers, producers, and forest landowners.  Prior to this position, Mr. Ash served as the Chief Information Officer of the Farm Service Agency, and before that as the Chief Information Officer for the U.S. Nuclear Regulatory Commission (NRC).
 
 **Dr. Erwin Gianchandani, Deputy Assistant Director for Computer and Information Science and Engineering, National Science Foundation**
 
@@ -67,6 +67,10 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 ---
 
 ## Alternate Board Members
+
+**Maria Roat, Deputy Federal Chief Information Officer, Office of Management and Budget**
+
+{% include board-member.html path="headshots/roat.jpg" alt-text="Maria A. Roat" %} Maria Roat became the Deputy Federal Chief Information Officer in May 2020 bringing 35+ years of professional experience in information technology experience.  She previously served for 3.5 years as the Small Business Administration’s Chief Information Officer.  Prior to this, Ms. Roat served more than 2 years as the U.S. Department of Transportation Chief Technology Officer, and 10 years at the Department of Homeland Security in a number of capacities. Ms. Roat retired from the U.S. Navy in 2007, with 26 years of active duty and reserve service, where she obtained the rank of Master Chief Petty Officer, Information Systems Technician.
 
 **Chris DeRusha, Federal Chief Information Security Officer, Office of Management and Budget**
 
