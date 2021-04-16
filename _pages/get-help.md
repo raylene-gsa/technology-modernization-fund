@@ -18,4 +18,4 @@ We’re a full-service office, made up of financial, technical, and acquisition 
 - **Ongoing project support and oversight.** Whether you are rethinking your acquisition strategy, working on your repayment model, or seeking technical advice, our diverse team will work to support your agency’s projects from all angles to set you up for success!
 
 ## When Can Your Team Use These Services? 
-Anytime. Our job is to ensure that high-quality projects with the strongest likelihood to succeed make it into and the through the TMF funding pipeline, and we can only do that if you work with us to ensure that your project proposals are the best they can possibly be. [Email the TMF PMO](tmf@gsa.gov) to get started.
+Anytime. Our job is to ensure that high-quality projects with the strongest likelihood to succeed make it into and the through the TMF funding pipeline, and we can only do that if you work with us to ensure that your project proposals are the best they can possibly be. [Email the TMF PMO](mailto:tmf@gsa.gov) to get started.
