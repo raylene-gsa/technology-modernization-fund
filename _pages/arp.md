@@ -38,9 +38,9 @@ The American Rescue Plan is emergency legislation that provided $1 billion in TM
 
 - **Full Repayment** The TMF has historically operated under a full repayment model, and will continue to do so for projects that yield financial savings realized by the proposing agency. The Board expects this to apply to single-agency investments with direct cost savings, such as replacing a legacy system with one that can be operated and maintained more efficiently.
 - **Partial Repayment.** The Board anticipates a range of proposals meriting partial repayment, depending on the positive impact to the public and agency operations, alignment with overall TMF priorities, and the likelihood that the proposing agency can realize financial savings. 
--- When requesting partial repayment, agencies should indicate whether the proposal can be made financially recoverable at a 25%, 50%, or 75% repayment level.
+  - When requesting partial repayment, agencies should indicate whether the proposal can be made financially recoverable at a 25%, 50%, or 75% repayment level.
 - **Minimal Repayment.** GSA and OMB will consider approving the most flexible payment arrangements for proposals that tackle the most urgent IT cybersecurity and modernization problems facing our government, and where cost savings are not easily realized by the proposing agency. This includes those proposals that help agencies respond to gaps exposed by the SolarWinds incident and meet the demands of the COVID-19 pandemic, and can include projects not included in the proposed Cyber Reserve funding in the FY2022 budget.
--- Shared services that promise to address high-urgency areas across multiple agencies will receive high priority, and may receive TMF funds that allow the deployment and growth of these services over multiple years. However, agencies are expected to use this runway to budget for the sustained reimbursement of these shared services once these TMF funds are fully used.
+  - Shared services that promise to address high-urgency areas across multiple agencies will receive high priority, and may receive TMF funds that allow the deployment and growth of these services over multiple years. However, agencies are expected to use this runway to budget for the sustained reimbursement of these shared services once these TMF funds are fully used.
 
 ## Repayment Determination Process
 
