@@ -8,11 +8,13 @@ description: "How TMF funding and the repayment process work."
 				
 ## Overview:
 
-Projects that are recommended by the Technology Modernization Board (Board) will receive an allocation to a specified dollar amount that will be dedicated to the project. Within the allocated level, incremental transfers may be made contingent upon the achievement of project milestones. All fund transfers from the TMF must be reimbursed according to the repayment terms in the written agreement for the transfer of funds, which may not exceed five years unless otherwise approved by The Office of Management and Budget (OMB).  Generally, the funds will be transferred on an incremental basis, and tied to milestones documented in the written agreement
+Projects that are recommended by the Technology Modernization Board (Board) will receive an allocation to a specified dollar amount that will be dedicated to the project. Within the allocated level, incremental transfers may be made contingent upon the achievement of project milestones. 
+
+The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding and potential opportunities for repayment flexibility. You can find that guidance here.
 
 ## Written Agreements:
 
-In a format prescribed by The General Services Administration (GSA), in consultation with OMB, all TMF transfers require a written agreement between GSA and the receiving agency stipulating the purpose of the transfer and reimbursement terms.  Written agreements will constitute a legal obligation of the receiving agency to reimburse the TMF.  Reimbursement is not contingent upon the achievement of project-related savings.  Funds for reimbursement can be derived from any agency account supporting information technology activities pursuant to Section 1078 (b)(5)(A)(ii). 
+In a format prescribed by the General Services Administration (GSA), in consultation with OMB, all TMF transfers require a written agreement between GSA and the receiving agency stipulating the purpose of the transfer and reimbursement terms, including flexible repayment terms where appropriate. Written agreements will constitute a legal obligation of the receiving agency to reimburse the TMF for the repayment amount required for the project, including any repayment flexibilities.  Funds for reimbursement can be derived from any agency account supporting information technology activities pursuant to Section 1078 (b)(5)(A)(ii). 
 
 A written agreement will include, at a minimum:
 
@@ -26,7 +28,9 @@ A written agreement will include, at a minimum:
 
 ## Reimbursement Schedule:
 
-To ensure amounts transferred return to the TMF in a timely manner, the first reimbursement should take place no more than 12 months after the date of an incremental transfer, or six months after completion of the project, whichever is less. Reimbursement amounts should generally be spread proportionately across the reimbursement period and may not be disproportionately back-loaded to later years.
+To ensure agencies make repayments to the TMF in a timely manner, the first reimbursement should take place no more than 12 months after the date of an incremental transfer, or six months after completion of the project, whichever is less. Reimbursement amounts should generally be spread proportionately across the reimbursement period and may not be disproportionately back-loaded to later years.
+
+Agencies may submit for Board consideration projects requiring repayment terms that represent partial repayment (75%, 50%, or 25% repayment), or minimal repayment. For such projects that receive a conditional Board recommendation, the GSA Administrator must submit the relevant written agreement between the agency and the Administrator of General Services to the Director of OMB for approval prior to any final funding recommendation by the Board.
 
 Agencies may submit for Board consideration projects requiring repayment terms exceeding five years. For such projects that receive a conditional Board recommendation, the GSA Administrator must submit the relevant written agreement between the agency and the Administrator of General Services to the Director of OMB for approval prior to any final funding recommendation by the Board.
 
@@ -40,7 +44,7 @@ In addition to reimbursement of amounts transferred from the TMF, agencies will 
 
 ## OMB Resource Management Office Review:
 
-Prior to final consideration by the Board, a proposed commitment of TMF funds must be submitted for preliminary OMB Resource Management Office (RMO) review, including the reimbursement plan. With GSA facilitation, the requesting agency must demonstrate their anticipated ability to reimburse from within base resources (subject to the availability of out-year appropriations), including the Treasury account number(s) from which reimbursement will be derived, the planned reimbursement schedule and amount, specific identification of offsets or reductions to base resources as applicable, and planned out-year budget impacts. All reimbursements must be incorporated into the base of out-year budget submissions. Agencies may not plan to repay the TMF by requesting a topline increase in agency funding.
+Prior to final consideration by the Board, a proposed commitment of TMF funds must be submitted for preliminary OMB Resource Management Office (RMO) review, including the reimbursement plan. With GSA facilitation, the requesting agency must demonstrate their anticipated ability to fully reimburse or make partial or minimal reimbursement from within base resources (subject to the availability of out-year appropriations), including the Treasury account number(s) from which reimbursement will be derived, the planned reimbursement schedule and amount, specific identification of offsets or reductions to base resources as applicable, and planned out-year budget impacts. All reimbursements must be incorporated into the base of out-year budget submissions. Agencies may not plan to repay the TMF by requesting a topline increase in agency funding.
 
 In addition to RMO consultation on all projects that go before the Board for final consideration, GSA and the receiving agency must obtain RMO concurrence before the execution of any funds transfer. Following OMB concurrence, GSA must bring any changes in the project plan or schedule to OMB’s attention at least 15 calendar days before a planned transfer. From that point forward, consistent with appropriations law, any material changes to the reimbursement terms must be reviewed by the RMO.
 
