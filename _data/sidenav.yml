@@ -10,6 +10,8 @@
     url: /why-tmf/
   - text: "The Process"
     url: /process/
+  - text: "American Rescue Plan"
+    url: /arp/
 - text: "Submit a Proposal"
   url: /submit/
   sub_nav:
