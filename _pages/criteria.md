@@ -6,6 +6,8 @@ description: "Selection criteria used for choosing TMF projects."
 deck: 'Before submitting a project, agencies are encouraged to review the selection criteria listed here to become familiar with the types of areas of concern the Board will consider.'
 ---
 
+The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding. You can find that guidance here.
+
 ## Relevant Considerations in Preparing an Initial Project Proposal (IPP)
 
 The following topics are neither exhaustive nor may be applicable to all agency projects, but serve to provide a framework to identify projects ripe for IT modernization. Agencies submitting Initial Project Proposals are encouraged (though not required) to address these considerations, including citing or attaching evidence that their project meets any applicable considerations. Agency project sponsors should also be able to address these issues as part of the evaluation process, should a project merit additional examination by the Board.
@@ -24,7 +26,7 @@ The following topics are neither exhaustive nor may be applicable to all agency 
 
 ### Opportunity Enablement
 
-- **Expected Cost Savings, Lasting Financial Impact, and Ability to Repay the TMF:** A successful project will provide detailed information on how the agency will save costs or dramatically improve service quality through modernization. The project will describe the importance of the investment to the agency (i.e., how impactful this project is to agency mission) and the expected long-term savings and operational efficiencies expected through successful project execution. Projects will highlight how business process or change management advances (including the repurposing of workforce as necessary) will be achieved as a result of successful project execution.
+- **Value Proposition and Operational Efficiencies:** A successful project will provide detailed information on how the agency will reduce costs or dramatically improve service quality through modernization. The project will describe the importance of the investment to the agency (i.e., how impactful this project is to agency mission) and the expected value proposition and operational efficiencies expected through successful project execution. Projects will highlight how business process or change management advances (including the repurposing of workforce as necessary) will be achieved as a result of successful project execution.
 
 ### Common Solutions 
 
