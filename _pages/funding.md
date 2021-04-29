@@ -6,7 +6,7 @@ description: "How TMF funding and the repayment process work."
 
 ---
 
-This document is intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). Questions regarding Repayment Guidelines should be directed to [ofcio@omb.eop.gov]{emailto:ofcio@omb.eop.gov}.
+This document is intended to provide agencies a framework and guidelines for repaying the Technology Modernization Fund (TMF). Questions regarding Repayment Guidelines should be directed to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov).
 				
 ## Overview:
 
