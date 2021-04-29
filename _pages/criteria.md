@@ -6,7 +6,7 @@ description: "Selection criteria used for choosing TMF projects."
 deck: 'Before submitting a project, agencies are encouraged to review the selection criteria listed here to become familiar with the types of areas of concern the Board will consider.'
 ---
 
-The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding. You can find that guidance here.
+The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding. You can find that guidance [here]({{ site.baseurl }}{% link _pages/arp.md %}).
 
 ## Relevant Considerations in Preparing an Initial Project Proposal (IPP)
 
