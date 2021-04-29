@@ -10,7 +10,7 @@ description: "How TMF funding and the repayment process work."
 
 Projects that are recommended by the Technology Modernization Board (Board) will receive an allocation to a specified dollar amount that will be dedicated to the project. Within the allocated level, incremental transfers may be made contingent upon the achievement of project milestones. 
 
-The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding and potential opportunities for repayment flexibility. You can find that guidance here.
+The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding and potential opportunities for repayment flexibility. You can find that guidance [here]({{ site.baseurl }}{% link _pages/arp.md %}).
 
 ## Written Agreements:
 
