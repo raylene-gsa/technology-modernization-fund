@@ -26,7 +26,7 @@ All proposal templates for the FPP are available in the [Documents & Templates](
 
 - **The Board reviews projects on a quarterly basis to ensure projects are on schedule and milestones are met.** The Board may request corrective action during quarterly reviews.  
 - **Technical experts provide hands-on support to project teams** to improve team capability, troubleshoot issues, and guarantee successful execution. Experts from GSA and entities such as the U.S. Digital Service may support project teams.
-- **Agencies make repayments the TMF according to the terms of the project written agreement.** The extended repayment window and flexible repayment terms, if appropriate, provide agencies with greater funding flexibility. Amounts repaid ensure the TMF can fund future modernization efforts.
+- **Agencies make repayments to the TMF according to the terms of the project written agreement.**
  
 
 For more information on repayment, see the [Funding Guidelines]({{ site.baseurl }}{% link _pages/documents/funding-guidelines.md %}).
