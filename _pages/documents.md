@@ -24,7 +24,7 @@ The Modernizing Government Technology (MGT) Act was passed December 12, 2017 as 
 
 Use this template to prepare your initial proposal. _Do not complete any of the other project proposal templates until the Board has approved your Initial Project Proposal._
 
-- IPP Appendix A Template ([Word]({{ site.baseurl }}{% link _pages/documents/ipp-appendix-a-082118.docx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/ipp-appendix-a-082118.pdf %}))
+- IPP Appendix A Template ([Word]({{ site.baseurl }}{% link _pages/documents/ipp-appendix-a-043021.docx %})) ([PDF]({{ site.baseurl }}{% link _pages/documents/pdfs/ipp-appendix-a-043021.pdf %}))
 
 ### Phase Two, Full Project Proposal (FPP)
 
