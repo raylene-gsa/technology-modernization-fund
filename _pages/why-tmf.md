@@ -8,7 +8,7 @@ deck: 'Agencies have a number of reasons to consider the TMF as the funding sour
 
 ## Strong Incentives
 
-The TMF reimagines how IT modernization projects are funded and executed. The TMF project structure provides agencies with flexibility to invest in new IT modernization projects and leverage savings generated to fully repay the Fund, or more flexible repayment terms where appropriate.
+The TMF reimagines how IT modernization projects are funded and executed. The TMF project structure provides agencies with flexibility to invest in new IT modernization projects. Many funded projects will generate savings to the agency, which can be used to return money to the Fund for future projects.
 
 ## The Technology Modernization Board
 
