@@ -10,13 +10,13 @@ This document is intended to provide agencies a framework and guidelines for rep
 				
 ## Overview:
 
-Projects that are recommended by the Technology Modernization Board (Board) will receive an allocation to a specified dollar amount that will be dedicated to the project. Within the allocated level, incremental transfers may be made contingent upon the achievement of project milestones. 
+Projects that are recommended by the Technology Modernization Board (Board) will receive an allocation of a specified dollar amount that will be dedicated to the project. Within the allocated level, incremental transfers may be made contingent upon the achievement of project milestones. 
 
 The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding and potential opportunities for repayment flexibility. You can find that guidance [here]({{ site.baseurl }}{% link _pages/arp.md %}).
 
 ## Written Agreements:
 
-In a format prescribed by the General Services Administration (GSA), in consultation with OMB, all TMF transfers require a written agreement between GSA and the receiving agency stipulating the purpose of the transfer and reimbursement terms, including flexible repayment terms where appropriate. Written agreements will constitute a legal obligation of the receiving agency to reimburse the TMF for the repayment amount required for the project, including any repayment flexibilities.  Funds for reimbursement can be derived from any agency account supporting information technology activities pursuant to Section 1078 (b)(5)(A)(ii). 
+In a format prescribed by the General Services Administration (GSA), in consultation with OMB, all TMF transfers require a written agreement between GSA and the receiving agency stipulating the purpose of the transfer and any reimbursement terms, including flexible repayment terms where appropriate. Written agreements will constitute a legal obligation of the receiving agency to reimburse the TMF for the full, partial, or minimal repayment amount required for the project. Funds for reimbursement can be derived from any agency account supporting information technology activities pursuant to Section 1078 (b)(5)(A)(ii). 
 
 A written agreement will include, at a minimum:
 
@@ -32,7 +32,7 @@ A written agreement will include, at a minimum:
 
 To ensure agencies make repayments to the TMF in a timely manner, the first reimbursement should take place no more than 12 months after the date of an incremental transfer, or six months after completion of the project, whichever is less. Reimbursement amounts should generally be spread proportionately across the reimbursement period and may not be disproportionately back-loaded to later years.
 
-Agencies may submit for Board consideration projects requiring repayment terms that represent partial repayment (75%, 50%, or 25% repayment), or minimal repayment. For such projects that receive a conditional Board recommendation, the GSA Administrator must submit the relevant written agreement between the agency and the Administrator of General Services to the Director of OMB for approval prior to any final funding recommendation by the Board.
+Agencies may submit for Board consideration projects requiring repayment terms that represent partial repayment (75%, 50%, or 25% repayment), or minimal repayment. For such projects that request repayment flexibility, GSA will review and approve repayment terms, in coordination with OMB, as part of the Full Project Proposal.
 
 Agencies may submit for Board consideration projects requiring repayment terms exceeding five years. For such projects that receive a conditional Board recommendation, the GSA Administrator must submit the relevant written agreement between the agency and the Administrator of General Services to the Director of OMB for approval prior to any final funding recommendation by the Board.
 
@@ -42,7 +42,7 @@ While the Modernizing Government Technology (MGT) Act authorizes incremental tra
 
 ## Administrative Costs:
 
-In addition to reimbursement of amounts transferred from the TMF, agencies will pay an administrative fee as determined by GSA in consultation with OMB.  The administrative fee covers the cost of operating the TMF including reviewing and recommending project proposals, support to the TMF Board and technical assistance to agencies in preparation of project proposals, monitoring projects and executing transfers. In addition, any optional project execution assistance or “imbedded” GSA labor may be separately paid on a reimbursable basis using transferred project funds or any available agency funding.
+In addition to reimbursement of amounts transferred from the TMF, agencies will pay an administrative fee as determined by GSA in consultation with OMB.  The administrative fee covers the cost of operating the TMF including reviewing and recommending project proposals, support to the TMF Board and technical assistance to agencies in preparation of project proposals, monitoring projects and executing transfers. In addition, any optional project execution assistance or “embedded” GSA labor may be separately paid on a reimbursable basis using transferred project funds or any available agency funding.
 
 ## OMB Resource Management Office Review:
 
