@@ -34,7 +34,7 @@ The MGT Act provides the GSA Administrator and OMB Director with the authority t
 
 ## Repayment Considerations
 
-The American Rescue Plan is emergency legislation that provided $1 billion in TMF funds to address urgent IT modernization challenges, bolster cybersecurity defenses following the SolarWinds incident, and improve the delivery of COVID-19 relief. To meet these goals, the Fund will invest in a diverse portfolio of projects having varying levels of repayment risk and payment flexibility, and expects to recover a portion of the ARP funds.
+The American Rescue Plan is emergency legislation that provided $1 billion in TMF funds to address urgent IT modernization challenges, bolster cybersecurity defenses following the SolarWinds incident, and improve the delivery of COVID-19 relief. To meet these goals, the Fund will invest in a diverse portfolio of projects having varying levels of repayment risk and payment flexibility, and expects to recover a portion of the American Rescue Plan funds.
 
 - **Full Repayment** The TMF has historically operated under a full repayment model, and will continue to do so for projects that yield financial savings realized by the proposing agency. The Board expects this to apply to single-agency investments with direct cost savings, such as replacing a legacy system with one that can be operated and maintained more efficiently.
 - **Partial Repayment.** The Board anticipates a range of proposals meriting partial repayment, depending on the positive impact to the public and agency operations, alignment with overall TMF priorities, and the likelihood that the proposing agency can realize financial savings. 
