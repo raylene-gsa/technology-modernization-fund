@@ -11,7 +11,7 @@ Guidance posted by the Office of Management and Budget (OMB) allows agencies to 
 
 Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}). Proposals sent to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) by Tuesday, June 1, 2021 will receive expedited consideration.
 
-If you intend to submit a proposal, we encourage you to notify the TMF Program Management Office at tmf@gsa.gov early so that the PMO is able to support your team through the entire TMF application and review process.
+If you intend to submit a proposal, we encourage you to notify the TMF Program Management Office at [tmf@gsa.gov](mailto:tmf@gsa.gov) early so that the PMO is able to support your team through the entire TMF application and review process.
 
 
 ## Requirements to Submit
