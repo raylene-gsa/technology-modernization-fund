@@ -7,8 +7,6 @@ deck: 'The full process used to determine which solutions are funded by the TMF.
 
 ---
 
-{% include image-wide.html path="tmfprocess.png" alt-text="This is the TMF process" caption="TMF Process" %}
-
 ## Phase One: Initial Project Proposal (IPP)
 
 - **Agencies submit Initial Project Proposals (IPPs) using the IPP Template**, which are reviewed by the Technology Modernization Board.
