@@ -6,6 +6,8 @@ description: "Selection criteria used for choosing TMF projects."
 deck: 'Before submitting a project, agencies are encouraged to review the selection criteria listed here to become familiar with the types of areas of concern the Board will consider.'
 ---
 
+The Board has released additional guidance regarding priority investment areas for the American Rescue Plan Funding. You can find that guidance [here]({{ site.baseurl }}{% link _pages/arp.md %}).
+
 ## Relevant Considerations in Preparing an Initial Project Proposal (IPP)
 
 The following topics are neither exhaustive nor may be applicable to all agency projects, but serve to provide a framework to identify projects ripe for IT modernization. Agencies submitting Initial Project Proposals are encouraged (though not required) to address these considerations, including citing or attaching evidence that their project meets any applicable considerations. Agency project sponsors should also be able to address these issues as part of the evaluation process, should a project merit additional examination by the Board.
@@ -24,12 +26,12 @@ The following topics are neither exhaustive nor may be applicable to all agency 
 
 ### Opportunity Enablement
 
-- **Expected Cost Savings, Lasting Financial Impact, and Ability to Repay the TMF:** A successful project will provide detailed information on how the agency will save costs or dramatically improve service quality through modernization. The project will describe the importance of the investment to the agency (i.e., how impactful this project is to agency mission) and the expected long-term savings and operational efficiencies expected through successful project execution. Projects will highlight how business process or change management advances (including the repurposing of workforce as necessary) will be achieved as a result of successful project execution.
+- **Value proposition and operational efficiencies:** A successful project will provide detailed information on how the agency will dramatically improve service quality through modernization, and any cost savings the project may generate. The project will describe the importance of the investment to the agency (i.e., how impactful this project is to agency mission) and the expected value proposition and operational efficiencies expected through successful project execution. Projects will highlight how business process or change management advances (including the repurposing of workforce as necessary) will be achieved as a result of successful project execution.
 
 ### Common Solutions 
 
-- **Reduction of Outdated, Insecure Systems to Modern, Scalable Platforms:** A successful project will ensure that security is designed into execution from the outset and complements service delivery and mission objectives. Projects will leverage commercial products and services to the greatest extent practicable to boost security, decrease technical debt, and improve the ability of the project and the associated technology to adapt to a changing threat and operational environment. Where applicable, projects will demonstrate the ability of the agency to reduce outdated or duplicative systems (or to retired multiple systems) through modernization and deliver common solutions and reuse opportunities within an agency, or between the agency and external partners.
+- **Reduction of outdated, insecure systems to modern, scalable platforms:** A successful project will ensure that security is designed into execution from the outset and complements service delivery and mission objectives. Projects will leverage commercial products and services to the greatest extent practicable to boost security, decrease technical debt, and improve the ability of the project and the associated technology to adapt to a changing threat and operational environment. Where applicable, projects will demonstrate the ability of the agency to reduce outdated or duplicative systems (or to retired multiple systems) through modernization and deliver common solutions and reuse opportunities within an agency, or between the agency and external partners.
 
-## If You Have Questions or Need Assistance
+## If you have questions or need assistance
 
 The TMF Program Management Office (PMO), part of the General Services Administration (GSA), is here to support your team throughout the entire TMF application and submission process. We are available to help develop your initial IPP and to review your IPP prior to submission. For more information about our full suite of services or to get in touch with us, please see the [Get Help Preparing Your Submission]({{ site.baseurl }}{% link _pages/get-help.md %}) section of this site.

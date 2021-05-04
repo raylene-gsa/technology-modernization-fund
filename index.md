@@ -8,7 +8,9 @@ deck: 'The TMF is an innovative funding vehicle that gives agencies additional w
 
 The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017.
 
-Approved projects receive incremental funding and technical expertise to ensure project success. To date, the TMF has received $175 million from Congress to fund modernization projects.
+Approved projects receive incremental funding and technical expertise to ensure project success. To date, the TMF has received $175 million through the annual budget process and $1 billion through the American Rescue Plan to fund modernization projects.
+
+Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}). Proposals sent to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) by Tuesday, June 1, 2021 will receive expedited consideration.
 
 ## How the TMF works
 
@@ -20,6 +22,6 @@ Agencies submit Initial Project Proposals (IPPs), which act as a low burden pre-
 ### Phase Two: Full Project Proposal (FPP)
 If the Board approves an IPP, the project team submits their Full Project Proposal (FPP) to the Board. The FPP entails a more comprehensive description of the proposal, discrete project milestones, and funding schedule. The team will also prepare a pitch deck and in-person presentation for the Board.
 
-Projects recommended for funding by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by extended payback requirements to five years.
+Projects recommended for funding by the Board receive incremental funding contingent on the successful execution of milestones. The TMF provides greater flexibility to agencies funding technology modernization efforts by allowing for payback terms of up to five years and flexible repayment terms where determined appropriate by the GSA Administrator and OMB Director.
 
 Proposal templates for the IPP and FPP phases are available in the [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site.

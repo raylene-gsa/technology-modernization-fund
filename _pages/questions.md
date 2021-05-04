@@ -33,6 +33,9 @@ Agencies are encouraged to submit joint projects and pursue shared services and 
 ### How do agencies receive and repay funds from the TMF?
 For extensive information about how agencies receive repay TMF disbursement, please see the [Funding Guidelines]({{ site.baseurl }}{% link _pages/documents/funding-guidelines.md %}) document.
 
+### How will the Technology Modernization Board assess project proposals that request full, partial or minimal repayment?
+For more information related to repayment flexibilities, please see the American Rescue Plan funding guidelines [here]({{ site.baseurl }}{% link _pages/arp.md %}).
+
 ### Where can I find relevant documents and guidance pertaining to the TMF?
 The [Documents & Templates]({{ site.baseurl }}{% link _pages/documents.md %}) section of this site contains the most up-to-date guidance, memoranda, and templates pertaining to the TMF and the Board.
 
