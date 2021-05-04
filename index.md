@@ -10,7 +10,7 @@ The Technology Modernization Fund (TMF) was authorized by the Modernizing Govern
 
 Approved projects receive incremental funding and technical expertise to ensure project success. To date, the TMF has received $175 million through the annual budget process and $1 billion through the American Rescue Plan to fund modernization projects.
 
-Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}). Proposals sent to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) by Tuesday, June 1, 2021 will receive expedited consideration.
+Guidelines for the American Rescue Plan Funding can be found [here]({{ site.baseurl }}{% link _pages/arp.md %}). Proposals sent to [ofcio@omb.eop.gov](mailto:ofcio@omb.eop.gov) by Wednesday, June 2, 2021 will receive expedited consideration.
 
 ## How the TMF works
 
