@@ -14,7 +14,7 @@ Members serve to provide funding recommendations and monitor progress and perfor
 The TMF Board is made up of 7 voting members:
 - The Administrator of the Office of E-Government (Federal Chief Information Officer)
 - A senior official from the U.S. General Services Administration (GSA) with technical expertise in information technology development
-- A member of the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD)
+- A member of the Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency (CISA)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
 Additionally, three alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
@@ -40,9 +40,9 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 
 ### Cybersecurity Official from DHS - Permanent Member
 
-**Matthew Hartman, Deputy Assistant Director for Cybersecurity, Department of Homeland Security Cybersecurity and Infrastructure Security Agency**
+**Matthew Hartman, Deputy Executive Assistant Director of Cybersecurity, Department of Homeland Security Cybersecurity and Infrastructure Security Agency**
 
-{% include board-member.html path="headshots/hartman.jpg" alt-text="Matt Hartman" %} Matt Hartman serves as the Acting Director of Federal Network Resilience (FNR) within the Department of Homeland Security’s (DHS) National Protection and Programs Directorate (NPPD). In this role, Mr. Hartman leads DHS’ proactive administration of Federal Civilian Executive Branch cybersecurity and serves as the primary interface to Agency Chief Information Officers and the Office of the Federal Chief Information Officer (OFCIO). Previously, Mr. Hartman served as the Cybersecurity Counselor to the Secretary of Homeland Security, Senior Advisor to the Assistant Secretary of Cybersecurity and Communications, Director of Strategy Coordination and Management, and various leadership positions within the Continuous Diagnostics and Mitigation Program, including Acting Program Manager from May 2016 until January 2017.
+{% include board-member.html path="headshots/hartman.jpg" alt-text="Matt Hartman" %} Matt Hartman serves as the Deputy Executive Assistant Director of Cybersecurity, Department of Homeland Security Cybersecurity and Infrastructure Security Agency. In this role, Mr. Hartman leads CISA’s proactive administration of Federal Civilian Executive Branch cybersecurity and serves as the primary interface to Agency Chief Information Officers and the Office of the Federal Chief Information Officer (OFCIO). Previously, Mr. Hartman served as the Cybersecurity Counselor to the Secretary of Homeland Security, Senior Advisor to the Assistant Secretary of Cybersecurity and Communications, Director of Strategy Coordination and Management, and various leadership positions within the Continuous Diagnostics and Mitigation Program, including Acting Program Manager from May 2016 until January 2017.
 
 ---
 
