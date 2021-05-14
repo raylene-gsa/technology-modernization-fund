@@ -17,7 +17,7 @@ The TMF Board is made up of 7 voting members:
 - A member of the Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency (CISA)
 - Four employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition
 
-Additionally, three alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
+Additionally, six alternate board members with expertise in information technology, cybersecurity, and acquisition provide added insight and can stand in as a voting board member. 
 
 ## Voting Board Members
 
@@ -80,3 +80,21 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 
 {% include board-member.html path="headshots/smith.jpg" alt-text="Hampden Smith" %} Harrison Smith is the Co-Director of Enterprise Digitalization and Case Management for the Internal Revenue Service (IRS).  In this role, he is responsible for addressing the challenges associated with ingesting large volumes of paper documents and unstructured data, and spearheading digitalization efforts across the Service.  Previously, Harrison was the Deputy Chief Procurement Officer within the IRS, and was responsible for supporting all acquisition programs and contractual commitments for equipment, supplies, and services for IRS and Treasury Departmental Offices. Prior to joining the IRS, Harrison served in several roles at the Department of Homeland Security (DHS), including Industry Liaison.  As the Industry Liaison, he was responsible for providing leadership and direction for DHS offices and outside officials for all aspects of the DHS industry engagement program. He also served as a principal advisor to the Chief Procurement Officer on matters relating to all aspects of procurement.
 Harrison has 20 years of operational procurement experience with various IRS, DHS Naval Sea Systems Command offices, including acting as the Contracting Officer for several multi-billion dollar IT procurements. As the Director of the Enterprise Acquisitions Division with DHS, he was responsible for a portfolio of 25 strategically-sourced contracts with a cumulative value of $68 billion. He has also worked in policy and strategic analysis positions on the Hill, and has supported the Special Assistant to the Secretary of the Navy for Business Initiatives and the Chief of Naval Operations Executive Panel under the auspices of the Presidential Management Fellows program.
+
+
+**Sheena Burrell, Deputy Chief Information Officer, National Archives and Records Administration**
+
+{% include board-member.html path="headshots/Burrell.jpg" alt-text="Sheena Burrell" %} For the past 15 years, Sheena Burrell has worked within Chief Information Officer (CIO) organizations in multiple federal agencies as a change agent for greater automation and modernization of Information Technology, with the goal to decrease the federal government’s technical debt. Sheena Burrell became the Deputy CIO for the National Archives and Records Administration (NARA) in February 2020, where she created systems and tools that allow customers to permanently preserve digitized, as well as “born” digital, information to assist in discovering NARA’s holdings. Prior to coming to NARA, Ms. Burrell served for 3 years as a Business Manager at the National Aeronautics and Space Administration. Prior to this, Ms. Burrell served 15 years at the Social Security Administration in a number of capacities.
+
+
+**Sean Connelly, Trusted Internet Connections Program Manager, Cybersecurity and Infrastructure Security Agency, Department of Homeland Security**
+
+{% include board-member.html path="headshots/Connelly.jpg" alt-text="Sean Connelly" %} Sean Connelly serves as the Trusted Internet Connections (TIC) Program Manager at the Cybersecurity and Infrastructure Security Agency (CISA) within the Department of Homeland Security (DHS). Mr. Connelly leads the federal government’s strategy to securely protect government networks that connect to the Internet and cloud providers. Mr. Connelly joined DHS in 2013 and has served in a variety of roles, including the development of TIC 1, 2 and 3, along with the deployment of CISA’s sensor capabilities (operationally known as EINSTEIN 3A), and was part of the initial architectural team that stood-up the Continuous Diagnostics and Mitigation program. Additionally, Mr. Connelly was a lead author on the ‘IT Modernization Report to the President’ in 2017, as well as a co-author of NIST’s Special Publicization towards ‘Zero Trust Architectures’ in 2019. Mr. Connelly has over 20 years of experience in the IT and cybersecurity domain.
+
+
+**Sanjay Gupta, Chief Technology Officer, U.S. Small Business Administration**
+
+{% include board-member.html path="headshots/Gupta.jpg" alt-text="Sanjay Gupta" %} Sanjay Gupta joined the U.S. Small Business Administration in January 2017 as Chief Technology Officer (CTO) from the private sector. Sanjay is a business driven, results oriented leader, adept at leveraging technology to innovate and deliver results quickly. He brings to SBA an exclusive combination of experiences as a CIO/CTO, Managing Partner Consulting, and as a Research Analyst. 
+As SBA’s CTO, Sanjay has led major 90-day transformations in each of the last four years. These modernization initiatives with inter-agency collaboration have not only benefited the SBA but have also informed change across the federal government landscape. 
+Throughout his career, Sanjay has led business/IT transformations across industries. He brings extensive global experience across industries in areas such as IT Strategy, Innovation, Digital Transformation, Architecture, Cloud, Cybersecurity, Agile Development and Open Source. 
+Sanjay has authored over 20 research white papers focused on advice and guidance for CIOs/Boards. He is a recognized industry thought leader, keynote presenter, speaker and author. 
