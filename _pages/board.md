@@ -56,7 +56,7 @@ Services Administration. Mr. Shive oversees the GSA IT organization, and is resp
 
 {% include board-member.html path="headshots/eg.jpg" alt-text="Dr. Erwin Gianchandani" %} In his role, Dr. Erwin Gianchandani oversees the National Science Foundation (NSF) Computer and Information Science and Engineering directorate’s $900 million annual budget and day-to-day operations. Most recently, he has launched several new NSF investment areas, including Smart & Connected Communities and Platforms for Advanced Wireless Research. Dr. Gianchandani has published extensively and presented at numerous international conferences on the subject of computational systems modeling of biological networks, with the goal of better understanding disease mechanisms and identifying therapeutic targets.
 
-**Alex Loehr, Deputy Chief Technology Officer, National-Geospatial Intelligence Agency**
+**Alex Loehr, Chief Technology Officer, National-Geospatial Intelligence Agency**
 
 {% include board-member.html path="headshots/loehr.jpg" alt-text="Alex Loehr" %} Alex Loehr has spent his career bringing modern digital practices to our government’s most important missions. Prior to his current role at the National-Geospatial Intelligence Agency (NGA), Mr. Loehr served as Deputy CTO for the Department of Veterans Affairs (VA), where he helped launch an updated VA.gov to improve Veteran’s digital experience and led VA's API program. Mr. Loehr’s previous experience inside and outside government includes the U.S. Digital Service, In-Q-Tel, and the Army Geospatial Research Laboratory. 
 
