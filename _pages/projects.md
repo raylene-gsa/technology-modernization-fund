@@ -9,19 +9,19 @@ deck: "The Technology Modernization Fund has awarded a total of eleven projects 
 
 [The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current projects, including project-specific descriptions and the information necessary to meet statutory requirements: 
 
-- [**UNISYS Mainframe Migration**](#unisys-mainframe-migration)
-- [**Enterprise Cloud Email**](#enterprise-cloud-email)
-- [**Farmers.gov Portal**](#farmersgov-portal)
-- [**Visa Application Transformation**](#visa-application-transformation)
-- [**Application Modernization Integrating Flexible Architectures**](#application-modernization-integrating-flexible-architectures)
-- [**Infrastructure Optimization and Cloud Adoption**](#infrastructure-optimization-and-cloud-adoption)
-- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
-- [**Charge and Case Management System Modernization**](#charge-and-case-management-system-modernization)
-- [**Agricultural Marketing Service Specialty Crops System Modernization**](#agricultural-marketing-service-specialty-crops-system-modernization)
-- [**Automated Commercial Environment Collections Module**](#automated-commercial-environment-collections-module)
-- [**Data Modernization**](#data-modernization)
+- [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
+- [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
+- [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
+- [**Visa Application Transformation (DOL)**](#visa-application-transformation)
+- [**Application Modernization Integrating Flexible Architectures (GSA)**](#application-modernization-integrating-flexible-architectures)
+- [**Infrastructure Optimization and Cloud Adoption (USDA)**](#infrastructure-optimization-and-cloud-adoption)
+- [**NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service (GSA)**](#newpay-payroll-and-work-schedule-and-leave-management-software-as-a-service)
+- [**Charge and Case Management System Modernization (EEOC)**](#charge-and-case-management-system-modernization)
+- [**Agricultural Marketing Service Specialty Crops System Modernization (USDA)**](#agricultural-marketing-service-specialty-crops-system-modernization)
+- [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
+- [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 03/12/2021
+###### Last updated: 06/11/2021
 
 ---
 
