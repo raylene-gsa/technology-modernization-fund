@@ -21,7 +21,7 @@ deck: "The Technology Modernization Fund has awarded a total of eleven projects 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 06/11/2021
+###### Last updated: 09/10/2021
 
 ---
 
