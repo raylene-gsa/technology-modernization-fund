@@ -54,7 +54,7 @@ Without this funding, the Department of Education will not be able to implement 
 
 ---
 
-## GSA Advancing Zero Trust
+## Advancing Zero Trust
 
 {% include project-data.html path="gsa-advancing-zero-trust" %}
 
@@ -67,7 +67,7 @@ By implementing these modernization efforts, GSA will improve user experience th
 
 ---
 
-## GSA Login.gov
+## Login.gov
 
 {% include project-data.html path="gsa-login-gov" %}
 
@@ -78,7 +78,7 @@ However, with this TMF funding GSA will increase Login.gov’s cybersecurity pos
 
 ---
 
-## DHS Southwest Border Technology Integration Program
+## Southwest Border Technology Integration Program
 
 {% include project-data.html path="dhs-southwest-border-technology" %}
 
@@ -88,7 +88,7 @@ Without this funding, DHS will have to wait to replace the remaining outdated ma
 
 ---
 
-## GSA MAX.gov Transition
+## MAX.gov Transition
 
 {% include project-data.html path="gsa-max-gov-transition" %}
 
