@@ -88,7 +88,7 @@ Without this funding, DHS will have to wait to replace the remaining outdated ma
 
 ---
 
-## MAX.gov Transition
+## MAX Gov Transition
 
 {% include project-data.html path="gsa-max-gov-transition" %}
 
