@@ -13,7 +13,7 @@ deck: "The Technology Modernization Fund has awarded a total of seventeen projec
 - [**Zero Trust Networking (OPM)**](#zero-trust-networking)
 - [**Zero Trust Architecture (ED)**](#zero-trust-architecture)
 - [**Advancing Zero Trust (GSA)**](#advancing-zero-trust)
-- [**Login.gov (GSA)**](#login-gov)
+- [**Login.gov (GSA)**](#login.gov)
 - [**Southwest Border Technology Integration Program (DHS)**](#southwest-border-technology)
 - [**MAX.gov Transition (GSA)**](#max.gov-transition)
 
