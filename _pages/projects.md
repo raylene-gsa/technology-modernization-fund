@@ -31,7 +31,16 @@ deck: "The Technology Modernization Fund has awarded a total of seventeen projec
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 09/10/2021
+###### Last updated: 09/16/2021
+---
+
+## Zero Trust Networking
+
+{% include project-data.html path="opm-zero-trust-network" %}
+
+This project will accelerate the agency’s adoption of a zero trust cybersecurity architecture strategy. As the Human Resources (HR) provider for the Federal Government, OPM has and stores extremely sensitive personal data for millions of current and retired Federal employees. Any breach of this information would have a massive impact for the agency and federal workforce. OPM has already initiated its zero trust journey with the rollout of a cloud-based Endpoint Detection and Response solution, and implementation of micro segmentation for a large part of its on-premises servers. Risk remains for the workforce and retirees with legacy Virtual Private Network (VPN) and cybersecurity technologies. Using TMF funds, this project will implement zero trust solutions across the 5 main zero trust pillars: 1) Identity, 2) Devices and Endpoint, 3) Network and Environment, 4) Application Workload, and 5) Data. This effort will reduce OPM’s attack surface and increase cybersecurity protections, visibility, and the resiliency of their services.
+
+Without this funding, OPM would continue to operate with their current legacy VPN and Wide Area Network (WAN) models, leveraging less efficient ways of monitoring their environments. They would be modernizing in a piecemeal fashion as internal funding became available, which increases risk. However, with this TMF funding OPM will be able to pursue best-in-class cloud IT and security solutions. This project will enable OPM to fully comply with the mandates established in the Executive Order on “Improving the Nation’s Cybersecurity”. Furthermore, implementing zero trust will provide OPM with additional identity management options for enhanced collaboration with agency partners. By the end of this project, OPM will achieve an Optimal level in the zero trust Maturity model. The operational benefits of this project include reducing the number of security tools required to monitor and maintain an effective cybersecurity program, cost savings and improved interagency communications and collaboration efforts.
 
 ---
 
