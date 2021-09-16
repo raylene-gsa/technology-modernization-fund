@@ -3,11 +3,18 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of eleven projects across seven federal agencies."
+deck: "The Technology Modernization Fund has awarded a total of seventeen projects across nine federal agencies. Since the enactment of the American Rescue Plan funding, the TMF has awarded five projects to address urgent IT modernization challenges."
 
 ---
 
 [The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current projects, including project-specific descriptions and the information necessary to meet statutory requirements: 
+
+## Under the American Rescue Plan (ARP)
+- [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
+- [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
+- [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
+
+## Original TMF
 
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
