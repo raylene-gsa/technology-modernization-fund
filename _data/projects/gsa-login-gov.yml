@@ -8,11 +8,11 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "Zero Trust Architecture"
-  agency      : "U.S. Department of Education (ED)"
-  status      : "Project selected for funding by Board. Initial transfer of $15,000,000.00 is in process."
+- name        : "Login.gov"
+  agency      : "General Services Administration (GSA)"
+  status      : "Project selected for funding by Board. Initial transfer of $27,095,256.37 is in process."
   delay       : "No"
   cost        : "No"
-  totalaward  : "$20,000,000.00"
+  totalaward  : "$187,050,000"
   spendtodate : "$0"
-  product     : "No"
+  product     : "Yes"
