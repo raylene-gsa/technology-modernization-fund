@@ -3,22 +3,27 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of seventeen projects across nine federal agencies. Since the enactment of the American Rescue Plan funding, the TMF has awarded five projects to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has awarded a total of seventeen projects across nine federal agencies. Six of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
 [The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current projects, including project-specific descriptions and the information necessary to meet statutory requirements: 
 
-## Under the American Rescue Plan (ARP)
+## The American Rescue Plan (ARP)
+
+Congress provided $1B to the Technology Modernization Fund (TMF) as part of the American Rescue Plan (ARP) to respond to the dual crises of SolarWinds and the COVID pandemic. In keeping with the intent of these funds, the TMF Board declared their intent to focus these funds on projects relating to cybersecurity, public-facing digital services, cross-government collaboration and scalable services, and modernizing high priority systems. This first tranche represents a set of strategic investments to improve technology at scale across all of these areas.
+This tranche is direct response to the president's Executive Order on Improving the Nation's Cybersecurity. The TMF is funding the transformation of three critical agencies in the executive branch. These projects will protect the data and privacy of over 13M students who interact with the Department of Education's Federal Student Aid (FSA) program, as well as over 2M civilian federal employees whose data is housed in the Office of Personnel Management's systems. The investment in GSA's security systems will also transform the security of 560 of GSA's buildings, allowing for secure use of technologies that will help green the federal portfolio. This investment will also bolster the security of all of GSA's shared services, such as Login.gov, that support millions of users.
+These investments are also directly responsive to the COVID-19 pandemic that has fundamentally changed how the federal government operates and interacts with the public. The Department of Homeland Security's (DHS) Southwest border proposal is not only responsive to the influx of migrants due to the COVID-19 pandemic, but it also addresses issues uncovered by the required remote work in moving paper processes digitally and streamlining communications between agencies.
+Lastly, OMB MAX and Login.gov will leverage this tranche to transform authentication for the federal government, and provide for easy multi-factor authentication across the board.
+
+## List of All Projects
+
 - [**Zero Trust Networking (OPM)**](#zero-trust-networking)
 - [**Zero Trust Architecture (ED)**](#zero-trust-architecture)
 - [**Advancing Zero Trust (GSA)**](#advancing-zero-trust)
 - [**Login Gov (GSA)**](#Login-Gov)
 - [**Southwest Border Technology Integration Program (DHS)**](#Southwest-Border-Technology-Integration-Program)
 - [**MAX Gov Transition (GSA)**](#MAX-Gov-Transition)
-
-## Original TMF
-
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
 - [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
@@ -31,7 +36,7 @@ deck: "The Technology Modernization Fund has awarded a total of seventeen projec
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 09/16/2021
+###### Last updated: 09/30/2021
 ---
 
 ## Zero Trust Networking
@@ -98,7 +103,6 @@ Without TMF funding, the project will incur delays that will impact TTS’s abil
 
 
 ---
-## Original TMF Projects
 
 ## UNISYS Mainframe Migration
 
