@@ -11,7 +11,7 @@ deck: "The Technology Modernization Fund has awarded a total of seventeen projec
 
 ## The American Rescue Plan (ARP)
 
-The American Rescue Plan provided $1 billion in TMF funds to address urgent IT modernization challenges, bolster cybersecurity defenses, and respond to the COVID-19 crisis. The TMF Board has prioritized funding projects that cut across agencies, address immediate security gaps, and improve the public’s ability to access services.
+The [American Rescue Plan]({{ site.baseurl }}{% link _pages/arp.md %}) provided $1 billion in TMF funds to address urgent IT modernization challenges, bolster cybersecurity defenses, and respond to the COVID-19 crisis. The TMF Board has prioritized funding projects that cut across agencies, address immediate security gaps, and improve the public’s ability to access services.
 
 These awards are directly responsive to the president's Executive Order on Improving the Nation's Cybersecurity, funding the transformation of four critical agencies in the executive branch. These projects aim to strengthen the security of data and privacy protections for 2M civilian federal employees whose data is housed in the Office of Personnel Management's systems, over 13M students who interact with the Department of Education's Federal Student Aid (FSA) program, and 560 facilities under the jurisdiction, custody or control of the General Services Administration.
 
