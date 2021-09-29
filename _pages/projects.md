@@ -23,9 +23,9 @@ With Login.gov and MAX.gov, these awards will transform authentication for the f
 - [**Zero Trust Networking (OPM)**](#zero-trust-networking)
 - [**Zero Trust Architecture (ED)**](#zero-trust-architecture)
 - [**Advancing Zero Trust (GSA)**](#advancing-zero-trust)
-- [**Login Gov (GSA)**](#login-gov)
+- [**Login Gov (GSA)**](#login.gov)
 - [**Southwest Border Technology Integration Program (DHS)**](#southwest-border-technology-integration-program)
-- [**MAX Gov Transition (GSA)**](#max-gov-transition)
+- [**MAX Gov Transition (GSA)**](#max.gov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
 - [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
@@ -73,7 +73,7 @@ By implementing these modernization efforts, GSA will improve user experience th
  
 ---
 
-## Login Gov
+## Login.Gov
 
 {% include project-data.html path="gsa-login-gov" %}
 
@@ -97,7 +97,7 @@ The Southwest Border Technology Integration Program (TIP) will provide standardi
 
 ---
 
-## MAX Gov Transition
+## MAX.Gov Transition
 
 {% include project-data.html path="gsa-max-gov-transition" %}
 
