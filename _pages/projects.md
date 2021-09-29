@@ -3,7 +3,7 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of 17 projects across 9 federal agencies. Seven of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has awarded a total of 18 projects across 9 federal agencies. Seven of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
