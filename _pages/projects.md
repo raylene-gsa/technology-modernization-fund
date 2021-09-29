@@ -5,8 +5,6 @@ permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
 deck: "The Technology Modernization Fund has awarded a total of 18 projects across 10 federal agencies. Seven of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
-Details on classified projects are not included below. If you have questions about a classified project, please contact tmf@gsa.gov.
-
 ---
 
 [The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current public projects, including project-specific descriptions and the information necessary to meet statutory requirements.
