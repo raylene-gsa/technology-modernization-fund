@@ -3,7 +3,7 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of seventeen projects across nine federal agencies. Six of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has awarded a total of 17 projects across 9 federal agencies. Six of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -13,8 +13,7 @@ deck: "The Technology Modernization Fund has awarded a total of seventeen projec
 
 The [American Rescue Plan]({{ site.baseurl }}{% link _pages/arp.md %}) provided $1 billion in TMF funds to address urgent IT modernization challenges, bolster cybersecurity defenses, and respond to the COVID-19 crisis. The TMF Board has prioritized funding projects that cut across agencies, address immediate security gaps, and improve the public’s ability to access services.
 
-These awards are directly responsive to the president's Executive Order on Improving the Nation's Cybersecurity, funding the transformation of three critical agencies in the
-executive branch. These projects aim to strengthen the security of data and privacy protections for 2M civilian federal employees whose data is housed in the Office of Personnel Management's systems, over 100 M students that the Department of Education supports, and 560 facilities under the jurisdiction, custody or control of the General Services Administration.
+These awards are directly responsive to the president's Executive Order on Improving the Nation's Cybersecurity, funding the transformation of four critical agencies in the executive branch. These projects aim to strengthen the security of data and privacy protections for 2M civilian federal employees whose data is housed in the Office of Personnel Management's systems, the over 100 M students and borrowers the Department of Education supports, and hundreds of facilities under the control of the General Services Administration.
 
 With Login.gov and MAX.gov, these awards will transform authentication for the federal government through shared services, providing for easy multi-factor authentication and an improved experience for millions of users. These investments are also directly responsive to the COVID-19 pandemic that has fundamentally changed how the federal government operates and interacts with the public. MAX.gov aims to improve interagency cooperation and communication, which is critical in a remote and hybrid environment, and the Department of Homeland Security aims to address issues uncovered by moving paper processes digitally and streamlining communications between agencies, improving their ability to respond to the COVID-19 pandemic.
 
