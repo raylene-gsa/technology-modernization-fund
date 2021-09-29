@@ -9,6 +9,8 @@ deck: "The Technology Modernization Fund has awarded a total of 18 projects acro
 
 [The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current public projects, including project-specific descriptions and the information necessary to meet statutory requirements.
 
+\* *Details on classified projects are not included below. If you have questions about a classified project, please contact tmf@gsa.gov.* 
+
 ## The American Rescue Plan (ARP)
 
 The [American Rescue Plan provided $1 billion in TMF funds]({{ site.baseurl }}{% link _pages/arp.md %}) to address urgent IT modernization challenges, bolster cybersecurity defenses, and respond to the COVID-19 crisis. The TMF Board has prioritized funding projects that cut across agencies, address immediate security gaps, and improve the public’s ability to access services.
