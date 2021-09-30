@@ -7,9 +7,9 @@ deck: "The Technology Modernization Fund has awarded a total of 18 projects acro
 
 ---
 
-[The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current public \*  projects, including project-specific descriptions and the information necessary to meet statutory requirements.
+[The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current public\*  projects, including project-specific descriptions and the information necessary to meet statutory requirements.
 
-\* *Details on classified projects are not included below. If you have questions about a classified project, please contact [tmf@gsa.gov](mailto:tmf@gsa.gov).* 
+\**Details on classified projects are not included below. If you have questions about a classified project, please contact [tmf@gsa.gov](mailto:tmf@gsa.gov).* 
 
 ## The American Rescue Plan (ARP)
 
