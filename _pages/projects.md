@@ -3,12 +3,31 @@ layout: page
 title: Awarded Projects
 permalink: /projects/
 description: "A list of all projects that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has awarded a total of eleven projects across seven federal agencies."
+deck: "The Technology Modernization Fund has awarded a total of 18 projects across 10 federal agencies. Seven of these projects were awarded American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
-[The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current projects, including project-specific descriptions and the information necessary to meet statutory requirements: 
+[The Modernizing Government Technology Act]({{ site.baseurl }}{% link _pages/documents.md %}) requires OMB to provide quarterly updates on projects recommended for funding by the TMF Board. Through the ongoing Board oversight process, project information will be regularly updated on this page. Below are the current public\*  projects, including project-specific descriptions and the information necessary to meet statutory requirements.
 
+\* *Details on classified projects are not included below. If you have questions about a classified project, please contact [tmf@gsa.gov](mailto:tmf@gsa.gov).* 
+
+## The American Rescue Plan (ARP)
+
+The [American Rescue Plan provided $1 billion in TMF funds]({{ site.baseurl }}{% link _pages/arp.md %}) to address urgent IT modernization challenges, bolster cybersecurity defenses, and respond to the COVID-19 crisis. The TMF Board has prioritized funding projects that cut across agencies, address immediate security gaps, and improve the public’s ability to access services.
+
+These awards are directly responsive to the president's Executive Order on Improving the Nation's Cybersecurity, and include funding the transformation of three critical agencies in the executive branch. These projects aim to strengthen the security of data and privacy protections for 2M civilian federal employees whose data is housed in the Office of Personnel Management's systems, the over 100M students and borrowers the Department of Education supports, and hundreds of facilities under the control of the General Services Administration.
+
+With Login.gov and MAX.gov, these awards will transform authentication for the federal government through shared services, providing for easy multi-factor authentication and an improved experience for millions of users. These investments are also directly responsive to the COVID-19 pandemic that has fundamentally changed how the federal government operates and interacts with the public. MAX.gov aims to improve interagency cooperation and communication, which is critical in a remote and hybrid environment, and the Department of Homeland Security aims to address issues uncovered by moving paper processes digitally and streamlining communications between agencies, improving their ability to respond to the COVID-19 pandemic.
+
+
+## List of All Projects
+
+- [**Zero Trust Networking (OPM)**](#zero-trust-networking)
+- [**Zero Trust Architecture (ED)**](#zero-trust-architecture)
+- [**Advancing Zero Trust (GSA)**](#advancing-zero-trust)
+- [**Login.Gov (GSA)**](#login-gov)
+- [**Southwest Border Technology Integration Program (DHS)**](#southwest-border-technology-integration-program)
+- [**MAX.Gov Transition (GSA)**](#max-gov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
 - [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
@@ -21,7 +40,72 @@ deck: "The Technology Modernization Fund has awarded a total of eleven projects 
 - [**Automated Commercial Environment Collections Module (CBP)**](#automated-commercial-environment-collections-module)
 - [**Data Modernization (DOL)**](#data-modernization)
 
-###### Last updated: 09/10/2021
+###### Last updated: 09/30/2021
+---
+
+## Zero Trust Networking
+
+{% include project-data.html path="opm-zero-trust-network" %}
+
+This project will accelerate the agency’s adoption of a zero trust cybersecurity architecture strategy. As the Human Resources (HR) provider for the Federal Government, OPM manages extremely sensitive personal data for millions of current and retired Federal employees. Using TMF funds, this project will implement zero trust solutions across the 5 main zero trust pillars: 1) Identity, 2) Devices and Endpoint, 3) Network and Environment, 4) Application Workload, and 5) Data. This effort will reduce OPM’s attack surface and increase cybersecurity protections, visibility, and the resiliency of their services.
+ 
+This project will enable OPM to fully comply with the mandates established in the Executive Order on “Improving the Nation’s Cybersecurity.” Furthermore, implementing zero trust will provide OPM with additional identity management options for enhanced collaboration with agency partners. The operational benefits of this project include reducing the number of security tools required to monitor and maintain an effective cybersecurity program, cost savings, and improved interagency communications and collaboration efforts. By the end of this project, OPM will achieve significant progress on their journey to achieve an Optimal level in the Cybersecurity and Infrastructure Security Agency (CISA) Zero Trust Maturity Model.
+
+---
+
+## Zero Trust Architecture 
+
+{% include project-data.html path="ed-zero-trust-architecture" %}
+
+This project will allow the U.S. Department of Education (ED) to create and fully implement a zero trust architecture plan across the enterprise to increase the security of the citizen data the department maintains.
+ 
+Using TMF funds, ED will enact a zero trust program over a span of two years that includes strategy, architecture, design, and an implementation roadmap. ED will also establish a catalog of services with Secure Access Service Edge (SASE) and security orchestration, automation and response (SOAR) technologies. The department will stand up an enterprise-wide program management office dedicated to zero trust as well as adopt an advanced architecture across cloud-computing environments in accordance with the developed roadmap. By improving and modernizing cybersecurity technologies the Department will provide more secure and less burdensome user experiences both for employees and the public.
+ 
+---
+
+## Advancing Zero Trust
+
+{% include project-data.html path="gsa-advancing-zero-trust" %}
+
+This project will allow the U.S. General Services Administration (GSA) to modernize legacy network systems and implement an advanced zero trust architecture (ZTA).
+ 
+Using TMF Funds, GSA will advance their cybersecurity architecture by focusing on three blocks: Users and Devices, Networks, and Security Operations. Within the first block, GSA will replace directory designs to meet the newer demands of telework and a multi-domain, hybrid cloud architecture approach with virtualization adhering to enhanced security principles. GSA will also develop a modernized enterprise single-sign-on (SSO) to include new multi-factor authentication options. In the second block, GSA will focus on microsegmentation by leveraging a secure access service edge (SASE) solution and upgrading their public buildings’ security network. Lastly, GSA will adopt increased machine learning and artificial intelligence driven algorithms to help connect diverse data sources and highlight threats while providing security oversight for cyber supply chain risk management and enhancing core security operations centers to include governmentwide public-facing digital services. 
+ 
+By implementing these modernization efforts, GSA will improve user experience through seamless global connection to GSA-managed environments and applications while maintaining ZTA principles. It will improve cybersecurity capabilities to continually verify the security of users, devices, applications, and data as well as achieve broad-based visibility across the GSA ecosystem with enhanced capabilities leveraging automation to manage and respond to threats in real-time.
+ 
+---
+
+## Login Gov
+
+{% include project-data.html path="gsa-login-gov" %}
+
+This project will allow the U.S. General Services Administration (GSA) to further scale the Login.gov shared service with more advanced cybersecurity capabilities, expand identity verification coverage, and expand integrations with agency public-facing digital services.
+ 
+Login.gov is a secure sign-in service used by over 30+ million citizens and businesses to access over 200 services spanning 27 federal agencies. A shared identity service like Login.gov is critical for reducing government costs, providing a seamless user experience to individuals, and ensuring the privacy and protection of user data. While the initial launch and adoption of Login.gov have been successful, additional support is required to expand and accommodate the requirements of all federal agencies, to reach a significantly broader segment of the public, and to achieve a sustainable cost-model without cost being a barrier to entry for individual agencies. Additionally, one of the primary goals of these funds is to provide accessible and equitable capabilities that can be used by underserved and vulnerable populations that traditionally have experienced barriers to online or digital services.
+ 
+The TMF funding will serve three purposes. First, it will increase cybersecurity identification and protection for current and future users. Second, it will add equitable identity verification and in-person options for vulnerable populations. Third, it will grow the Login.gov environment by reducing the barrier to entry for agencies to allow for Login.gov to increase usage to a higher percentage of citizen participation. The operational benefits of this project include increasing identity verification services, reducing fraud, expanding access to digital services for millions of citizens, and reducing government-wide costs at scale.
+
+---
+
+## Southwest Border Technology Integration Program
+
+{% include project-data.html path="dhs-southwest-border-technology" %}
+
+This project allows the U.S. Department of Homeland Security (DHS) to use data and technology to more efficiently, effectively, and humanely process noncitizens encountered at our Southwest Border.
+
+Southwest Border processing involves multiple DHS Components and partner agencies, each operating on independent data systems and many key handoffs still taking place with paper files. The Southwest Border Technology Integration Program (TIP) will provide standardized and secure data sharing across the Federal enterprise and throughout the immigration lifecycle to improve border flow and capacity management and increase the timeliness and fidelity of data used by decision makers. This project will connect disparate systems, improve cross-agency collaboration, and support data-driven decision-making.
+
+---
+
+## MAX Gov Transition
+
+{% include project-data.html path="gsa-max-gov-transition" %}
+
+This project allows the U.S. General Services Administration (GSA) project to enhance MAX.gov to provide a modernized, secure cloud-based solution for cross-agency collaboration, authentication, and other shared services capabilities.
+ 
+MAX.gov usage has significantly increased in the 14 years since its deployment, and dozens of agencies rely on the system for mission critical operations. MAX.gov is currently at a critical juncture where the technology is outdated and increased demand is affecting scalability. The current system is scheduled to be decommissioned in FY23, which would leave customers without the technology resources needed to execute mission functions.
+ 
+The Office of Management and Budget (OMB) transitioned the program to GSA’s Technology Transformation Services (TTS) to continue to support 73 partner agencies while enhancing and expanding collaboration technologies to the rest of the government. The MAX.gov Transition Project Management Office (PMO) within TTS is charged with creating modern cloud-based authentication and collaboration products for government organizations on a fee-for-service basis. This will allow government organizations to continue to deliver on their missions when working across organizational boundaries.
 
 ---
 
