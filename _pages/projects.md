@@ -91,11 +91,9 @@ The TMF funding will serve three purposes. First, it will increase cybersecurity
 
 {% include project-data.html path="dhs-southwest-border-technology" %}
 
-This project allows the U.S. Department of Homeland Security (DHS) to modernize system infrastructures and capacities to meet the current 20-year migration flow highs across the Southwest Border (SWB) while planning for future challenges.
- 
-Recently, there have been record numbers of individuals seeking access to the United States who require intake, review, and processing. DHS and its partner agencies and departments, including Customs and Border Protection (CBP), the Department of Justice (DOJ), and Health and Human Services (HHS), also have an urgent need to meet the logistics of family groups and unaccompanied children at the border while also tackling complications due to the COVID-19 global pandemic. This system will greatly help DHS facilitate efficient and timely review of undocumented individuals, protect unaccompanied children, reunify families, and appropriately manage medical information needed by state and local authorities to continue protections for those individuals released into the U.S.
- 
-The Southwest Border Technology Integration Program (TIP) will provide standardized and secure data sharing across the Federal enterprise and throughout the immigration lifecycle to improve border flow and capacity management, enhance transparency, and expedite processing through automation and technical efficiencies, ultimately resulting in more humane management of the immigrant population. DHS will use modern technology to predict non-citizen flows across the southern land border, and use the data to more accurately communicate operational challenges to the public and external government stakeholders.
+This project allows the U.S. Department of Homeland Security (DHS) to use data and technology to more efficiently, effectively, and humanely process noncitizens encountered at our Southwest Border.
+
+Southwest Border processing involves multiple DHS Components and partner agencies, each operating on independent data systems and many key handoffs still taking place with paper files. The Southwest Border Technology Integration Program (TIP) will provide standardized and secure data sharing across the Federal enterprise and throughout the immigration lifecycle to improve border flow and capacity management and increase the timeliness and fidelity of data used by decision makers. This project will connect disparate systems, improve cross-agency collaboration, and support data-driven decision-making.
 
 ---
 
