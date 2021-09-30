@@ -27,7 +27,7 @@ With Login.gov and MAX.gov, these awards will transform authentication for the f
 - [**Advancing Zero Trust (GSA)**](#advancing-zero-trust)
 - [**Login.gov (GSA)**](#logingov)
 - [**Southwest Border Technology Integration Program (DHS)**](#southwest-border-technology-integration-program)
-- [**MAX.gov Transition (GSA)**](#max-gov-transition)
+- [**MAX.gov Transition (GSA)**](#maxgov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
 - [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
